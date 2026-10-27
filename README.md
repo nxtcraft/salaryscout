@@ -1,6 +1,6 @@
-# Remote Tech Jobs API – Real-Time Salary & Skills Data
+# SalaryScout – Remote Tech Jobs API with Real-Time Salary Data
 
-[![Auto Refresh](https://img.shields.io/badge/data-auto--refreshed%20every%2012h-brightgreen)](https://github.com/nxtcraft/remote-jobs-engine/actions)
+[![Auto Refresh](https://img.shields.io/badge/data-auto--refreshed%20every%2012h-brightgreen)](https://github.com/nxtcraft/salaryscout/actions)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-blue)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.162-009688)](https://fastapi.tiangolo.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -44,8 +44,8 @@ GET /v1/metrics/tags
 
 ```bash
 # Clone the repository
-git clone https://github.com/nxtcraft/remote-jobs-engine.git
-cd remote-jobs-engine
+git clone https://github.com/nxtcraft/salaryscout.git
+cd salaryscout
 
 # Create virtual environment
 python3 -m venv .venv
@@ -75,9 +75,10 @@ All 12 tests cover salary string parsing and API endpoint behavior.
 
 ### Render (Recommended — Free Tier)
 
-1. Fork this repo on GitHub
+1. Fork **https://github.com/nxtcraft/salaryscout** on GitHub
 2. Go to [render.com](https://render.com) → **New Web Service** → connect your fork
 3. Render auto-detects `render.yaml` — click **Deploy**
+4. Your API will be live at e.g. `https://salaryscout.onrender.com/docs`
 
 ### Docker
 
