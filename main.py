@@ -5,6 +5,7 @@ from pathlib import Path
 from typing import Optional
 
 from fastapi import FastAPI, HTTPException, Query
+from fastapi.responses import JSONResponse
 
 DATA_FILE = Path("data/latest_jobs.json")
 
@@ -21,7 +22,7 @@ app = FastAPI(
 )
 
 
-@app.get("/", include_in_schema=False)
+@app.api_route("/", methods=["GET", "HEAD"], include_in_schema=False)
 def root():
     jobs = load_jobs()
     return {
