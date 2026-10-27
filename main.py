@@ -9,10 +9,39 @@ from fastapi import FastAPI, HTTPException, Query
 DATA_FILE = Path("data/latest_jobs.json")
 
 app = FastAPI(
-    title="Remote Jobs API",
-    description="Aggregated remote tech job listings with salary data.",
+    title="Remote Tech Jobs API",
+    description=(
+        "Real-time remote tech job listings with normalized salary data. "
+        "Filter by skill tag (python, react, aws, kubernetes), minimum salary in USD, "
+        "and get ranked skill demand metrics. Auto-refreshed every 12 hours."
+    ),
     version="1.0.0",
+    contact={"name": "Remote Jobs Engine", "url": "https://github.com/nxtcraft/remote-jobs-engine"},
+    license_info={"name": "MIT"},
 )
+
+
+@app.get("/", include_in_schema=False)
+def root():
+    jobs = load_jobs()
+    return {
+        "name": "Remote Tech Jobs API",
+        "description": "Real-time remote tech job listings with salary data. Auto-refreshed every 12 hours.",
+        "version": "1.0.0",
+        "job_count": len(jobs),
+        "endpoints": {
+            "jobs": "/v1/jobs",
+            "tag_metrics": "/v1/metrics/tags",
+            "health": "/health",
+            "docs": "/docs",
+            "openapi": "/openapi.json",
+        },
+        "example_queries": [
+            "/v1/jobs?tag=python&min_salary=120000",
+            "/v1/jobs?tag=react&limit=10",
+            "/v1/metrics/tags",
+        ],
+    }
 
 
 def load_jobs() -> list[dict]:
