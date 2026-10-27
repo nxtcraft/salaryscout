@@ -1,5 +1,57 @@
 [
   {
+    "id": "1137573",
+    "role": "Account Executive",
+    "company": "Huzzle",
+    "location": "Worldwide",
+    "tags": [
+      "saas",
+      "dev",
+      "video",
+      "finance",
+      "exec",
+      "senior",
+      "marketing",
+      "sales",
+      "digital nomad"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-account-executive-huzzle-1137573",
+    "source_date": "2026-10-26T08:00:12+00:00",
+    "ingested_at": "2026-10-27T17:30:08.085456+00:00"
+  },
+  {
+    "id": "1137572",
+    "role": "Senior Software Engineer LATAM",
+    "company": "Wagmo",
+    "location": "Worldwide",
+    "tags": [
+      "dev",
+      "design",
+      "react",
+      "sys admin",
+      "python",
+      "django",
+      "typescript",
+      "senior",
+      "medical",
+      "engineer",
+      "digital nomad"
+    ],
+    "salary": {
+      "min": 100000,
+      "max": 140000,
+      "currency": "USD"
+    },
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-latam-wagmo-1137572",
+    "source_date": "2026-10-26T08:00:06+00:00",
+    "ingested_at": "2026-10-27T17:30:08.085486+00:00"
+  },
+  {
     "id": "1137571",
     "role": "Senior Software Engineer",
     "company": "Klardaten",
@@ -19,7 +71,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-klardaten-1137571",
     "source_date": "2026-10-25T12:34:21+00:00",
-    "ingested_at": "2026-10-27T04:58:45.207855+00:00"
+    "ingested_at": "2026-10-27T17:30:08.085491+00:00"
   },
   {
     "id": "1137569",
@@ -43,7 +95,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-field-phlebotomy-supervisor-northern-california-getlabs-1137569",
     "source_date": "2026-10-24T16:00:04+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208382+00:00"
+    "ingested_at": "2026-10-27T17:30:08.085498+00:00"
   },
   {
     "id": "1137568",
@@ -82,7 +134,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-solutions-engineer-onebrief-1137568",
     "source_date": "2026-10-24T00:00:02+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208394+00:00"
+    "ingested_at": "2026-10-27T17:30:08.085504+00:00"
   },
   {
     "id": "1137563",
@@ -109,7 +161,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-german-speaking-huzzle-1137563",
     "source_date": "2026-10-23T16:00:18+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208401+00:00"
+    "ingested_at": "2026-10-27T17:30:08.085509+00:00"
   },
   {
     "id": "1137562",
@@ -148,7 +200,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-frontend-engineer-b2spin-1137562",
     "source_date": "2026-10-23T16:00:12+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208407+00:00"
+    "ingested_at": "2026-10-27T17:30:08.085515+00:00"
   },
   {
     "id": "1137560",
@@ -181,7 +233,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-accounting-and-implementation-manager-aprio-1137560",
     "source_date": "2026-10-23T08:00:05+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208413+00:00"
+    "ingested_at": "2026-10-27T17:30:08.085525+00:00"
   },
   {
     "id": "1137559",
@@ -201,7 +253,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-travel-support-specialist-aisles-amp-abroad-1137559",
     "source_date": "2026-10-23T00:00:05+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208417+00:00"
+    "ingested_at": "2026-10-27T17:30:08.085531+00:00"
   },
   {
     "id": "1137557",
@@ -233,7 +285,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1137557",
     "source_date": "2026-10-22T12:58:28+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208424+00:00"
+    "ingested_at": "2026-10-27T17:30:08.085536+00:00"
   },
   {
     "id": "1137556",
@@ -265,7 +317,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-finance-manager-management-accountant-d2b-1137556",
     "source_date": "2026-10-22T08:00:04+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208429+00:00"
+    "ingested_at": "2026-10-27T17:30:08.085543+00:00"
   },
   {
     "id": "1137555",
@@ -303,7 +355,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-accounting-finance-manager-political-asylum-lawyers-1137555",
     "source_date": "2026-10-22T00:00:21+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208435+00:00"
+    "ingested_at": "2026-10-27T17:30:08.085551+00:00"
   },
   {
     "id": "1137554",
@@ -329,7 +381,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-accounting-operations-plaid-1137554",
     "source_date": "2026-10-22T00:00:15+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208439+00:00"
+    "ingested_at": "2026-10-27T17:30:08.085555+00:00"
   },
   {
     "id": "1137551",
@@ -350,7 +402,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-duckduckgo-1137551",
     "source_date": "2026-10-21T14:29:21+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208444+00:00"
+    "ingested_at": "2026-10-27T17:30:08.085558+00:00"
   },
   {
     "id": "1137550",
@@ -377,7 +429,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-clinical-data-manager-penumbra-1137550",
     "source_date": "2026-10-21T00:00:06+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208448+00:00"
+    "ingested_at": "2026-10-27T17:30:08.085564+00:00"
   },
   {
     "id": "1137548",
@@ -414,7 +466,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-risk-analyst-pavago-1137548",
     "source_date": "2026-10-20T08:00:05+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208454+00:00"
+    "ingested_at": "2026-10-27T17:30:08.085569+00:00"
   },
   {
     "id": "1137547",
@@ -440,7 +492,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-customer-support-consultant-hospitality-supportyourapp-1137547",
     "source_date": "2026-10-19T16:00:04+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208458+00:00"
+    "ingested_at": "2026-10-27T17:30:08.085572+00:00"
   },
   {
     "id": "1137545",
@@ -462,7 +514,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-sothebys-1137545",
     "source_date": "2026-10-18T19:00:02+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208462+00:00"
+    "ingested_at": "2026-10-27T17:30:08.085575+00:00"
   },
   {
     "id": "1137544",
@@ -485,7 +537,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-rain-1137544",
     "source_date": "2026-10-18T18:00:01+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208466+00:00"
+    "ingested_at": "2026-10-27T17:30:08.085581+00:00"
   },
   {
     "id": "1137542",
@@ -510,7 +562,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-graduate-transport-planner-curtins-1137542",
     "source_date": "2026-10-17T08:00:50+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208471+00:00"
+    "ingested_at": "2026-10-27T17:30:08.085585+00:00"
   },
   {
     "id": "1137541",
@@ -534,7 +586,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-key-account-manager-danish-market-native-speaker-copenhagen-packmatic-gmbh-1137541",
     "source_date": "2026-10-17T08:00:42+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208475+00:00"
+    "ingested_at": "2026-10-27T17:30:08.085588+00:00"
   },
   {
     "id": "1137540",
@@ -579,7 +631,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-technical-account-manager-yuno-1137540",
     "source_date": "2026-10-17T08:00:32+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208482+00:00"
+    "ingested_at": "2026-10-27T17:30:08.085593+00:00"
   },
   {
     "id": "1137539",
@@ -596,7 +648,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-commercial-account-manager-latam-apryse-1137539",
     "source_date": "2026-10-17T08:00:25+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208485+00:00"
+    "ingested_at": "2026-10-27T17:30:08.085598+00:00"
   },
   {
     "id": "1137538",
@@ -619,7 +671,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538",
     "source_date": "2026-10-17T01:09:20+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208494+00:00"
+    "ingested_at": "2026-10-27T17:30:08.085603+00:00"
   },
   {
     "id": "1137537",
@@ -640,7 +692,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-head-of-technology-sanctuary-computer-1137537",
     "source_date": "2026-10-16T17:55:35+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208499+00:00"
+    "ingested_at": "2026-10-27T17:30:08.085607+00:00"
   },
   {
     "id": "1137536",
@@ -665,7 +717,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-director-of-product-management-and-it-operations-self-bill-pro-1137536",
     "source_date": "2026-10-16T16:00:39+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208504+00:00"
+    "ingested_at": "2026-10-27T17:30:08.085611+00:00"
   },
   {
     "id": "1137535",
@@ -691,7 +743,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-sap-re-fx-consultant-yopeso-romania-srl-1137535",
     "source_date": "2026-10-16T16:00:33+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208508+00:00"
+    "ingested_at": "2026-10-27T17:30:08.085615+00:00"
   },
   {
     "id": "1137534",
@@ -716,7 +768,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-apac-python-kodland-1137534",
     "source_date": "2026-10-16T16:00:26+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208513+00:00"
+    "ingested_at": "2026-10-27T17:30:08.085618+00:00"
   },
   {
     "id": "1137531",
@@ -746,7 +798,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-associate-data-scientist-algaecal-1137531",
     "source_date": "2026-10-16T00:00:56+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208517+00:00"
+    "ingested_at": "2026-10-27T17:30:08.085623+00:00"
   },
   {
     "id": "1137530",
@@ -783,7 +835,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-director-of-it-and-workplace-hippocratic-ai-1137530",
     "source_date": "2026-10-16T00:00:50+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208523+00:00"
+    "ingested_at": "2026-10-27T17:30:08.085628+00:00"
   },
   {
     "id": "1137529",
@@ -805,7 +857,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-customer-success-associate-voltus-1137529",
     "source_date": "2026-10-16T00:00:43+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208529+00:00"
+    "ingested_at": "2026-10-27T17:30:08.085631+00:00"
   },
   {
     "id": "1137528",
@@ -828,7 +880,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-account-manager-mid-market-allego-1137528",
     "source_date": "2026-10-15T16:00:21+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208537+00:00"
+    "ingested_at": "2026-10-27T17:30:08.085636+00:00"
   },
   {
     "id": "1137527",
@@ -870,7 +922,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527",
     "source_date": "2026-10-15T16:00:03+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208544+00:00"
+    "ingested_at": "2026-10-27T17:30:08.085643+00:00"
   },
   {
     "id": "1137525",
@@ -903,7 +955,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-director-us-tax-accounting-35344-manila-recruitment-1137525",
     "source_date": "2026-10-15T08:00:17+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208549+00:00"
+    "ingested_at": "2026-10-27T17:30:08.085647+00:00"
   },
   {
     "id": "1137524",
@@ -929,7 +981,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-project-and-quality-administrator-work-from-home-dayshift-twoconnect-1137524",
     "source_date": "2026-10-15T08:00:11+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208558+00:00"
+    "ingested_at": "2026-10-27T17:30:08.085651+00:00"
   },
   {
     "id": "1137523",
@@ -955,7 +1007,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-sr-react-native-somnio-software-1137523",
     "source_date": "2026-10-15T00:00:19+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208563+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086349+00:00"
   },
   {
     "id": "1137522",
@@ -974,7 +1026,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-contracts-manager-federal-akicita-federal-llc-1137522",
     "source_date": "2026-10-15T00:00:13+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208567+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086359+00:00"
   },
   {
     "id": "1137521",
@@ -993,7 +1045,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-federal-account-manager-client-relationships-akicita-federal-llc-1137521",
     "source_date": "2026-10-15T00:00:05+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208571+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086364+00:00"
   },
   {
     "id": "1137514",
@@ -1016,7 +1068,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-payment-operations-specialist-utopia-1137514",
     "source_date": "2026-10-14T16:00:05+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208575+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086368+00:00"
   },
   {
     "id": "1137513",
@@ -1034,7 +1086,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-ai-trainer-imerit-technology-1137513",
     "source_date": "2026-10-14T14:44:21+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208579+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086372+00:00"
   },
   {
     "id": "1137512",
@@ -1055,7 +1107,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-customer-support-specialist-ultimate-marketing-1137512",
     "source_date": "2026-10-14T01:31:49+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208583+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086375+00:00"
   },
   {
     "id": "1137510",
@@ -1081,7 +1133,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-principal-product-manager-strategic-initiatives-thyme-care-1137510",
     "source_date": "2026-10-13T08:00:11+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208588+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086380+00:00"
   },
   {
     "id": "1137509",
@@ -1102,7 +1154,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-client-engagement-representative-work-from-home-ao-garcia-agency-1137509",
     "source_date": "2026-10-13T08:00:04+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208592+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086383+00:00"
   },
   {
     "id": "1137508",
@@ -1145,7 +1197,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-principal-software-engineer-vytalize-health-1137508",
     "source_date": "2026-10-13T00:00:18+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208598+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086392+00:00"
   },
   {
     "id": "1137507",
@@ -1177,7 +1229,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-video-editor-bluetuskr-1137507",
     "source_date": "2026-10-13T00:00:06+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208603+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086396+00:00"
   },
   {
     "id": "1137506",
@@ -1194,7 +1246,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-technical-customer-support-quickmail-1137506",
     "source_date": "2026-10-12T16:20:10+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208607+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086399+00:00"
   },
   {
     "id": "1137498",
@@ -1228,7 +1280,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-sales-executive-central-region-simspace-corporation-1137498",
     "source_date": "2026-10-12T00:00:04+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208613+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086403+00:00"
   },
   {
     "id": "1137497",
@@ -1255,7 +1307,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-product-design-director-midnite-1137497",
     "source_date": "2026-10-11T16:00:03+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208617+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086407+00:00"
   },
   {
     "id": "1137488",
@@ -1278,7 +1330,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-marketing-and-sales-administrator-hunt-st-1137488",
     "source_date": "2026-10-11T08:00:06+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208621+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086410+00:00"
   },
   {
     "id": "1137482",
@@ -1303,7 +1355,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-technical-account-manager-deuna-1137482",
     "source_date": "2026-10-11T00:00:05+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208625+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086414+00:00"
   },
   {
     "id": "1137481",
@@ -1332,7 +1384,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-manager-clinical-data-management-edetek-1137481",
     "source_date": "2026-10-10T08:00:08+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208631+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086418+00:00"
   },
   {
     "id": "1137480",
@@ -1361,7 +1413,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-junior-sales-development-representative-it-industry-huzzle-1137480",
     "source_date": "2026-10-10T00:00:17+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208635+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086424+00:00"
   },
   {
     "id": "1137479",
@@ -1395,7 +1447,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-academic-dean-for-miaprep-online-academy-of-ohio-miaplaza-1137479",
     "source_date": "2026-10-10T00:00:11+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208641+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086430+00:00"
   },
   {
     "id": "1137478",
@@ -1430,7 +1482,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-product-engineering-lead-tether-operations-limited-1137478",
     "source_date": "2026-10-10T00:00:05+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208649+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086435+00:00"
   },
   {
     "id": "1137475",
@@ -1459,7 +1511,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-react-full-stack-developer-lemon-io-1137475",
     "source_date": "2026-10-09T13:09:18+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208655+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086441+00:00"
   },
   {
     "id": "1137474",
@@ -1492,7 +1544,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-product-design-lead-fuel50-1137474",
     "source_date": "2026-10-09T08:00:04+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208660+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086445+00:00"
   },
   {
     "id": "1137469",
@@ -1509,7 +1561,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-telefondienst-fur-tierarztpraxis-neuruppin-o-tierarzt-plus-partner-1137469",
     "source_date": "2026-10-07T16:00:05+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208664+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086448+00:00"
   },
   {
     "id": "1137466",
@@ -1530,7 +1582,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-project-manager-spiralyze-1137466",
     "source_date": "2026-10-06T19:35:42+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208668+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086451+00:00"
   },
   {
     "id": "1137465",
@@ -1550,7 +1602,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-platform-and-integration-engineer-security-telemetry-redmimicry-1137465",
     "source_date": "2026-10-05T13:00:02+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208673+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086455+00:00"
   },
   {
     "id": "1137463",
@@ -1578,7 +1630,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-federal-business-development-director-fortanix-1137463",
     "source_date": "2026-10-04T16:00:03+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208680+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086460+00:00"
   },
   {
     "id": "1137461",
@@ -1597,7 +1649,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-head-of-operations-leverage-live-local-1137461",
     "source_date": "2026-10-03T20:20:32+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208684+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086463+00:00"
   },
   {
     "id": "1137451",
@@ -1615,7 +1667,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-enterprise-sales-development-representative-toptal-1137451",
     "source_date": "2026-09-30T18:24:42+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208688+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086467+00:00"
   },
   {
     "id": "1137439",
@@ -1632,7 +1684,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-client-advisor-toptal-1137439",
     "source_date": "2026-09-30T16:13:39+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208691+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086470+00:00"
   },
   {
     "id": "1137434",
@@ -1660,7 +1712,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-director-payment-integrity-siho-insurance-services-1137434",
     "source_date": "2026-09-26T16:00:26+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208697+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086474+00:00"
   },
   {
     "id": "1137427",
@@ -1680,7 +1732,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-software-engineer-prenosis-1137427",
     "source_date": "2026-09-23T14:00:02+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208700+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086477+00:00"
   },
   {
     "id": "1137421",
@@ -1708,7 +1760,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-technical-product-manager-ai-stockbroking-app-bjak-1137421",
     "source_date": "2026-09-23T00:00:10+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208708+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086481+00:00"
   },
   {
     "id": "1137414",
@@ -1739,7 +1791,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-growth-product-manager-ai-native-magic-eden-1137414",
     "source_date": "2026-09-22T00:00:07+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208712+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086487+00:00"
   },
   {
     "id": "1137412",
@@ -1765,7 +1817,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-people-operations-coordinator-ashby-1137412",
     "source_date": "2026-09-21T16:00:11+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208722+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086491+00:00"
   },
   {
     "id": "1137410",
@@ -1800,7 +1852,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410",
     "source_date": "2026-09-20T00:00:25+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208727+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086495+00:00"
   },
   {
     "id": "1137407",
@@ -1832,7 +1884,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-vp-pricing-packaging-delinea-1137407",
     "source_date": "2026-09-19T00:00:16+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208732+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086503+00:00"
   },
   {
     "id": "1137400",
@@ -1851,7 +1903,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
     "source_date": "2026-09-16T19:00:02+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208744+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086506+00:00"
   },
   {
     "id": "1137394",
@@ -1879,7 +1931,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-sr-solutions-architect-extrahop-1137394",
     "source_date": "2026-09-15T00:00:26+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208756+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086511+00:00"
   },
   {
     "id": "1137388",
@@ -1906,7 +1958,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-technical-product-lead-ai-finance-app-bjak-1137388",
     "source_date": "2026-09-12T16:00:10+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208762+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086515+00:00"
   },
   {
     "id": "1137387",
@@ -1926,7 +1978,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-software-engineer-mirantis-1137387",
     "source_date": "2026-09-12T14:00:03+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208767+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086518+00:00"
   },
   {
     "id": "1137381",
@@ -1952,7 +2004,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-marketing-student-assistant-copenhagen-optimization-1137381",
     "source_date": "2026-09-11T08:00:08+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208771+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086523+00:00"
   },
   {
     "id": "1137379",
@@ -1971,7 +2023,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-communications-officer-strategic-communications-givewell-1137379",
     "source_date": "2026-09-11T00:00:23+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208775+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086526+00:00"
   },
   {
     "id": "1137375",
@@ -1990,7 +2042,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-external-data-specialist-eclinical-solutions-1137375",
     "source_date": "2026-09-10T16:00:15+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208779+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086529+00:00"
   },
   {
     "id": "1137373",
@@ -2015,7 +2067,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-business-development-manager-libertex-group-1137373",
     "source_date": "2026-09-08T14:57:50+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208783+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086535+00:00"
   },
   {
     "id": "1137374",
@@ -2037,7 +2089,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-quality-dispense-technician-north-thatchers-cider-1137374",
     "source_date": "2026-09-08T13:51:19+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208787+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086538+00:00"
   },
   {
     "id": "1137224",
@@ -2056,7 +2108,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-ai-engineer-data-apis-benzinga-1137224",
     "source_date": "2026-08-30T21:00:01+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208792+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086541+00:00"
   },
   {
     "id": "1137162",
@@ -2074,7 +2126,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-principal-engineer-the-ai-whistleblower-initiative-1137162",
     "source_date": "2026-08-27T09:00:02+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208796+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086545+00:00"
   },
   {
     "id": "1137156",
@@ -2100,7 +2152,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-level-designer-blackbird-interactive-1137156",
     "source_date": "2026-08-27T00:00:23+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208800+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086551+00:00"
   },
   {
     "id": "1137155",
@@ -2129,7 +2181,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-oracle-fusion-cloud-lead-logistics-supply-chain-management-tessera-labs-1137155",
     "source_date": "2026-08-27T00:00:17+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208806+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086555+00:00"
   },
   {
     "id": "1137194",
@@ -2155,7 +2207,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-renewables-project-scheduler-transportation-partners-amp-logistics-1137194",
     "source_date": "2026-08-25T21:34:13+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208810+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086559+00:00"
   },
   {
     "id": "1137114",
@@ -2176,7 +2228,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1137114",
     "source_date": "2026-08-25T07:00:03+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208814+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086562+00:00"
   },
   {
     "id": "1137072",
@@ -2203,7 +2255,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-specialist-global-qms-orca-bio-1137072",
     "source_date": "2026-08-22T16:00:15+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208819+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086565+00:00"
   },
   {
     "id": "1137062",
@@ -2237,7 +2289,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062",
     "source_date": "2026-08-22T00:00:12+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208829+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086571+00:00"
   },
   {
     "id": "1136987",
@@ -2259,7 +2311,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-consultant-implementation-engineer-harbor-1136987",
     "source_date": "2026-08-20T00:00:15+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208833+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086576+00:00"
   },
   {
     "id": "1136950",
@@ -2282,7 +2334,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-marketing-operations-specialist-engine-1136950",
     "source_date": "2026-08-18T16:00:57+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208836+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086579+00:00"
   },
   {
     "id": "1136949",
@@ -2312,7 +2364,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-team-lead-education-chaos-1136949",
     "source_date": "2026-08-18T16:00:30+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208841+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086584+00:00"
   },
   {
     "id": "1136948",
@@ -2337,7 +2389,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
     "source_date": "2026-08-18T16:00:22+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208845+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086589+00:00"
   },
   {
     "id": "1136937",
@@ -2362,7 +2414,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
     "source_date": "2026-08-18T08:00:07+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208852+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086594+00:00"
   },
   {
     "id": "1136861",
@@ -2386,7 +2438,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-hotline-paralegal-legal-services-nyc-1136861",
     "source_date": "2026-08-17T16:00:38+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208857+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086598+00:00"
   },
   {
     "id": "1136844",
@@ -2409,7 +2461,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-contracts-and-budget-associate-precision-medicine-group-1136844",
     "source_date": "2026-08-17T08:00:35+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208865+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086601+00:00"
   },
   {
     "id": "1136841",
@@ -2442,7 +2494,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-lead-product-designer-highlevel-1136841",
     "source_date": "2026-08-17T08:00:03+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208875+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086605+00:00"
   },
   {
     "id": "1136798",
@@ -2467,7 +2519,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-member-of-technical-staff-engineering-physical-superintelligence-1136798",
     "source_date": "2026-08-16T00:00:23+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208880+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086610+00:00"
   },
   {
     "id": "1136797",
@@ -2501,7 +2553,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-strategic-account-executive-lodging-freedompay-1136797",
     "source_date": "2026-08-16T00:00:16+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208885+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086614+00:00"
   },
   {
     "id": "1136796",
@@ -2538,7 +2590,7 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-staff-software-development-engineer-sdm-delinea-1136796",
     "source_date": "2026-08-16T00:00:10+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208891+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086619+00:00"
   },
   {
     "id": "1136795",
@@ -2568,57 +2620,6 @@
     },
     "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-case-execution-pivotal-health-1136795",
     "source_date": "2026-08-16T00:00:03+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208895+00:00"
-  },
-  {
-    "id": "1136701",
-    "role": "QA Tester Entry Level",
-    "company": "Ace IT Careers",
-    "location": "Remote",
-    "tags": [
-      "testing",
-      "dev",
-      "analyst",
-      "quality assurance",
-      "digital nomad"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-qa-tester-entry-level-ace-it-careers-1136701",
-    "source_date": "2026-08-15T00:00:25+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208900+00:00"
-  },
-  {
-    "id": "1136687",
-    "role": "Brand Protection & Marketplace Compliance Analyst",
-    "company": "MultiplyMii",
-    "location": "Worldwide",
-    "tags": [
-      "analyst",
-      "amazon",
-      "salesforce",
-      "technical",
-      "recruiter",
-      "customer support",
-      "marketing",
-      "speech",
-      "exec",
-      "content writing",
-      "excel",
-      "sales",
-      "ecommerce",
-      "full time"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-brand-protection-marketplace-compliance-analyst-multiplymii-1136687",
-    "source_date": "2026-08-14T16:00:49+00:00",
-    "ingested_at": "2026-10-27T04:58:45.208907+00:00"
+    "ingested_at": "2026-10-27T17:30:08.086624+00:00"
   }
 ]
