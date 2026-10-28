@@ -179,8 +179,10 @@ def health():
 @app.get("/v1/jobs")
 def get_jobs(
     tag: Optional[str] = Query(None, description="Filter by tag (case-insensitive)"),
-    min_salary: Optional[int] = Query(None, description="Minimum salary filter"),
+    min_salary: Optional[int] = Query(None, description="Minimum salary filter in USD"),
+    location: Optional[str] = Query(None, description="Filter by location (case-insensitive)"),
     limit: int = Query(25, ge=1, le=100, description="Max results (1-100)"),
+    offset: int = Query(0, ge=0, description="Pagination offset"),
 ):
     jobs = load_jobs()
     if not jobs and not DATA_FILE.exists():
@@ -197,7 +199,19 @@ def get_jobs(
             and j["salary"]["min"] >= min_salary
         ]
 
-    return {"total": len(jobs), "results": jobs[:limit]}
+    if location:
+        loc_lower = location.lower()
+        jobs = [j for j in jobs if loc_lower in j.get("location", "").lower()]
+
+    total = len(jobs)
+    page = jobs[offset: offset + limit]
+    return {
+        "total": total,
+        "offset": offset,
+        "limit": limit,
+        "has_more": offset + limit < total,
+        "results": page,
+    }
 
 
 @app.get("/v1/metrics/tags")

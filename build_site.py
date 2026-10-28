@@ -1,10 +1,9 @@
 """Build a static SEO-optimized web directory from latest_jobs.json."""
 
 import json
-import os
 import statistics
 from pathlib import Path
-from datetime import datetime
+from datetime import datetime, timezone
 
 DATA_FILE = Path("data/latest_jobs.json")
 DIST_DIR = Path("dist")
@@ -81,7 +80,7 @@ def build_index(jobs):
     med = median_salary(jobs)
     salary_jobs = [j for j in jobs if j.get("salary", {}).get("min")]
     tags = top_tags(jobs)
-    updated = datetime.utcnow().strftime("%B %d, %Y at %H:%M UTC")
+    updated = datetime.now(timezone.utc).strftime("%B %d, %Y at %H:%M UTC")
 
     item_list_schema = {
         "@context": "https://schema.org",
@@ -317,6 +316,23 @@ def main():
     index_html = build_index(jobs)
     (DIST_DIR / "index.html").write_text(index_html, encoding="utf-8")
 
+    print("Building 404.html...")
+    (DIST_DIR / "404.html").write_text("""<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="UTF-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>Page Not Found – SalaryScout</title>
+<style>
+body{font-family:-apple-system,sans-serif;background:#0f1117;color:#f1f5f9;display:flex;align-items:center;justify-content:center;min-height:100vh;text-align:center;padding:24px}
+h1{font-size:3rem;font-weight:700;color:#6366f1;margin-bottom:12px}
+p{color:#94a3b8;margin-bottom:28px}
+a{display:inline-block;background:#6366f1;color:#fff;padding:10px 24px;border-radius:8px;text-decoration:none;font-weight:600}
+</style></head>
+<body><div>
+<h1>404</h1>
+<p>Page not found. Check out the job directory below.</p>
+<a href="/salaryscout/">Back to SalaryScout →</a>
+</div></body></html>""", encoding="utf-8")
+
     # robots.txt and sitemap
     (DIST_DIR / "robots.txt").write_text(
         "User-agent: *\nAllow: /\nSitemap: https://nxtcraft.github.io/salaryscout/sitemap.xml\n"
@@ -325,7 +341,7 @@ def main():
         '<?xml version="1.0" encoding="UTF-8"?>\n'
         '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
         "  <url><loc>https://nxtcraft.github.io/salaryscout/</loc>"
-        f"<lastmod>{datetime.utcnow().strftime('%Y-%m-%d')}</lastmod>"
+        f"<lastmod>{datetime.now(timezone.utc).strftime('%Y-%m-%d')}</lastmod>"
         "<changefreq>daily</changefreq><priority>1.0</priority></url>\n"
         "</urlset>\n"
     )
