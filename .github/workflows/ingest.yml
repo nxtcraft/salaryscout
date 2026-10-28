@@ -5,11 +5,22 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
 jobs:
-  ingest:
+  ingest-and-deploy:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
       - name: Checkout code
@@ -26,6 +37,9 @@ jobs:
       - name: Run ingestion pipeline
         run: python pipeline.py
 
+      - name: Build static site
+        run: python build_site.py
+
       - name: Commit and push updated data
         run: |
           git config user.name "github-actions[bot]"
@@ -33,3 +47,12 @@ jobs:
           git add data/latest_jobs.json
           git diff --cached --quiet || git commit -m "chore: auto-refresh remote data [skip ci]"
           git push
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist/
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
