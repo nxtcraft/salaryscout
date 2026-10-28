@@ -5,6 +5,7 @@ from pathlib import Path
 from typing import Optional
 
 from fastapi import FastAPI, HTTPException, Query
+from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse, HTMLResponse
 
 DATA_FILE = Path("data/latest_jobs.json")
@@ -19,6 +20,13 @@ app = FastAPI(
     version="1.0.0",
     contact={"name": "SalaryScout", "url": "https://github.com/nxtcraft/salaryscout"},
     license_info={"name": "MIT"},
+)
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_methods=["GET"],
+    allow_headers=["*"],
 )
 
 
