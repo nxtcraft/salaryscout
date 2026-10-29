@@ -1,1195 +1,1213 @@
 [
   {
-    "id": "1137595",
-    "role": "z",
-    "company": "y",
-    "location": "r",
-    "tags": [],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-z-y-1137595",
-    "source_date": "2026-10-28T15:49:49+00:00",
-    "ingested_at": "2026-10-29T18:02:41.708410+00:00"
-  },
-  {
-    "id": "1137594",
-    "role": "z",
-    "company": "y",
-    "location": "r",
-    "tags": [],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-z-y-1137594",
-    "source_date": "2026-10-28T15:49:45+00:00",
-    "ingested_at": "2026-10-29T18:02:41.708438+00:00"
-  },
-  {
-    "id": "1137593",
-    "role": "z",
-    "company": "y",
-    "location": "r",
-    "tags": [],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-z-y-1137593",
-    "source_date": "2026-10-28T15:49:33+00:00",
-    "ingested_at": "2026-10-29T18:02:41.708450+00:00"
-  },
-  {
-    "id": "1137573",
-    "role": "Account Executive",
-    "company": "Huzzle",
-    "location": "Worldwide",
+    "id": "seed-junior-remote-ok",
+    "role": "Junior Python Developer",
+    "company": "Remote.com",
+    "location": "Remote (Worldwide)",
     "tags": [
-      "saas",
-      "dev",
-      "video",
-      "finance",
-      "exec",
-      "senior",
-      "marketing",
-      "sales",
-      "digital nomad"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-account-executive-huzzle-1137573",
-    "source_date": "2026-10-26T08:00:12+00:00",
-    "ingested_at": "2026-10-29T18:02:41.708459+00:00"
-  },
-  {
-    "id": "1137572",
-    "role": "Senior Software Engineer LATAM",
-    "company": "Wagmo",
-    "location": "Worldwide",
-    "tags": [
-      "dev",
-      "design",
-      "react",
-      "sys admin",
       "python",
       "django",
-      "typescript",
-      "senior",
-      "medical",
-      "engineer",
-      "digital nomad"
+      "api",
+      "junior"
     ],
     "salary": {
-      "min": 100000,
-      "max": 140000,
+      "min": 60000,
+      "max": 90000,
       "currency": "USD"
     },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-latam-wagmo-1137572",
-    "source_date": "2026-10-26T08:00:06+00:00",
-    "ingested_at": "2026-10-29T18:02:41.708467+00:00"
+    "apply_url": "https://remote.com/careers",
+    "source_date": "2024-10-09",
+    "ingested_at": "2026-10-29T19:40:52.266962+00:00"
   },
   {
-    "id": "1137571",
-    "role": "Senior Software Engineer",
-    "company": "Klardaten",
-    "location": "Worldwide",
+    "id": "seed-frontend-linear",
+    "role": "Senior Frontend Engineer",
+    "company": "Linear",
+    "location": "Remote (US/EU)",
     "tags": [
-      "dev",
-      "senior",
-      "javascript",
       "typescript",
-      "full stack",
-      "api"
+      "react",
+      "graphql"
     ],
     "salary": {
-      "min": 80000,
-      "max": 100000,
-      "currency": "USD"
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-klardaten-1137571",
-    "source_date": "2026-10-25T12:34:21+00:00",
-    "ingested_at": "2026-10-29T18:02:41.708472+00:00"
-  },
-  {
-    "id": "1137569",
-    "role": "Field Phlebotomy Supervisor Northern California",
-    "company": "Getlabs",
-    "location": "Remote",
-    "tags": [
-      "supervisor",
-      "testing",
-      "marketing",
-      "exec",
-      "mobile",
-      "ops",
-      "medical",
-      "full time"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-field-phlebotomy-supervisor-northern-california-getlabs-1137569",
-    "source_date": "2026-10-24T16:00:04+00:00",
-    "ingested_at": "2026-10-29T18:02:41.708478+00:00"
-  },
-  {
-    "id": "1137568",
-    "role": "Solutions Engineer",
-    "company": "Onebrief",
-    "location": "Worldwide",
-    "tags": [
-      "design",
-      "ansible",
-      "grafana",
-      "sys admin",
-      "infosec",
-      "python",
-      "docker",
-      "technical",
-      "recruiter",
-      "customer support",
-      "dev",
-      "testing",
-      "marketing",
-      "travel",
-      "finance",
-      "cloud",
-      "exec",
-      "senior",
-      "ops",
-      "sales",
-      "golang",
-      "engineer",
-      "digital nomad"
-    ],
-    "salary": {
-      "min": 180000,
+      "min": 150000,
       "max": 220000,
       "currency": "USD"
     },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-solutions-engineer-onebrief-1137568",
-    "source_date": "2026-10-24T00:00:02+00:00",
-    "ingested_at": "2026-10-29T18:02:41.708490+00:00"
+    "apply_url": "https://linear.app/careers",
+    "source_date": "2024-10-08",
+    "ingested_at": "2026-10-29T19:40:52.266962+00:00"
   },
   {
-    "id": "1137563",
-    "role": "Sales Development Representative German Speaking",
-    "company": "Huzzle",
-    "location": "Worldwide",
+    "id": "seed-react-shopify",
+    "role": "Senior React Developer",
+    "company": "Shopify",
+    "location": "Remote (Worldwide)",
     "tags": [
-      "saas",
-      "sys admin",
-      "dev",
-      "marketing",
-      "finance",
-      "c",
-      "exec",
-      "sales",
-      "medical",
-      "ecommerce",
-      "digital nomad"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-german-speaking-huzzle-1137563",
-    "source_date": "2026-10-23T16:00:18+00:00",
-    "ingested_at": "2026-10-29T18:02:41.708501+00:00"
-  },
-  {
-    "id": "1137562",
-    "role": "Senior Frontend Engineer",
-    "company": "B2spin",
-    "location": "Worldwide",
-    "tags": [
-      "front end",
-      "design",
       "react",
-      "embedded",
-      "sys admin",
-      "game dev",
-      "technical",
-      "dev",
-      "testing",
-      "marketing",
-      "web dev",
-      "javascript",
-      "finance",
-      "css",
-      "html",
       "typescript",
-      "seo",
-      "mobile",
-      "senior",
-      "stats",
-      "engineer",
-      "backend",
-      "digital nomad"
+      "graphql",
+      "node"
     ],
     "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-frontend-engineer-b2spin-1137562",
-    "source_date": "2026-10-23T16:00:12+00:00",
-    "ingested_at": "2026-10-29T18:02:41.708509+00:00"
-  },
-  {
-    "id": "1137560",
-    "role": "Accounting and Implementation Manager",
-    "company": "Aprio",
-    "location": "Worldwide",
-    "tags": [
-      "exec",
-      "accounting",
-      "design",
-      "sys admin",
-      "education",
-      "consulting",
-      "customer support",
-      "testing",
-      "marketing",
-      "payroll",
-      "finance",
-      "ops",
-      "stats",
-      "sales",
-      "golang",
-      "full time",
-      "digital nomad"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-accounting-and-implementation-manager-aprio-1137560",
-    "source_date": "2026-10-23T08:00:05+00:00",
-    "ingested_at": "2026-10-29T18:02:41.708519+00:00"
-  },
-  {
-    "id": "1137559",
-    "role": "Travel Support Specialist",
-    "company": "Aisles &amp; Abroad",
-    "location": "Seattle, Washington",
-    "tags": [
-      "travel",
-      "education",
-      "customer support",
-      "non tech"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-travel-support-specialist-aisles-amp-abroad-1137559",
-    "source_date": "2026-10-23T00:00:05+00:00",
-    "ingested_at": "2026-10-29T18:02:41.708523+00:00"
-  },
-  {
-    "id": "1137557",
-    "role": "Senior DevOps Engineer",
-    "company": "Lemon.io",
-    "location": "Worldwide",
-    "tags": [
-      "devops",
-      "engineer",
-      "dev",
-      "python",
-      "golang",
-      "aws",
-      "gcp",
-      "kubernetes",
-      "sql",
-      "linux",
-      "ansible",
-      "ai",
-      "full time",
-      "full stack",
-      "remote",
-      "remote work"
-    ],
-    "salary": {
-      "min": 50000,
-      "max": 150000,
+      "min": 140000,
+      "max": 210000,
       "currency": "USD"
     },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1137557",
-    "source_date": "2026-10-22T12:58:28+00:00",
-    "ingested_at": "2026-10-29T18:02:41.708529+00:00"
+    "apply_url": "https://shopify.com/careers",
+    "source_date": "2024-10-07",
+    "ingested_at": "2026-10-29T19:40:52.266962+00:00"
   },
   {
-    "id": "1137556",
-    "role": "Senior Finance Manager Management Accountant",
-    "company": "D2B",
-    "location": "Worldwide",
+    "id": "seed-data-airbnb",
+    "role": "Senior Data Engineer",
+    "company": "Airbnb",
+    "location": "Remote (US)",
     "tags": [
-      "exec",
-      "accounting",
-      "saas",
-      "technical",
-      "customer support",
-      "dev",
-      "marketing",
-      "controller",
-      "payroll",
-      "finance",
-      "education",
-      "php",
-      "senior",
-      "ops",
-      "excel",
-      "digital nomad"
+      "python",
+      "spark",
+      "airflow",
+      "data"
     ],
     "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
+      "min": 170000,
+      "max": 250000,
+      "currency": "USD"
     },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-finance-manager-management-accountant-d2b-1137556",
-    "source_date": "2026-10-22T08:00:04+00:00",
-    "ingested_at": "2026-10-29T18:02:41.708535+00:00"
+    "apply_url": "https://careers.airbnb.com",
+    "source_date": "2024-10-06",
+    "ingested_at": "2026-10-29T19:40:52.266962+00:00"
   },
   {
-    "id": "1137555",
-    "role": "Accounting & Finance Manager",
-    "company": "Political Asylum Lawyers",
-    "location": "Worldwide",
+    "id": "seed-backend-stripe",
+    "role": "Senior Backend Engineer",
+    "company": "Stripe",
+    "location": "Remote (US/EU)",
     "tags": [
-      "exec",
-      "accounting",
-      "design",
-      "sys admin",
-      "infosec",
-      "education",
-      "technical",
-      "customer support",
-      "dev",
-      "testing",
-      "marketing",
-      "controller",
-      "payroll",
-      "finance",
-      "microsoft",
-      "content writing",
-      "senior",
-      "ops",
-      "excel",
-      "legal",
-      "medical",
-      "digital nomad"
+      "ruby",
+      "go",
+      "distributed",
+      "payments"
     ],
     "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
+      "min": 180000,
+      "max": 280000,
+      "currency": "USD"
     },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-accounting-finance-manager-political-asylum-lawyers-1137555",
-    "source_date": "2026-10-22T00:00:21+00:00",
-    "ingested_at": "2026-10-29T18:02:41.708541+00:00"
+    "apply_url": "https://stripe.com/jobs",
+    "source_date": "2024-10-05",
+    "ingested_at": "2026-10-29T19:40:52.266962+00:00"
   },
   {
-    "id": "1137554",
-    "role": "Accounting Operations",
-    "company": "Plaid",
-    "location": "Worldwide",
+    "id": "seed-eng-ramp",
+    "role": "Software Engineer, Fintech",
+    "company": "Ramp",
+    "location": "Remote (US)",
     "tags": [
-      "accounting",
-      "technical",
-      "customer support",
-      "marketing",
-      "finance",
-      "c",
-      "exec",
-      "ops",
-      "legal",
-      "recruiter"
+      "python",
+      "react",
+      "fintech",
+      "postgresql"
+    ],
+    "salary": {
+      "min": 160000,
+      "max": 240000,
+      "currency": "USD"
+    },
+    "apply_url": "https://ramp.com/careers",
+    "source_date": "2024-10-04",
+    "ingested_at": "2026-10-29T19:40:52.266962+00:00"
+  },
+  {
+    "id": "seed-sre-datadog",
+    "role": "Senior Site Reliability Engineer",
+    "company": "Datadog",
+    "location": "Remote (US/EU)",
+    "tags": [
+      "go",
+      "kubernetes",
+      "prometheus",
+      "aws"
+    ],
+    "salary": {
+      "min": 170000,
+      "max": 260000,
+      "currency": "USD"
+    },
+    "apply_url": "https://datadoghq.com/careers",
+    "source_date": "2024-10-03",
+    "ingested_at": "2026-10-29T19:40:52.266962+00:00"
+  },
+  {
+    "id": "seed-backend-cloudflare",
+    "role": "Systems Engineer",
+    "company": "Cloudflare",
+    "location": "Remote (US)",
+    "tags": [
+      "rust",
+      "go",
+      "networking",
+      "distributed"
+    ],
+    "salary": {
+      "min": 160000,
+      "max": 240000,
+      "currency": "USD"
+    },
+    "apply_url": "https://cloudflare.com/careers",
+    "source_date": "2024-10-02",
+    "ingested_at": "2026-10-29T19:40:52.266962+00:00"
+  },
+  {
+    "id": "seed-ml-eng-anthropic",
+    "role": "ML Engineer",
+    "company": "Anthropic",
+    "location": "Remote (US)",
+    "tags": [
+      "python",
+      "pytorch",
+      "ml",
+      "llm"
+    ],
+    "salary": {
+      "min": 200000,
+      "max": 350000,
+      "currency": "USD"
+    },
+    "apply_url": "https://anthropic.com/careers",
+    "source_date": "2024-10-01",
+    "ingested_at": "2026-10-29T19:40:52.266962+00:00"
+  },
+  {
+    "id": "seed-ai-researcher-openai",
+    "role": "AI Research Scientist",
+    "company": "OpenAI",
+    "location": "Remote (US)",
+    "tags": [
+      "python",
+      "pytorch",
+      "research",
+      "llm"
+    ],
+    "salary": {
+      "min": 250000,
+      "max": 400000,
+      "currency": "USD"
+    },
+    "apply_url": "https://openai.com/careers",
+    "source_date": "2024-10-01",
+    "ingested_at": "2026-10-29T19:40:52.266962+00:00"
+  },
+  {
+    "id": "seed-security-wiz",
+    "role": "Senior Security Engineer",
+    "company": "Wiz",
+    "location": "Remote (US)",
+    "tags": [
+      "security",
+      "cloud",
+      "aws",
+      "python"
+    ],
+    "salary": {
+      "min": 180000,
+      "max": 270000,
+      "currency": "USD"
+    },
+    "apply_url": "https://wiz.io/careers",
+    "source_date": "2024-10-01",
+    "ingested_at": "2026-10-29T19:40:52.266962+00:00"
+  },
+  {
+    "id": "seed-go-tailscale",
+    "role": "Software Engineer (Go)",
+    "company": "Tailscale",
+    "location": "Remote (Worldwide)",
+    "tags": [
+      "go",
+      "networking",
+      "wireguard",
+      "security"
+    ],
+    "salary": {
+      "min": 150000,
+      "max": 220000,
+      "currency": "USD"
+    },
+    "apply_url": "https://tailscale.com/careers",
+    "source_date": "2024-09-30",
+    "ingested_at": "2026-10-29T19:40:52.266962+00:00"
+  },
+  {
+    "id": "seed-eng-zapier",
+    "role": "Software Engineer, Platform",
+    "company": "Zapier",
+    "location": "Remote (Worldwide)",
+    "tags": [
+      "python",
+      "django",
+      "aws",
+      "automation"
     ],
     "salary": {
       "min": 110000,
       "max": 170000,
       "currency": "USD"
     },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-accounting-operations-plaid-1137554",
-    "source_date": "2026-10-22T00:00:15+00:00",
-    "ingested_at": "2026-10-29T18:02:41.708547+00:00"
+    "apply_url": "https://zapier.com/jobs",
+    "source_date": "2024-09-29",
+    "ingested_at": "2026-10-29T19:40:52.266962+00:00"
   },
   {
-    "id": "1137551",
-    "role": "Senior Backend Engineer",
-    "company": "DuckDuckGo",
-    "location": "Worldwide",
+    "id": "seed-data-databricks",
+    "role": "Senior Data Engineer",
+    "company": "Databricks",
+    "location": "Remote (US)",
     "tags": [
-      "backend",
-      "perl",
-      "golang",
-      "javascript",
-      "node"
+      "python",
+      "spark",
+      "scala",
+      "data"
     ],
     "salary": {
-      "min": 190000,
-      "max": 190000,
+      "min": 175000,
+      "max": 270000,
       "currency": "USD"
     },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-duckduckgo-1137551",
-    "source_date": "2026-10-21T14:29:21+00:00",
-    "ingested_at": "2026-10-29T18:02:41.708551+00:00"
+    "apply_url": "https://databricks.com/company/careers",
+    "source_date": "2024-09-28",
+    "ingested_at": "2026-10-29T19:40:52.266962+00:00"
   },
   {
-    "id": "1137550",
-    "role": "Clinical Data Manager",
-    "company": "Penumbra",
-    "location": "Your Remote US Home Office",
+    "id": "seed-eng-brex",
+    "role": "Senior Engineer, Payments",
+    "company": "Brex",
+    "location": "Remote (US)",
     "tags": [
-      "exec",
-      "sys admin",
-      "infosec",
-      "education",
-      "technical",
-      "customer support",
-      "travel",
-      "excel",
-      "sales",
-      "biotech",
-      "medical"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-clinical-data-manager-penumbra-1137550",
-    "source_date": "2026-10-21T00:00:06+00:00",
-    "ingested_at": "2026-10-29T18:02:41.708556+00:00"
-  },
-  {
-    "id": "1137548",
-    "role": "Risk Analyst",
-    "company": "Pavago",
-    "location": "Worldwide",
-    "tags": [
-      "analyst",
-      "saas",
-      "sys admin",
-      "infosec",
+      "elixir",
       "python",
-      "technical",
-      "recruiter",
-      "customer support",
-      "testing",
-      "marketing",
-      "exec",
-      "finance",
-      "video",
-      "microsoft",
-      "senior",
-      "ops",
-      "excel",
-      "stats",
-      "legal",
-      "medical",
-      "full time"
+      "payments",
+      "fintech"
     ],
     "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-risk-analyst-pavago-1137548",
-    "source_date": "2026-10-20T08:00:05+00:00",
-    "ingested_at": "2026-10-29T18:02:41.708561+00:00"
-  },
-  {
-    "id": "1137547",
-    "role": "Customer Support Consultant hospitality",
-    "company": "SupportYourApp",
-    "location": "Worldwide",
-    "tags": [
-      "consulting",
-      "customer support",
-      "saas",
-      "infosec",
-      "technical",
-      "dev",
-      "travel",
-      "exec",
-      "medical",
-      "digital nomad"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-customer-support-consultant-hospitality-supportyourapp-1137547",
-    "source_date": "2026-10-19T16:00:04+00:00",
-    "ingested_at": "2026-10-29T18:02:41.708567+00:00"
-  },
-  {
-    "id": "1137545",
-    "role": "Senior Software Engineer",
-    "company": "Sothebyâs",
-    "location": "Worldwide",
-    "tags": [
-      "golang",
-      "dev",
-      "senior",
-      "sales",
-      "engineer",
-      "digital nomad"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-sothebys-1137545",
-    "source_date": "2026-10-18T19:00:02+00:00",
-    "ingested_at": "2026-10-29T18:02:41.708571+00:00"
-  },
-  {
-    "id": "1137544",
-    "role": "Senior Backend Engineer",
-    "company": "Rain",
-    "location": "Worldwide",
-    "tags": [
-      "golang",
-      "finance",
-      "mobile",
-      "senior",
-      "medical",
-      "engineer",
-      "backend"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-rain-1137544",
-    "source_date": "2026-10-18T18:00:01+00:00",
-    "ingested_at": "2026-10-29T18:02:41.708575+00:00"
-  },
-  {
-    "id": "1137542",
-    "role": "Graduate Transport Planner",
-    "company": "Curtins",
-    "location": "Worldwide",
-    "tags": [
-      "hr",
-      "education",
-      "consulting",
-      "technical",
-      "customer support",
-      "marketing",
-      "travel",
-      "medical",
-      "engineer"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-graduate-transport-planner-curtins-1137542",
-    "source_date": "2026-10-17T08:00:50+00:00",
-    "ingested_at": "2026-10-29T18:02:41.708580+00:00"
-  },
-  {
-    "id": "1137541",
-    "role": "Key Account Manager Danish Market Native Speaker Copenhagen",
-    "company": "Packmatic GmbH",
-    "location": "Copenhagen",
-    "tags": [
-      "exec",
-      "saas",
-      "technical",
-      "marketing",
-      "travel",
-      "senior",
-      "sales",
-      "golang"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-key-account-manager-danish-market-native-speaker-copenhagen-packmatic-gmbh-1137541",
-    "source_date": "2026-10-17T08:00:42+00:00",
-    "ingested_at": "2026-10-29T18:02:41.708584+00:00"
-  },
-  {
-    "id": "1137540",
-    "role": "Technical Account Manager",
-    "company": "Yuno",
-    "location": "Brazil",
-    "tags": [
-      "exec",
-      "design",
-      "hr",
-      "python",
-      "technical",
-      "customer support",
-      "marketing",
-      "web dev",
-      "speech",
-      "javascript",
-      "finance",
-      "css",
-      "html",
-      "sql",
-      "postgres",
-      "node",
-      "node.js",
-      "mongo",
-      "api",
-      "senior",
-      "ops",
-      "sales",
-      "sys admin",
-      "golang",
-      "medical",
-      "engineer",
-      "apache",
-      "nginx",
-      "digital nomad"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-technical-account-manager-yuno-1137540",
-    "source_date": "2026-10-17T08:00:32+00:00",
-    "ingested_at": "2026-10-29T18:02:41.708592+00:00"
-  },
-  {
-    "id": "1137539",
-    "role": "Commercial Account Manager LATAM",
-    "company": "Apryse",
-    "location": "Remote",
-    "tags": [
-      "exec"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-commercial-account-manager-latam-apryse-1137539",
-    "source_date": "2026-10-17T08:00:25+00:00",
-    "ingested_at": "2026-10-29T18:02:41.708596+00:00"
-  },
-  {
-    "id": "1137538",
-    "role": "Software Engineer AI Coding Tasks",
-    "company": "Askable",
-    "location": "Worldwide",
-    "tags": [
-      "dev",
-      "python",
-      "javascript",
-      "typescript",
-      "golang",
-      "java",
-      "c plus plus"
-    ],
-    "salary": {
-      "min": 10000,
-      "max": 10000,
+      "min": 170000,
+      "max": 255000,
       "currency": "USD"
     },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538",
-    "source_date": "2026-10-17T01:09:20+00:00",
-    "ingested_at": "2026-10-29T18:02:41.708600+00:00"
+    "apply_url": "https://brex.com/careers",
+    "source_date": "2024-09-26",
+    "ingested_at": "2026-10-29T19:40:52.266962+00:00"
   },
   {
-    "id": "1137537",
-    "role": "Head of Technology",
-    "company": "Sanctuary Computer",
-    "location": "Worldwide",
+    "id": "seed-eng-gitlab",
+    "role": "Senior Software Engineer, Backend",
+    "company": "GitLab",
+    "location": "Remote (Worldwide)",
     "tags": [
-      "dev",
-      "engineer",
-      "senior",
-      "full stack",
-      "front end"
-    ],
-    "salary": {
-      "min": 140000,
-      "max": 250000,
-      "currency": "USD"
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-head-of-technology-sanctuary-computer-1137537",
-    "source_date": "2026-10-16T17:55:35+00:00",
-    "ingested_at": "2026-10-29T18:02:41.708604+00:00"
-  },
-  {
-    "id": "1137536",
-    "role": "Director of Product Management and IT Operations",
-    "company": "Self Bill Pro",
-    "location": "Worldwide",
-    "tags": [
-      "product manager",
-      "exec",
-      "infosec",
-      "technical",
-      "customer support",
-      "dev",
-      "testing",
-      "ops",
-      "digital nomad"
+      "ruby",
+      "rails",
+      "go",
+      "postgresql"
     ],
     "salary": {
       "min": 130000,
-      "max": 160000,
+      "max": 190000,
       "currency": "USD"
     },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-director-of-product-management-and-it-operations-self-bill-pro-1137536",
-    "source_date": "2026-10-16T16:00:39+00:00",
-    "ingested_at": "2026-10-29T18:02:41.708609+00:00"
+    "apply_url": "https://about.gitlab.com/jobs",
+    "source_date": "2024-09-25",
+    "ingested_at": "2026-10-29T19:40:52.266962+00:00"
   },
   {
-    "id": "1137535",
-    "role": "SAP RE FX Consultant",
-    "company": "Yopeso Romania SRL",
-    "location": "Worldwide",
-    "tags": [
-      "consulting",
-      "design",
-      "technical",
-      "customer support",
-      "dev",
-      "testing",
-      "marketing",
-      "exec",
-      "part time",
-      "digital nomad"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-sap-re-fx-consultant-yopeso-romania-srl-1137535",
-    "source_date": "2026-10-16T16:00:33+00:00",
-    "ingested_at": "2026-10-29T18:02:41.708615+00:00"
-  },
-  {
-    "id": "1137534",
-    "role": "APAC Python",
-    "company": "Kodland",
-    "location": "Worldwide",
+    "id": "seed-eng-duolingo",
+    "role": "Senior Software Engineer",
+    "company": "Duolingo",
+    "location": "Remote (US)",
     "tags": [
       "python",
-      "teaching",
-      "education",
-      "customer support",
-      "dev",
-      "testing",
-      "part time",
-      "non tech",
-      "digital nomad"
+      "kotlin",
+      "swift",
+      "edtech"
     ],
     "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
+      "min": 160000,
+      "max": 240000,
+      "currency": "USD"
     },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-apac-python-kodland-1137534",
-    "source_date": "2026-10-16T16:00:26+00:00",
-    "ingested_at": "2026-10-29T18:02:41.708621+00:00"
+    "apply_url": "https://duolingo.com/careers",
+    "source_date": "2024-09-23",
+    "ingested_at": "2026-10-29T19:40:52.266962+00:00"
   },
   {
-    "id": "1137531",
-    "role": "Associate Data Scientist",
-    "company": "AlgaeCal",
-    "location": "Vancouver",
+    "id": "seed-devops-github",
+    "role": "Staff DevOps Engineer",
+    "company": "GitHub",
+    "location": "Remote (Worldwide)",
     "tags": [
-      "design",
+      "go",
+      "kubernetes",
+      "aws",
+      "terraform"
+    ],
+    "salary": {
+      "min": 180000,
+      "max": 270000,
+      "currency": "USD"
+    },
+    "apply_url": "https://github.com/about/careers",
+    "source_date": "2024-09-22",
+    "ingested_at": "2026-10-29T19:40:52.266962+00:00"
+  },
+  {
+    "id": "seed-ai-eng-cohere",
+    "role": "AI Platform Engineer",
+    "company": "Cohere",
+    "location": "Remote (Worldwide)",
+    "tags": [
       "python",
-      "customer support",
-      "marketing",
-      "dev",
-      "flutter",
-      "exec",
-      "data science",
-      "ops",
-      "stats",
-      "sales",
-      "medical",
-      "ecommerce",
-      "digital nomad"
+      "ml",
+      "kubernetes",
+      "api"
     ],
     "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
+      "min": 140000,
+      "max": 200000,
+      "currency": "USD"
     },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-associate-data-scientist-algaecal-1137531",
-    "source_date": "2026-10-16T00:00:56+00:00",
-    "ingested_at": "2026-10-29T18:02:41.708628+00:00"
+    "apply_url": "https://cohere.com/careers",
+    "source_date": "2024-09-20",
+    "ingested_at": "2026-10-29T19:40:52.266962+00:00"
   },
   {
-    "id": "1137530",
-    "role": "Director of IT and Workplace",
-    "company": "Hippocratic AI",
-    "location": "Menlo Park",
+    "id": "seed-mid-automattic",
+    "role": "Software Engineer (PHP/WordPress)",
+    "company": "Automattic",
+    "location": "Remote (Worldwide)",
     "tags": [
-      "exec",
-      "saas",
-      "infosec",
-      "python",
-      "technical",
-      "customer support",
-      "testing",
-      "marketing",
-      "dev",
-      "finance",
-      "education",
-      "c",
-      "admin",
-      "microsoft",
-      "senior",
-      "ops",
-      "legal",
-      "medical",
-      "recruiter",
-      "engineer",
-      "digital nomad"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-director-of-it-and-workplace-hippocratic-ai-1137530",
-    "source_date": "2026-10-16T00:00:50+00:00",
-    "ingested_at": "2026-10-29T18:02:41.708632+00:00"
-  },
-  {
-    "id": "1137529",
-    "role": "Customer Success Associate",
-    "company": "Voltus",
-    "location": "Remote",
-    "tags": [
-      "customer support",
-      "testing",
-      "exec",
-      "ops",
-      "sales",
-      "engineer"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-customer-success-associate-voltus-1137529",
-    "source_date": "2026-10-16T00:00:43+00:00",
-    "ingested_at": "2026-10-29T18:02:41.708638+00:00"
-  },
-  {
-    "id": "1137528",
-    "role": "Account Manager Mid Market",
-    "company": "Allego",
-    "location": "Waltham",
-    "tags": [
-      "exec",
-      "saas",
-      "customer support",
-      "marketing",
-      "ops",
-      "sales",
-      "golang"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-account-manager-mid-market-allego-1137528",
-    "source_date": "2026-10-15T16:00:21+00:00",
-    "ingested_at": "2026-10-29T18:02:41.708642+00:00"
-  },
-  {
-    "id": "1137527",
-    "role": "Senior Software Engineer II Applied AI",
-    "company": "Wrapbook",
-    "location": "Worldwide",
-    "tags": [
-      "dev",
-      "design",
-      "amazon",
-      "sys admin",
-      "backend",
-      "infosec",
-      "python",
-      "education",
-      "technical",
-      "customer support",
-      "accounting",
-      "payroll",
+      "php",
+      "wordpress",
       "javascript",
-      "finance",
-      "java",
+      "mysql"
+    ],
+    "salary": {
+      "min": 80000,
+      "max": 130000,
+      "currency": "USD"
+    },
+    "apply_url": "https://automattic.com/work-with-us",
+    "source_date": "2024-09-19",
+    "ingested_at": "2026-10-29T19:40:52.266962+00:00"
+  },
+  {
+    "id": "seed-eng-hashicorp",
+    "role": "Software Engineer, Infrastructure",
+    "company": "HashiCorp",
+    "location": "Remote (US)",
+    "tags": [
+      "go",
+      "terraform",
+      "cloud",
+      "infrastructure"
+    ],
+    "salary": {
+      "min": 140000,
+      "max": 210000,
+      "currency": "USD"
+    },
+    "apply_url": "https://hashicorp.com/jobs",
+    "source_date": "2024-09-18",
+    "ingested_at": "2026-10-29T19:40:52.266962+00:00"
+  },
+  {
+    "id": "seed-python-posthog",
+    "role": "Senior Software Engineer (Python)",
+    "company": "PostHog",
+    "location": "Remote (Worldwide)",
+    "tags": [
+      "python",
+      "django",
+      "clickhouse",
+      "kubernetes"
+    ],
+    "salary": {
+      "min": 120000,
+      "max": 200000,
+      "currency": "USD"
+    },
+    "apply_url": "https://posthog.com/careers",
+    "source_date": "2024-09-17",
+    "ingested_at": "2026-10-29T19:40:52.266962+00:00"
+  },
+  {
+    "id": "seed-ml-engineer-mistral",
+    "role": "Senior ML Engineer",
+    "company": "Mistral AI",
+    "location": "Remote (EU)",
+    "tags": [
+      "python",
+      "pytorch",
+      "ml",
+      "distributed"
+    ],
+    "salary": {
+      "min": 120000,
+      "max": 200000,
+      "currency": "USD"
+    },
+    "apply_url": "https://mistral.ai/careers",
+    "source_date": "2024-09-15",
+    "ingested_at": "2026-10-29T19:40:52.266962+00:00"
+  },
+  {
+    "id": "seed-security-crowdstrike",
+    "role": "Cloud Security Engineer",
+    "company": "CrowdStrike",
+    "location": "Remote (US)",
+    "tags": [
+      "security",
+      "python",
+      "cloud",
+      "kubernetes"
+    ],
+    "salary": {
+      "min": 150000,
+      "max": 220000,
+      "currency": "USD"
+    },
+    "apply_url": "https://crowdstrike.com/careers",
+    "source_date": "2024-09-15",
+    "ingested_at": "2026-10-29T19:40:52.266962+00:00"
+  },
+  {
+    "id": "seed-support-fly",
+    "role": "Support Engineer",
+    "company": "Fly.io",
+    "location": "Remote (Worldwide)",
+    "tags": [
+      "linux",
+      "networking",
+      "rust",
+      "support"
+    ],
+    "salary": {
+      "min": 90000,
+      "max": 140000,
+      "currency": "USD"
+    },
+    "apply_url": "https://fly.io/jobs",
+    "source_date": "2024-09-14",
+    "ingested_at": "2026-10-29T19:40:52.266962+00:00"
+  },
+  {
+    "id": "seed-fullstack-notion",
+    "role": "Full-Stack Engineer",
+    "company": "Notion",
+    "location": "Remote (US)",
+    "tags": [
       "typescript",
-      "node",
-      "node.js",
-      "content writing",
-      "senior",
-      "ops",
-      "marketing",
-      "sales",
-      "medical",
-      "engineer",
-      "digital nomad"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527",
-    "source_date": "2026-10-15T16:00:03+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709584+00:00"
-  },
-  {
-    "id": "1137525",
-    "role": "Director US Tax & Accounting #35344",
-    "company": "Manila Recruitment",
-    "location": "Worldwide",
-    "tags": [
-      "exec",
-      "accounting",
-      "education",
-      "technical",
-      "customer support",
-      "dev",
-      "marketing",
-      "speech",
-      "finance",
-      "c",
-      "microsoft",
-      "senior",
-      "junior",
-      "ops",
-      "recruiter",
-      "full time",
-      "digital nomad"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-director-us-tax-accounting-35344-manila-recruitment-1137525",
-    "source_date": "2026-10-15T08:00:17+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709601+00:00"
-  },
-  {
-    "id": "1137524",
-    "role": "Project and Quality Administrator Work From Home Dayshift",
-    "company": "Twoconnect",
-    "location": "Worldwide",
-    "tags": [
-      "work from home",
-      "jira",
-      "sys admin",
-      "education",
-      "customer support",
-      "marketing",
-      "admin",
-      "microsoft",
-      "exec",
-      "excel"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-project-and-quality-administrator-work-from-home-dayshift-twoconnect-1137524",
-    "source_date": "2026-10-15T08:00:11+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709607+00:00"
-  },
-  {
-    "id": "1137523",
-    "role": "Sr REACT NATIVE",
-    "company": "Somnio Software",
-    "location": "Worldwide",
-    "tags": [
-      "react native",
       "react",
-      "dev",
-      "python",
-      "javascript",
-      "c",
-      "flutter",
       "node",
-      "node.js",
-      "digital nomad"
+      "postgresql"
     ],
     "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
+      "min": 160000,
+      "max": 250000,
+      "currency": "USD"
     },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-sr-react-native-somnio-software-1137523",
-    "source_date": "2026-10-15T00:00:19+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709612+00:00"
+    "apply_url": "https://notion.so/careers",
+    "source_date": "2024-09-12",
+    "ingested_at": "2026-10-29T19:40:52.266962+00:00"
   },
   {
-    "id": "1137522",
-    "role": "Contracts Manager Federal",
-    "company": "Akicita Federal, LLC",
-    "location": "Remote",
+    "id": "seed-rust-1password",
+    "role": "Senior Rust Engineer",
+    "company": "1Password",
+    "location": "Remote (US/CA/EU)",
     "tags": [
-      "exec",
-      "medical",
-      "recruiter"
+      "rust",
+      "security",
+      "cryptography"
     ],
     "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
+      "min": 145000,
+      "max": 215000,
+      "currency": "USD"
     },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-contracts-manager-federal-akicita-federal-llc-1137522",
-    "source_date": "2026-10-15T00:00:13+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709616+00:00"
+    "apply_url": "https://1password.com/careers",
+    "source_date": "2024-09-11",
+    "ingested_at": "2026-10-29T19:40:52.266962+00:00"
   },
   {
-    "id": "1137521",
-    "role": "Federal Account Manager Client Relationships",
-    "company": "Akicita Federal, LLC",
-    "location": "Remote",
+    "id": "seed-platform-vercel",
+    "role": "Platform Engineer",
+    "company": "Vercel",
+    "location": "Remote (Worldwide)",
     "tags": [
-      "exec",
-      "golang",
-      "recruiter"
+      "go",
+      "typescript",
+      "kubernetes",
+      "devops"
     ],
     "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
+      "min": 150000,
+      "max": 220000,
+      "currency": "USD"
     },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-federal-account-manager-client-relationships-akicita-federal-llc-1137521",
-    "source_date": "2026-10-15T00:00:05+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709624+00:00"
+    "apply_url": "https://vercel.com/careers",
+    "source_date": "2024-09-10",
+    "ingested_at": "2026-10-29T19:40:52.266962+00:00"
   },
   {
-    "id": "1137514",
-    "role": "Payment Operations Specialist",
-    "company": "Utopia",
-    "location": "Worldwide",
+    "id": "seed-design-canva",
+    "role": "Senior Product Designer",
+    "company": "Canva",
+    "location": "Remote (Worldwide)",
     "tags": [
       "design",
-      "customer support",
-      "marketing",
-      "accounting",
-      "finance",
-      "ops",
-      "digital nomad"
+      "figma",
+      "product",
+      "ux"
+    ],
+    "salary": {
+      "min": 130000,
+      "max": 190000,
+      "currency": "USD"
+    },
+    "apply_url": "https://canva.com/careers",
+    "source_date": "2024-09-09",
+    "ingested_at": "2026-10-29T19:40:52.266962+00:00"
+  },
+  {
+    "id": "seed-qa-checkly",
+    "role": "Senior QA Engineer",
+    "company": "Checkly",
+    "location": "Remote (EU)",
+    "tags": [
+      "javascript",
+      "playwright",
+      "testing",
+      "node"
+    ],
+    "salary": {
+      "min": 90000,
+      "max": 140000,
+      "currency": "USD"
+    },
+    "apply_url": "https://checklyhq.com/careers",
+    "source_date": "2024-09-07",
+    "ingested_at": "2026-10-29T19:40:52.266962+00:00"
+  },
+  {
+    "id": "seed-frontend-figma",
+    "role": "Senior Software Engineer, Frontend",
+    "company": "Figma",
+    "location": "Remote (US)",
+    "tags": [
+      "typescript",
+      "react",
+      "webgl",
+      "canvas"
+    ],
+    "salary": {
+      "min": 180000,
+      "max": 280000,
+      "currency": "USD"
+    },
+    "apply_url": "https://figma.com/careers",
+    "source_date": "2024-09-05",
+    "ingested_at": "2026-10-29T19:40:52.266962+00:00"
+  },
+  {
+    "id": "seed-mobile-buffer",
+    "role": "Senior Mobile Engineer (React Native)",
+    "company": "Buffer",
+    "location": "Remote (Worldwide)",
+    "tags": [
+      "react-native",
+      "typescript",
+      "ios",
+      "android"
+    ],
+    "salary": {
+      "min": 100000,
+      "max": 150000,
+      "currency": "USD"
+    },
+    "apply_url": "https://buffer.com/journey",
+    "source_date": "2024-09-03",
+    "ingested_at": "2026-10-29T19:40:52.266962+00:00"
+  },
+  {
+    "id": "seed-sre-pagerduty",
+    "role": "SRE Engineer",
+    "company": "PagerDuty",
+    "location": "Remote (US/CA)",
+    "tags": [
+      "python",
+      "kubernetes",
+      "aws",
+      "monitoring"
+    ],
+    "salary": {
+      "min": 140000,
+      "max": 200000,
+      "currency": "USD"
+    },
+    "apply_url": "https://pagerduty.com/careers",
+    "source_date": "2024-09-01",
+    "ingested_at": "2026-10-29T19:40:52.266962+00:00"
+  },
+  {
+    "id": "seed-eng-planetscale",
+    "role": "Database Engineer",
+    "company": "PlanetScale",
+    "location": "Remote (US)",
+    "tags": [
+      "go",
+      "mysql",
+      "vitess",
+      "distributed"
+    ],
+    "salary": {
+      "min": 160000,
+      "max": 230000,
+      "currency": "USD"
+    },
+    "apply_url": "https://planetscale.com/careers",
+    "source_date": "2024-08-30",
+    "ingested_at": "2026-10-29T19:40:52.266962+00:00"
+  },
+  {
+    "id": "seed-cloud-gruntwork",
+    "role": "Cloud Engineer",
+    "company": "Gruntwork",
+    "location": "Remote (Worldwide)",
+    "tags": [
+      "terraform",
+      "aws",
+      "go",
+      "devops"
+    ],
+    "salary": {
+      "min": 130000,
+      "max": 190000,
+      "currency": "USD"
+    },
+    "apply_url": "https://gruntwork.io/careers",
+    "source_date": "2024-08-28",
+    "ingested_at": "2026-10-29T19:40:52.266962+00:00"
+  },
+  {
+    "id": "seed-product-loom",
+    "role": "Senior Product Manager",
+    "company": "Loom",
+    "location": "Remote (US)",
+    "tags": [
+      "product",
+      "b2b",
+      "saas",
+      "video"
+    ],
+    "salary": {
+      "min": 160000,
+      "max": 230000,
+      "currency": "USD"
+    },
+    "apply_url": "https://loom.com/careers",
+    "source_date": "2024-08-25",
+    "ingested_at": "2026-10-29T19:40:52.266962+00:00"
+  },
+  {
+    "id": "seed-data-dbt",
+    "role": "Data Engineer",
+    "company": "dbt Labs",
+    "location": "Remote (Worldwide)",
+    "tags": [
+      "python",
+      "dbt",
+      "sql",
+      "data"
+    ],
+    "salary": {
+      "min": 120000,
+      "max": 180000,
+      "currency": "USD"
+    },
+    "apply_url": "https://getdbt.com/careers",
+    "source_date": "2024-08-20",
+    "ingested_at": "2026-10-29T19:40:52.266962+00:00"
+  },
+  {
+    "id": "seed-eng-beehiiv",
+    "role": "Full-Stack Engineer",
+    "company": "beehiiv",
+    "location": "Remote (US)",
+    "tags": [
+      "ruby",
+      "rails",
+      "react",
+      "newsletter"
+    ],
+    "salary": {
+      "min": 120000,
+      "max": 180000,
+      "currency": "USD"
+    },
+    "apply_url": "https://beehiiv.com/careers",
+    "source_date": "2024-08-19",
+    "ingested_at": "2026-10-29T19:40:52.266962+00:00"
+  },
+  {
+    "id": "seed-python-fastly",
+    "role": "Software Engineer, Python",
+    "company": "Fastly",
+    "location": "Remote (US/EU)",
+    "tags": [
+      "python",
+      "rust",
+      "networking",
+      "cdn"
+    ],
+    "salary": {
+      "min": 140000,
+      "max": 210000,
+      "currency": "USD"
+    },
+    "apply_url": "https://fastly.com/about/careers",
+    "source_date": "2024-08-15",
+    "ingested_at": "2026-10-29T19:40:52.266962+00:00"
+  },
+  {
+    "id": "seed-eng-health-olive",
+    "role": "Software Engineer, Healthcare AI",
+    "company": "Olive AI",
+    "location": "Remote (US)",
+    "tags": [
+      "python",
+      "ml",
+      "healthcare",
+      "aws"
+    ],
+    "salary": {
+      "min": 130000,
+      "max": 190000,
+      "currency": "USD"
+    },
+    "apply_url": "https://oliveai.com/careers",
+    "source_date": "2024-08-12",
+    "ingested_at": "2026-10-29T19:40:52.266962+00:00"
+  },
+  {
+    "id": "arbeitnow-projektleiter-rechenzentrumsbau-seeheim-jugenheim-170498-innovitag",
+    "role": "Projektleiter Rechenzentrumsbau (m/w/d)",
+    "company": "innovIT AG",
+    "location": "Seeheim-Jugenheim",
+    "tags": [
+      "project management"
     ],
     "salary": {
       "min": null,
       "max": null,
       "currency": null
     },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-payment-operations-specialist-utopia-1137514",
-    "source_date": "2026-10-14T16:00:05+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709629+00:00"
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/innovit-ag/projektleiter-rechenzentrumsbau-seeheim-jugenheim-170498",
+    "source_date": "1793295045",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
   },
   {
-    "id": "1137513",
-    "role": "AI Trainer",
-    "company": "iMerit Technology",
-    "location": "US, UK, Canada, Australia + 35 other countries",
+    "id": "arbeitnow-technischer-planer-rechenzentrumsbau-berlin-152007-innovitag",
+    "role": "Technischer Planer Rechenzentrumsbau (m/w/d)",
+    "company": "innovIT AG",
+    "location": "Berlin",
     "tags": [
-      "data annotation",
-      "ai training"
+      "remote",
+      "building",
+      "supply",
+      "safety services engineering"
     ],
     "salary": {
-      "min": 50000,
-      "max": 70000,
-      "currency": "USD"
+      "min": null,
+      "max": null,
+      "currency": null
     },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-ai-trainer-imerit-technology-1137513",
-    "source_date": "2026-10-14T14:44:21+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709633+00:00"
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/innovit-ag/technischer-planer-rechenzentrumsbau-berlin-152007",
+    "source_date": "1793295045",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
   },
   {
-    "id": "1137512",
-    "role": "Customer Support Specialist",
-    "company": "Ultimate Marketing",
-    "location": "Worldwide",
+    "id": "arbeitnow-founders-associate-berlin-182618-innovitag",
+    "role": "Founders Associate (m/w/d)",
+    "company": "innovIT AG",
+    "location": "Berlin",
     "tags": [
-      "customer support",
-      "remote work",
-      "social media",
-      "communication",
-      "worldwide"
+      "remote",
+      "business operations"
     ],
     "salary": {
-      "min": 50000,
-      "max": 90000,
-      "currency": "USD"
+      "min": null,
+      "max": null,
+      "currency": null
     },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-customer-support-specialist-ultimate-marketing-1137512",
-    "source_date": "2026-10-14T01:31:49+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709637+00:00"
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/innovit-ag/founders-associate-berlin-182618",
+    "source_date": "1793295045",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
   },
   {
-    "id": "1137510",
-    "role": "Principal Product Manager Strategic Initiatives",
-    "company": "Thyme Care",
+    "id": "arbeitnow-ki-implementierer-berlin-359603-innovitag",
+    "role": "KI-Implementierer (m/w/d)",
+    "company": "innovIT AG",
+    "location": "Berlin",
+    "tags": [
+      "remote",
+      "software development"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/innovit-ag/ki-implementierer-berlin-359603",
+    "source_date": "1793295045",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
+  },
+  {
+    "id": "arbeitnow-ingenieurin-automationstechnik-halbleiter-dresden-19450-wabcon",
+    "role": "Ingenieur:in Automationstechnik Halbleiter",
+    "company": "wabcon",
+    "location": "Dresden",
+    "tags": [
+      "automation engineering"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/wabcon/ingenieurin-automationstechnik-halbleiter-dresden-19450",
+    "source_date": "1793295044",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
+  },
+  {
+    "id": "arbeitnow-engineering-lead-high-tech-dresden-351109-wabcon",
+    "role": "Engineering-Lead (m/w/d) High-Tech",
+    "company": "wabcon",
+    "location": "Dresden",
+    "tags": [
+      "management",
+      "team leader"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/wabcon/engineering-lead-high-tech-dresden-351109",
+    "source_date": "1793295044",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
+  },
+  {
+    "id": "arbeitnow-trade-marketing-managerin-berlin-385797-vfnutriti",
+    "role": "Trade Marketing Manager:in",
+    "company": "VF Nutrition GmbH",
+    "location": "Berlin",
+    "tags": [
+      "marketing and communication"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/vf-nutrition-gmbh/trade-marketing-managerin-berlin-385797",
+    "source_date": "1793293252",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
+  },
+  {
+    "id": "arbeitnow-teamlead-influencer-marketing-campaign-management-munich-392795-addfamegm",
+    "role": "Teamlead (M/W/D) Influencer Marketing  & Campaign Management",
+    "company": "addfame GmbH",
+    "location": "Munich",
+    "tags": [
+      "marketing and communication"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/addfame-gmbh/teamlead-influencer-marketing-campaign-management-munich-392795",
+    "source_date": "1793293252",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
+  },
+  {
+    "id": "arbeitnow-senior-ux-interaction-designer-industrial-software-teilzeit-munich-417929-happyops",
+    "role": "Senior UX & Interaction Designer (m/w/d) | Industrial Software | Teilzeit",
+    "company": "HappyOps",
+    "location": "Munich",
+    "tags": [
+      "media",
+      "screen and web design"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/happyops/senior-ux-interaction-designer-industrial-software-teilzeit-munich-417929",
+    "source_date": "1793293252",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
+  },
+  {
+    "id": "arbeitnow-werkstudent-marketing-cologne-215457-genuinebe",
+    "role": "Werkstudent Marketing (m/w/d)",
+    "company": "GENUINE Beauty GmbH",
+    "location": "Cologne",
+    "tags": [
+      "marketing and communication"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/genuine-beauty-gmbh/werkstudent-marketing-cologne-215457",
+    "source_date": "1793293250",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
+  },
+  {
+    "id": "arbeitnow-hr-business-partner-munich-473226-jobbusters",
+    "role": "HR Business Partner (m/w/d)",
+    "company": "Jobbusters® GmbH",
+    "location": "Munich",
+    "tags": [
+      "personnel specialist"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/jobbusters-gmbh/hr-business-partner-munich-473226",
+    "source_date": "1793293250",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
+  },
+  {
+    "id": "arbeitnow-senior-full-stack-developer-de-en-fr-es-it-munich-426677-happyops",
+    "role": "Senior Full Stack Developer (f/m/d) | DE + EN + FR/ES/IT",
+    "company": "HappyOps",
+    "location": "Munich",
+    "tags": [
+      "remote",
+      "web development"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/happyops/senior-full-stack-developer-de-en-fr-es-it-munich-426677",
+    "source_date": "1793293249",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
+  },
+  {
+    "id": "arbeitnow-finanzberater-regensburg-380080-tf,kanzle",
+    "role": "Finanzberater",
+    "company": "TF, Kanzlei Fabio Steinbeißer",
+    "location": "Regensburg",
+    "tags": [
+      "asset",
+      "fonds management"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/tf-kanzlei-fabio-steinbeisser/finanzberater-regensburg-380080",
+    "source_date": "1793292450",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
+  },
+  {
+    "id": "arbeitnow-marketplace-marketing-manager-bornheim-288668-agabagart",
+    "role": "Marketplace Marketing Manager (m/w/d)",
+    "company": "AGABA Garten- und Landschaftsbaumaterial GmbH",
+    "location": "Bornheim",
+    "tags": [
+      "marketing manager"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/agaba-garten-und-landschaftsbaumaterial-gmbh/marketplace-marketing-manager-bornheim-288668",
+    "source_date": "1793292450",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
+  },
+  {
+    "id": "arbeitnow-senior-ux-designer-munich-81260-envidual",
+    "role": "Senior UX Designer",
+    "company": "Envidual",
+    "location": "Munich",
+    "tags": [
+      "graphic arts and communication design"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/envidual/senior-ux-designer-munich-81260",
+    "source_date": "1793291486",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
+  },
+  {
+    "id": "arbeitnow-technical-professionell-programm-2027-reutlingen-88345-limbächer",
+    "role": "Technical Professionell Programm 2027 (m/w/d)",
+    "company": "Limbächer & Limbächer GmbH",
+    "location": "Reutlingen",
+    "tags": [
+      "automotive engineering"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/limbacher-limbacher-gmbh/technical-professionell-programm-2027-reutlingen-88345",
+    "source_date": "1793291484",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
+  },
+  {
+    "id": "arbeitnow-linux-administrator-consultant-remote-berlin-212302-pontconne",
+    "role": "Linux Administrator/Consultant (m/w/d) REMOTE",
+    "company": "Pont Connects e.K.",
+    "location": "Berlin",
+    "tags": [
+      "remote",
+      "system and network administration"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/pont-connects-ek/linux-administrator-consultant-remote-berlin-212302",
+    "source_date": "1793291483",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
+  },
+  {
+    "id": "arbeitnow-technical-professionell-programm-2027-filderstadt-220131-limbächer",
+    "role": "Technical Professionell Programm 2027 (m/w/d)",
+    "company": "Limbächer & Limbächer GmbH",
+    "location": "Filderstadt",
+    "tags": [
+      "automotive engineering"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/limbacher-limbacher-gmbh/technical-professionell-programm-2027-filderstadt-220131",
+    "source_date": "1793291483",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
+  },
+  {
+    "id": "arbeitnow-sales-manager-leh-in-vollzeit-ab-sofort-in-hamburg-179229-lini'sbit",
+    "role": "Sales Manager LEH (m/w/d) - in Vollzeit, ab sofort in",
+    "company": "Lini's Bites",
+    "location": "Hamburg",
+    "tags": [
+      "management",
+      "team leader"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/linis-bites/sales-manager-leh-in-vollzeit-ab-sofort-in-hamburg-179229",
+    "source_date": "1793291483",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
+  },
+  {
+    "id": "arbeitnow-senior-microsoft-solution-architect-dynamics-365-berlin-397327-newmonday",
+    "role": "Senior Microsoft Solution Architect / Dynamics 365 (m/w/d)",
+    "company": "New Monday GmbH",
+    "location": "Berlin",
+    "tags": [
+      "sap/erp consulting",
+      "development"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/new-monday-gmbh/senior-microsoft-solution-architect-dynamics-365-berlin-397327",
+    "source_date": "1793291481",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
+  },
+  {
+    "id": "arbeitnow-werkstudent-marketing-remote-419659-evolvedig",
+    "role": "Werkstudent Marketing (m/w/d)  · Remote",
+    "company": "Evolve Digital GmbH",
     "location": "Remote",
     "tags": [
-      "product manager",
-      "exec",
-      "technical",
-      "customer support",
-      "testing",
-      "senior",
-      "ops",
-      "medical",
-      "engineer",
-      "recruiter"
+      "internet and software",
+      "vocational"
     ],
     "salary": {
       "min": null,
       "max": null,
       "currency": null
     },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-principal-product-manager-strategic-initiatives-thyme-care-1137510",
-    "source_date": "2026-10-13T08:00:11+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709644+00:00"
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/evolve-digital-gmbh/werkstudent-marketing-remote-419659",
+    "source_date": "1793290811",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
   },
   {
-    "id": "1137509",
-    "role": "Client Engagement Representative Work From Home",
-    "company": "AO Garcia Agency",
-    "location": "Sterling Heights, Michigan",
+    "id": "arbeitnow-embedded-softwareentwickler-regelungstechnik-aalen-181924-k-tronikg",
+    "role": "Embedded Softwareentwickler (m/w/d) / Regelungstechnik",
+    "company": "K-tronik GmbH",
+    "location": "Aalen",
     "tags": [
-      "work from home",
-      "sys admin",
-      "education",
-      "exec",
+      "software development"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/k-tronik-gmbh/embedded-softwareentwickler-regelungstechnik-aalen-181924",
+    "source_date": "1793289684",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
+  },
+  {
+    "id": "arbeitnow-key-account-managerin-job-mit-purpose-berlin-245062-inesanaly",
+    "role": "Key Account Manager*in - Job mit Purpose",
+    "company": "INES Analytics",
+    "location": "Berlin",
+    "tags": [
+      "customer service"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/ines-analytics/key-account-managerin-job-mit-purpose-berlin-245062",
+    "source_date": "1793289684",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
+  },
+  {
+    "id": "arbeitnow-initiativbewerbung-buro-greifswald-142461-advaccad",
+    "role": "Initiativbewerbung Büro Greifswald",
+    "company": "advacc  advanced accounting GmbH",
+    "location": "Greifswald",
+    "tags": [
+      "remote",
       "finance"
     ],
     "salary": {
@@ -1197,1153 +1215,747 @@
       "max": null,
       "currency": null
     },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-client-engagement-representative-work-from-home-ao-garcia-agency-1137509",
-    "source_date": "2026-10-13T08:00:04+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709647+00:00"
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/advacc-advanced-accounting-gmbh/initiativbewerbung-buro-greifswald-142461",
+    "source_date": "1793289683",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
   },
   {
-    "id": "1137508",
-    "role": "Principal Software Engineer",
-    "company": "Vytalize Health",
-    "location": "Kansas",
+    "id": "arbeitnow-initiativbewerbung-buro-dusseldorf-456047-advaccad",
+    "role": "Initiativbewerbung Büro Düsseldorf",
+    "company": "advacc  advanced accounting GmbH",
+    "location": "Düsseldorf",
     "tags": [
-      "dev",
-      "design",
-      "infosec",
-      "python",
-      "docker",
-      "technical",
-      "recruiter",
-      "customer support",
-      "testing",
-      "marketing",
-      "quality assurance",
-      "finance",
-      "java",
-      "c",
-      "cloud",
-      "api",
-      "exec",
-      "content writing",
-      "senior",
-      "ops",
-      "stats",
-      "sys admin",
-      "golang",
-      "medical",
-      "engineer",
-      "backend",
-      "digital nomad"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-principal-software-engineer-vytalize-health-1137508",
-    "source_date": "2026-10-13T00:00:18+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709653+00:00"
-  },
-  {
-    "id": "1137507",
-    "role": "Graphic Designer & Video Editor",
-    "company": "BlueTuskr",
-    "location": "Worldwide",
-    "tags": [
-      "design",
-      "designer",
-      "customer support",
-      "testing",
-      "marketing",
-      "web dev",
-      "video",
-      "mobile",
-      "photoshop",
-      "stats",
-      "sales",
-      "illustrator",
-      "ecommerce",
-      "shopify",
-      "part time",
-      "digital nomad"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-video-editor-bluetuskr-1137507",
-    "source_date": "2026-10-13T00:00:06+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709657+00:00"
-  },
-  {
-    "id": "1137506",
-    "role": "Technical Customer Support",
-    "company": "QuickMail",
-    "location": "Worldwide",
-    "tags": [
-      "customer support"
-    ],
-    "salary": {
-      "min": 30000,
-      "max": 50000,
-      "currency": "USD"
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-technical-customer-support-quickmail-1137506",
-    "source_date": "2026-10-12T16:20:10+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709662+00:00"
-  },
-  {
-    "id": "1137498",
-    "role": "Senior Sales Executive Central Region",
-    "company": "SimSpace Corporation",
-    "location": "Worldwide",
-    "tags": [
-      "saas",
-      "embedded",
-      "sys admin",
-      "infosec",
-      "education",
-      "customer support",
-      "testing",
-      "marketing",
-      "finance",
-      "cloud",
-      "exec",
-      "content writing",
-      "senior",
-      "stats",
-      "legal",
-      "sales",
-      "medical",
-      "engineer"
-    ],
-    "salary": {
-      "min": 145000,
-      "max": 220000,
-      "currency": "USD"
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-sales-executive-central-region-simspace-corporation-1137498",
-    "source_date": "2026-10-12T00:00:04+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709667+00:00"
-  },
-  {
-    "id": "1137497",
-    "role": "Product Design Director",
-    "company": "Midnite",
-    "location": "United Kingdom",
-    "tags": [
-      "design",
-      "exec",
-      "sys admin",
-      "game dev",
-      "testing",
-      "marketing",
-      "web dev",
-      "scheme",
-      "medical",
-      "engineer",
-      "digital nomad"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-product-design-director-midnite-1137497",
-    "source_date": "2026-10-11T16:00:03+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709673+00:00"
-  },
-  {
-    "id": "1137488",
-    "role": "Marketing and Sales Administrator",
-    "company": "Hunt St",
-    "location": "Worldwide",
-    "tags": [
-      "customer support",
-      "marketing",
-      "finance",
-      "admin",
-      "exec",
-      "content writing",
-      "sales"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-marketing-and-sales-administrator-hunt-st-1137488",
-    "source_date": "2026-10-11T08:00:06+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709677+00:00"
-  },
-  {
-    "id": "1137482",
-    "role": "Technical Account Manager",
-    "company": "DEUNA",
-    "location": "Ciudad de MÃ©xico, Mexico",
-    "tags": [
-      "exec",
-      "hr",
-      "technical",
-      "customer support",
-      "marketing",
-      "ops",
-      "golang",
-      "medical",
-      "engineer"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-technical-account-manager-deuna-1137482",
-    "source_date": "2026-10-11T00:00:05+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709680+00:00"
-  },
-  {
-    "id": "1137481",
-    "role": "Manager Clinical Data Management",
-    "company": "EDETEK",
-    "location": "Worldwide",
-    "tags": [
-      "exec",
-      "design",
-      "sys admin",
-      "education",
-      "customer support",
-      "dev",
-      "testing",
-      "travel",
-      "junior",
-      "ops",
-      "medical",
-      "recruiter",
-      "digital nomad"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-manager-clinical-data-management-edetek-1137481",
-    "source_date": "2026-10-10T08:00:08+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709685+00:00"
-  },
-  {
-    "id": "1137480",
-    "role": "Junior Sales Development Representative IT Industry",
-    "company": "Huzzle",
-    "location": "Worldwide",
-    "tags": [
-      "saas",
-      "technical",
-      "marketing",
-      "finance",
-      "c",
-      "cloud",
-      "microsoft",
-      "senior",
-      "junior",
-      "ops",
-      "sales",
-      "ecommerce",
-      "full time"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-junior-sales-development-representative-it-industry-huzzle-1137480",
-    "source_date": "2026-10-10T00:00:17+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709689+00:00"
-  },
-  {
-    "id": "1137479",
-    "role": "Academic Dean for MiaPrep Online Academy of Ohio",
-    "company": "Miaplaza",
-    "location": "Worldwide",
-    "tags": [
-      "design",
-      "infosec",
-      "teaching",
-      "education",
-      "exec",
-      "coordinator",
-      "customer support",
-      "testing",
-      "marketing",
-      "virtual assistant",
-      "video",
-      "admin",
-      "content writing",
-      "ops",
-      "medical",
-      "recruiter",
-      "full time",
-      "digital nomad"
-    ],
-    "salary": {
-      "min": 40,
-      "max": 48,
-      "currency": "USD"
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-academic-dean-for-miaprep-online-academy-of-ohio-miaplaza-1137479",
-    "source_date": "2026-10-10T00:00:11+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709694+00:00"
-  },
-  {
-    "id": "1137478",
-    "role": "Product Engineering Lead",
-    "company": "Tether Operations Limited",
-    "location": "Worldwide",
-    "tags": [
-      "design",
-      "bitcoin",
-      "react",
-      "exec",
-      "technical",
-      "recruiter",
-      "marketing",
-      "dev",
-      "virtual assistant",
-      "javascript",
-      "finance",
-      "education",
-      "cloud",
-      "api",
-      "mobile",
-      "ops",
-      "sys admin",
-      "engineer",
-      "digital nomad"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-product-engineering-lead-tether-operations-limited-1137478",
-    "source_date": "2026-10-10T00:00:05+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709700+00:00"
-  },
-  {
-    "id": "1137475",
-    "role": "Senior React Full stack Developer",
-    "company": "Lemon.io",
-    "location": "Worldwide",
-    "tags": [
-      "dev",
-      "engineer",
       "remote",
-      "python",
-      "aws",
-      "gcp",
-      "javascript",
-      "react",
-      "node",
-      "ruby",
-      "typescript",
-      "full time",
-      "full stack"
-    ],
-    "salary": {
-      "min": 80000,
-      "max": 200000,
-      "currency": "USD"
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-react-full-stack-developer-lemon-io-1137475",
-    "source_date": "2026-10-09T13:09:18+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709705+00:00"
-  },
-  {
-    "id": "1137474",
-    "role": "Product Design Lead",
-    "company": "Fuel50",
-    "location": "Worldwide",
-    "tags": [
-      "design",
-      "saas",
-      "sys admin",
-      "front end",
-      "technical",
-      "marketing",
-      "dev",
-      "virtual assistant",
-      "javascript",
-      "css",
-      "html",
-      "microsoft",
-      "exec",
-      "senior",
-      "medical",
-      "engineer",
-      "digital nomad"
+      "finance"
     ],
     "salary": {
       "min": null,
       "max": null,
       "currency": null
     },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-product-design-lead-fuel50-1137474",
-    "source_date": "2026-10-09T08:00:04+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709710+00:00"
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/advacc-advanced-accounting-gmbh/initiativbewerbung-buro-dusseldorf-456047",
+    "source_date": "1793289683",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
   },
   {
-    "id": "1137469",
-    "role": "Telefondienst fÃ¼r Tierarztpraxis Neuruppin o",
-    "company": "Tierarzt Plus Partner",
-    "location": "Neuruppin",
+    "id": "arbeitnow-senior-consultant-manager-operational-transformation-in-energy-utilities-resources-dusseldorf-munich-45775-baringa",
+    "role": "Senior Consultant | Manager (m/w/d) - Operational Transformation in Energy, Utilities & Resources",
+    "company": "Baringa",
+    "location": "Dusseldorf; Munich",
     "tags": [
-      "medical"
+      "retail",
+      "networks and water"
     ],
     "salary": {
       "min": null,
       "max": null,
       "currency": null
     },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-telefondienst-fur-tierarztpraxis-neuruppin-o-tierarzt-plus-partner-1137469",
-    "source_date": "2026-10-07T16:00:05+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709713+00:00"
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/baringa/senior-consultant-manager-operational-transformation-in-energy-utilities-resources-dusseldorf-munich-45775",
+    "source_date": "1793289344",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
   },
   {
-    "id": "1137466",
-    "role": "Project Manager",
-    "company": "Spiralyze",
-    "location": "Worldwide",
+    "id": "arbeitnow-people-culture-working-student-all-genders-berlin-45233-gotphoto",
+    "role": "People & Culture - Working Student (all genders)",
+    "company": "Gotphoto",
+    "location": "Berlin",
     "tags": [
-      "project manager",
-      "exec",
-      "ops",
-      "marketing",
-      "cro"
+      "people & culture"
     ],
     "salary": {
       "min": null,
       "max": null,
       "currency": null
     },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-project-manager-spiralyze-1137466",
-    "source_date": "2026-10-06T19:35:42+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709716+00:00"
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/gotphoto/people-culture-working-student-all-genders-berlin-45233",
+    "source_date": "1793288422",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
   },
   {
-    "id": "1137465",
-    "role": "Platform and Integration Engineer Security Telemetry",
-    "company": "RedMimicry",
-    "location": "Worldwide",
+    "id": "arbeitnow-digitale-lohnbuchhaltung-munich-465178-skalar",
+    "role": "Digitale Lohnbuchhaltung (w/m/d)",
+    "company": "Skalar",
+    "location": "München",
     "tags": [
-      "golang",
-      "infosec",
-      "engineer",
-      "part time"
+      "tax operations"
     ],
     "salary": {
       "min": null,
       "max": null,
       "currency": null
     },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-platform-and-integration-engineer-security-telemetry-redmimicry-1137465",
-    "source_date": "2026-10-05T13:00:02+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709720+00:00"
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/skalar/digitale-lohnbuchhaltung-munich-465178",
+    "source_date": "1793288422",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
   },
   {
-    "id": "1137463",
-    "role": "Federal Business Development Director",
-    "company": "Fortanix",
-    "location": "Worldwide",
+    "id": "arbeitnow-fachinformatiker-systemintegration-zell-488741-lammhrgm",
+    "role": "Fachinformatiker Systemintegration (m/w/d)",
+    "company": "Lamm HR GmbH",
+    "location": "Zell, Rheinland-Pfalz, Deutschland",
     "tags": [
-      "exec",
-      "infosec",
-      "teaching",
-      "consulting",
-      "technical",
-      "customer support",
-      "marketing",
-      "speech",
-      "cloud",
-      "bus dev",
-      "sales",
-      "medical"
+      "it"
     ],
     "salary": {
       "min": null,
       "max": null,
       "currency": null
     },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-federal-business-development-director-fortanix-1137463",
-    "source_date": "2026-10-04T16:00:03+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709727+00:00"
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/lamm-hr-gmbh/fachinformatiker-systemintegration-zell-488741",
+    "source_date": "1793287886",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
   },
   {
-    "id": "1137461",
-    "role": "Head of Operations",
-    "company": "Leverage Live Local",
-    "location": "Worldwide",
+    "id": "arbeitnow-sps-programmierer-twincat-3-mannheim-307786-lammhrgm",
+    "role": "SPS-Programmierer (m/w/d) Twincat-3",
+    "company": "Lamm HR GmbH",
+    "location": "Mannheim, Rheinland-Pfalz, Deutschland",
     "tags": [
-      "non tech",
-      "ops",
-      "exec"
+      "it"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/lamm-hr-gmbh/sps-programmierer-twincat-3-mannheim-307786",
+    "source_date": "1793287886",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
+  },
+  {
+    "id": "arbeitnow-senior-motion-vfx-designer-gn-berlin-284040-intermate",
+    "role": "Senior Motion & VFX Designer (gn)",
+    "company": "Intermate Media GmbH",
+    "location": "Berlin, Berlin, Deutschland",
+    "tags": [
+      "visual content"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/intermate-media-gmbh/senior-motion-vfx-designer-gn-berlin-284040",
+    "source_date": "1793287880",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
+  },
+  {
+    "id": "arbeitnow-senior-crm-lifecycle-analyst-b2c-marketing-automation-all-genders-munchen-80263-foodjigmb",
+    "role": "Senior CRM & Lifecycle Analyst (B2C) – Marketing Automation (all genders)",
+    "company": "Foodji GmbH",
+    "location": "München, Bayern, Deutschland",
+    "tags": [
+      "marketing"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/foodji-gmbh/senior-crm-lifecycle-analyst-b2c-marketing-automation-all-genders-munchen-80263",
+    "source_date": "1793287879",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
+  },
+  {
+    "id": "arbeitnow-werkstudent-business-development-offenbach-am-main-275849-holzlandb",
+    "role": "Werkstudent (w/m/d) Business Development",
+    "company": "Holzland Becker",
+    "location": "Offenbach am Main, Hessen, Deutschland",
+    "tags": [
+      "werkstudenten ofb"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/holzland-becker/werkstudent-business-development-offenbach-am-main-275849",
+    "source_date": "1793287879",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
+  },
+  {
+    "id": "arbeitnow-hr-manager-ulm-405461-primehra",
+    "role": "HR Manager (m/w/d)",
+    "company": "PRIME HR Agentur®",
+    "location": "Ulm",
+    "tags": [
+      "management",
+      "team leader"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/prime-hr-agentur/hr-manager-ulm-405461",
+    "source_date": "1793287861",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
+  },
+  {
+    "id": "arbeitnow-freelance-trainer-sap-ewm-immediate-start-berlin-266599-startsteps",
+    "role": "Freelance Trainer - SAP EWM - immediate start",
+    "company": "StartSteps Digital Education GmbH",
+    "location": "Berlin",
+    "tags": [
+      "remote",
+      "sap/erp consulting",
+      "development"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/startsteps-digital-education-gmbh/freelance-trainer-sap-ewm-immediate-start-berlin-266599",
+    "source_date": "1793287860",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
+  },
+  {
+    "id": "arbeitnow-working-student-cyber-security-engineering-berlin-329336-imtf",
+    "role": "Working Student (m/w/d) - Cyber Security Engineering",
+    "company": "Imtf",
+    "location": "Berlin, Germany",
+    "tags": [
+      "engineering",
+      "information technology and services",
+      "research and development"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/imtf/working-student-cyber-security-engineering-berlin-329336",
+    "source_date": "1793287215",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
+  },
+  {
+    "id": "arbeitnow-working-student-cyber-security-engineering-bensheim-277188-imtf",
+    "role": "Working Student (m/w/d) - Cyber Security Engineering",
+    "company": "Imtf",
+    "location": "Bensheim, Germany",
+    "tags": [
+      "engineering",
+      "information technology and services",
+      "research and development"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/imtf/working-student-cyber-security-engineering-bensheim-277188",
+    "source_date": "1793287215",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
+  },
+  {
+    "id": "arbeitnow-personalreferent-leipzig-206819-doceinsgm",
+    "role": "Personalreferent (m/w/d)",
+    "company": "Doceins GmbH",
+    "location": "Leipzig",
+    "tags": [
+      "personnel specialist"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/doceins-gmbh/personalreferent-leipzig-206819",
+    "source_date": "1793286087",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
+  },
+  {
+    "id": "arbeitnow-softwareentwickler-c-aalen-404937-k-tronikg",
+    "role": "Softwareentwickler C++ (m/w/d)",
+    "company": "K-tronik GmbH",
+    "location": "Aalen",
+    "tags": [
+      "software development"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/k-tronik-gmbh/softwareentwickler-c-aalen-404937",
+    "source_date": "1793286086",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
+  },
+  {
+    "id": "arbeitnow-fullstack-entwickler-mit-php-backend-symfony-rabbitmq-stuttgart-241857-rockstarde",
+    "role": "Fullstack Entwickler mit PHP-Backend – Symfony, RabbitMQ (m/w/d)",
+    "company": "Rockstardevelopers GmbH",
+    "location": "Stuttgart",
+    "tags": [
+      "remote",
+      "software development"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/fullstack-entwickler-mit-php-backend-symfony-rabbitmq-stuttgart-241857",
+    "source_date": "1793286085",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
+  },
+  {
+    "id": "arbeitnow-quantum-program-ecosystemmanager-berlin-238498-quantumbu",
+    "role": "Quantum Program & Ecosystemmanager (m/w/d)",
+    "company": "Quantum Business Network UG (haftungsbeschränkt)",
+    "location": "Berlin",
+    "tags": [
+      "remote",
+      "business development"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/quantum-business-network-ug-haftungsbeschrankt/quantum-program-ecosystemmanager-berlin-238498",
+    "source_date": "1793286085",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
+  },
+  {
+    "id": "arbeitnow-senior-backend-engineer-platform-munchen-295503-apaleo",
+    "role": "Senior Backend Engineer, Platform (f/m/d)",
+    "company": "Apaleo",
+    "location": "München, Bavaria, Germany",
+    "tags": [],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/apaleo/senior-backend-engineer-platform-munchen-295503",
+    "source_date": "1793285160",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
+  },
+  {
+    "id": "arbeitnow-director-brand-marketing-community-all-genders-berlin-220739-urbanspor",
+    "role": "Director Brand Marketing & Community (all genders)",
+    "company": "Urban Sports Club",
+    "location": "Berlin, Germany",
+    "tags": [],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/urban-sports-club/director-brand-marketing-community-all-genders-berlin-220739",
+    "source_date": "1793285160",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
+  },
+  {
+    "id": "arbeitnow-director-brand-marketing-community-munich-340902-urbanspor",
+    "role": "Director Brand Marketing & Community",
+    "company": "Urban Sports Club",
+    "location": "Munich, Bavaria, Germany",
+    "tags": [],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/urban-sports-club/director-brand-marketing-community-munich-340902",
+    "source_date": "1793285159",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
+  },
+  {
+    "id": "arbeitnow-objektleiter-gebaudedienste-dresden-142253-htservice",
+    "role": "Objektleiter Gebäudedienste (m/w/d)",
+    "company": "HT Service GmbH",
+    "location": "Dresden",
+    "tags": [
+      "building",
+      "supply",
+      "safety services engineering"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/ht-service-gmbh/objektleiter-gebaudedienste-dresden-142253",
+    "source_date": "1793284280",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
+  },
+  {
+    "id": "arbeitnow-it-systemadministrator-schelklingen-137785-stützle-sp",
+    "role": "IT-Systemadministrator (m/w/d)",
+    "company": "Stützle-Späth GmbH & Co. KG",
+    "location": "Schelklingen",
+    "tags": [
+      "system and network administration"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/stutzle-spath-gmbh-co-kg/it-systemadministrator-schelklingen-137785",
+    "source_date": "1793284279",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
+  },
+  {
+    "id": "arbeitnow-financial-controller-berlin-70675-radissonh",
+    "role": "Financial Controller (m/w/d)",
+    "company": "Radisson Hotel Group",
+    "location": "Berlin",
+    "tags": [
+      "controlling"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/radisson-hotel-group/financial-controller-berlin-70675",
+    "source_date": "1793284279",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
+  },
+  {
+    "id": "arbeitnow-leiter-softwareentwicklung-bietigheim-bissingen-440424-pciexpert",
+    "role": "Leiter Softwareentwicklung (m/w/d)",
+    "company": "PCI EXPERTS",
+    "location": "Bietigheim-Bissingen",
+    "tags": [
+      "management",
+      "team leader"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/pci-experts/leiter-softwareentwicklung-bietigheim-bissingen-440424",
+    "source_date": "1793284279",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
+  },
+  {
+    "id": "arbeitnow-objektleiter-gebaudedienste-halle-saale-237874-htservice",
+    "role": "Objektleiter Gebäudedienste (m/w/d)",
+    "company": "HT Service GmbH",
+    "location": "Halle (Saale)",
+    "tags": [
+      "building",
+      "supply",
+      "safety services engineering"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/ht-service-gmbh/objektleiter-gebaudedienste-halle-saale-237874",
+    "source_date": "1793284279",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
+  },
+  {
+    "id": "arbeitnow-praktikum-customer-success-berlin-121986-getmomo",
+    "role": "Praktikum Customer Success (m/w/d)",
+    "company": "getmomo",
+    "location": "Berlin",
+    "tags": [
+      "customer service"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/getmomo/praktikum-customer-success-berlin-121986",
+    "source_date": "1793284278",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
+  },
+  {
+    "id": "arbeitnow-wordpress-webentwicklerin-karlsruhe-426291-digitalewe",
+    "role": "WordPress-Webentwickler:in",
+    "company": "DIGITALEWEGE GmbH",
+    "location": "Karlsruhe",
+    "tags": [
+      "web development"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/digitalewege-gmbh/wordpress-webentwicklerin-karlsruhe-426291",
+    "source_date": "1793282491",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
+  },
+  {
+    "id": "arbeitnow-bauleiter-energie-und-netztechnik-leipzig-158725-atlastita",
+    "role": "Bauleiter Energie- und Netztechnik (w/m/d)",
+    "company": "ATLAS TITAN Ost GmbH",
+    "location": "Leipzig",
+    "tags": [
+      "building",
+      "supply",
+      "safety services engineering"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/atlas-titan-ost-gmbh/bauleiter-energie-und-netztechnik-leipzig-158725",
+    "source_date": "1793282491",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
+  },
+  {
+    "id": "arbeitnow-anlageberater-bad-neuenahr-ahrweiler-328137-kreisspark",
+    "role": "Anlageberater (m/w/d)",
+    "company": "Kreissparkasse Ahrweiler",
+    "location": "Bad Neuenahr-Ahrweiler",
+    "tags": [
+      "asset",
+      "fonds management"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/kreissparkasse-ahrweiler/anlageberater-bad-neuenahr-ahrweiler-328137",
+    "source_date": "1793282491",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
+  },
+  {
+    "id": "arbeitnow-system-engineer-virtuell-workspace-citrix-dortmund-439655-c.cure-g",
+    "role": "System Engineer (M/W/D) Virtuell Workspace Citrix",
+    "company": "c.cure - Geschäftsbereich der Megamaris GmbH",
+    "location": "Dortmund",
+    "tags": [
+      "system and network administration"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/ccure-geschaftsbereich-der-megamaris-gmbh/system-engineer-virtuell-workspace-citrix-dortmund-439655",
+    "source_date": "1793282490",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
+  },
+  {
+    "id": "arbeitnow-genehmigungsplaner-gis-und-datenmanagement-lehrte-450042-atlastita",
+    "role": "Genehmigungsplaner GIS und Datenmanagement (m/w/d)",
+    "company": "ATLAS TITAN Ost GmbH",
+    "location": "Lehrte",
+    "tags": [
+      "data processing",
+      "data engineer"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/atlas-titan-ost-gmbh/genehmigungsplaner-gis-und-datenmanagement-lehrte-450042",
+    "source_date": "1793282489",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
+  },
+  {
+    "id": "arbeitnow-pflichtpraktikum-rollout-operations-all-genders-frankfurt-am-main-42644-smooothit",
+    "role": "Pflichtpraktikum Rollout & Operations (all genders)",
+    "company": "SMOOOTH IT GmbH",
+    "location": "Frankfurt am Main",
+    "tags": [
+      "business operations"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/smoooth-it-gmbh/pflichtpraktikum-rollout-operations-all-genders-frankfurt-am-main-42644",
+    "source_date": "1793282489",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
+  },
+  {
+    "id": "arbeitnow-growth-product-manager-berlin-94308-7nxtgmbh",
+    "role": "Growth Product Manager (f/m/d)",
+    "company": "7NXT GmbH",
+    "location": "Berlin",
+    "tags": [
+      "product management"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/7nxt-gmbh/growth-product-manager-berlin-94308",
+    "source_date": "1793280666",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
+  },
+  {
+    "id": "arbeitnow-team-lead-performance-marketing-berlin-330858-smarketer",
+    "role": "Team Lead Performance Marketing (w/m/d)",
+    "company": "Smarketer Group",
+    "location": "Berlin",
+    "tags": [
+      "management",
+      "team leader"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/smarketer-group/team-lead-performance-marketing-berlin-330858",
+    "source_date": "1793280664",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
+  },
+  {
+    "id": "arbeitnow-senior-personalberater-in-recruitment-consultant-tax-professional-services-aachen-404612-dragon&g",
+    "role": "(Senior) Personalberater/in / Recruitment Consultant – Tax & Professional Services (m/w/d)",
+    "company": "Dragon & Gries GmbH & Co. KG",
+    "location": "Aachen",
+    "tags": [
+      "recruitment and selection"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/dragon-gries-gmbh-co-kg/senior-personalberater-in-recruitment-consultant-tax-professional-services-aachen-404612",
+    "source_date": "1793280664",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
+  },
+  {
+    "id": "arbeitnow-it-systemadministrator-hamburg-109684-hydromappe",
+    "role": "IT-Systemadministrator (w/m/d)",
+    "company": "HydroMapper GmbH",
+    "location": "Hamburg",
+    "tags": [
+      "system and network administration"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/hydromapper-gmbh/it-systemadministrator-hamburg-109684",
+    "source_date": "1793278861",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
+  },
+  {
+    "id": "arbeitnow-data-scientist-ai-engineer-hamburg-416194-hydromappe",
+    "role": "Data Scientist / AI Engineer (w/m/d)",
+    "company": "HydroMapper GmbH",
+    "location": "Hamburg",
+    "tags": [
+      "data scientist"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/hydromapper-gmbh/data-scientist-ai-engineer-hamburg-416194",
+    "source_date": "1793278861",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
+  },
+  {
+    "id": "arbeitnow-sales-manager-hockenheim-42774-aubexgmbh",
+    "role": "Sales Manager (w/m/d)",
+    "company": "aubex GmbH",
+    "location": "Hockenheim",
+    "tags": [
+      "management",
+      "team leader"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/aubex-gmbh/sales-manager-hockenheim-42774",
+    "source_date": "1793278859",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
+  },
+  {
+    "id": "arbeitnow-sales-manager-facility-management-munich-44607-glasspers",
+    "role": "Sales Manager (m/w/d) Facility Management",
+    "company": "Glass Personalberatung",
+    "location": "Munich",
+    "tags": [
+      "management",
+      "team leader"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/glass-personalberatung/sales-manager-facility-management-munich-44607",
+    "source_date": "1793278859",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
+  },
+  {
+    "id": "arbeitnow-senior-systems-software-engineer-gpu-compute-118024-nebius",
+    "role": "Senior Systems Software Engineer, GPU Compute",
+    "company": "Nebius",
+    "location": "Remote (Worldwide)",
+    "tags": [
+      "system engineers"
     ],
     "salary": {
       "min": 170000,
-      "max": 350000,
+      "max": 300000,
       "currency": "USD"
     },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-head-of-operations-leverage-live-local-1137461",
-    "source_date": "2026-10-03T20:20:32+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709731+00:00"
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/nebius/senior-systems-software-engineer-gpu-compute-118024",
+    "source_date": "1793278516",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
   },
   {
-    "id": "1137451",
-    "role": "Enterprise Sales Development Representative",
-    "company": "Toptal",
-    "location": "Worldwide",
+    "id": "arbeitnow-sales-development-representative-sme-growth-business-berlin-411961-airwallex",
+    "role": "Sales Development Representative, SME & Growth Business",
+    "company": "Airwallex",
+    "location": "DE - Berlin",
     "tags": [
-      "customer support",
-      "sales"
-    ],
-    "salary": {
-      "min": 10000,
-      "max": 50000,
-      "currency": "USD"
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-enterprise-sales-development-representative-toptal-1137451",
-    "source_date": "2026-09-30T18:24:42+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709734+00:00"
-  },
-  {
-    "id": "1137439",
-    "role": "Client Advisor",
-    "company": "Toptal",
-    "location": "Worldwide",
-    "tags": [
-      "customer support"
-    ],
-    "salary": {
-      "min": 10000,
-      "max": 50000,
-      "currency": "USD"
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-client-advisor-toptal-1137439",
-    "source_date": "2026-09-30T16:13:39+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709737+00:00"
-  },
-  {
-    "id": "1137434",
-    "role": "Director Payment Integrity",
-    "company": "SIHO Insurance Services",
-    "location": "SIHO - Columbus, IN",
-    "tags": [
-      "exec",
-      "sys admin",
-      "education",
-      "supervisor",
-      "customer support",
-      "quality assurance",
-      "c",
-      "microsoft",
-      "ops",
-      "excel",
-      "legal",
-      "medical"
+      "sme & growth business"
     ],
     "salary": {
       "min": null,
       "max": null,
       "currency": null
     },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-director-payment-integrity-siho-insurance-services-1137434",
-    "source_date": "2026-09-26T16:00:26+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709741+00:00"
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/airwallex/sales-development-representative-sme-growth-business-berlin-411961",
+    "source_date": "1793277635",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
   },
   {
-    "id": "1137427",
-    "role": "Software Engineer",
-    "company": "Prenosis",
-    "location": "Worldwide",
+    "id": "arbeitnow-account-manager-sme-growth-berlin-171930-airwallex",
+    "role": "Account Manager, SME & Growth",
+    "company": "Airwallex",
+    "location": "DE - Berlin",
     "tags": [
-      "golang",
-      "dev",
-      "engineer",
-      "digital nomad"
+      "sme & growth business"
     ],
     "salary": {
       "min": null,
       "max": null,
       "currency": null
     },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-software-engineer-prenosis-1137427",
-    "source_date": "2026-09-23T14:00:02+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709744+00:00"
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/airwallex/account-manager-sme-growth-berlin-171930",
+    "source_date": "1793277635",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
   },
   {
-    "id": "1137421",
-    "role": "Technical Product Manager AI Stockbroking App",
-    "company": "Bjak",
-    "location": "Germany",
+    "id": "arbeitnow-revenue-enablement-manager-just-in-time-enablement-cologne-495385-sosafe",
+    "role": "Revenue Enablement Manager (m/f/d), Just-in-Time Enablement",
+    "company": "SoSafe",
+    "location": "Cologne",
     "tags": [
-      "product manager",
-      "exec",
-      "design",
-      "sys admin",
-      "infosec",
-      "technical",
-      "finance",
-      "ruby",
-      "mobile",
-      "ops",
-      "engineer",
-      "digital nomad"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-technical-product-manager-ai-stockbroking-app-bjak-1137421",
-    "source_date": "2026-09-23T00:00:10+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709748+00:00"
-  },
-  {
-    "id": "1137414",
-    "role": "Senior Growth Product Manager AI Native",
-    "company": "Magic Eden",
-    "location": "Melbourne",
-    "tags": [
-      "product manager",
-      "marketing",
-      "exec",
-      "design",
-      "crypto",
-      "nft",
-      "game dev",
-      "consulting",
-      "testing",
-      "analyst",
-      "finance",
-      "senior",
-      "golang",
-      "engineer",
-      "digital nomad"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-growth-product-manager-ai-native-magic-eden-1137414",
-    "source_date": "2026-09-22T00:00:07+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709754+00:00"
-  },
-  {
-    "id": "1137412",
-    "role": "People Operations Coordinator",
-    "company": "Ashby",
-    "location": "Worldwide",
-    "tags": [
-      "saas",
-      "recruiter",
-      "coordinator",
-      "customer support",
-      "dev",
-      "exec",
-      "education",
-      "ops",
-      "medical",
-      "digital nomad"
-    ],
-    "salary": {
-      "min": 55000,
-      "max": 80000,
-      "currency": "USD"
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-people-operations-coordinator-ashby-1137412",
-    "source_date": "2026-09-21T16:00:11+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709760+00:00"
-  },
-  {
-    "id": "1137410",
-    "role": "Frontend Engineer",
-    "company": "Bjak",
-    "location": "Ireland",
-    "tags": [
-      "front end",
-      "design",
-      "react",
-      "graphql",
-      "react.js",
-      "technical",
-      "web dev",
-      "javascript",
-      "css",
-      "chatbot",
-      "html",
-      "typescript",
-      "node",
-      "node.js",
-      "exec",
-      "sys admin",
-      "engineer",
-      "backend",
-      "digital nomad"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410",
-    "source_date": "2026-09-20T00:00:25+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709765+00:00"
-  },
-  {
-    "id": "1137407",
-    "role": "VP Pricing & Packaging",
-    "company": "Delinea",
-    "location": "Redwood City",
-    "tags": [
-      "design",
-      "saas",
-      "salesforce",
-      "infosec",
-      "vfx",
-      "dev",
-      "finance",
-      "education",
-      "cloud",
-      "admin",
-      "exec",
-      "ops",
-      "marketing",
-      "sales",
-      "medical",
-      "digital nomad"
-    ],
-    "salary": {
-      "min": 300000,
-      "max": 340000,
-      "currency": "USD"
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-vp-pricing-packaging-delinea-1137407",
-    "source_date": "2026-09-19T00:00:16+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709769+00:00"
-  },
-  {
-    "id": "1137400",
-    "role": "Golang Kubernetes Engineer",
-    "company": "Arango",
-    "location": "Worldwide",
-    "tags": [
-      "golang",
-      "golang",
-      "engineer"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
-    "source_date": "2026-09-16T19:00:02+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709774+00:00"
-  },
-  {
-    "id": "1137394",
-    "role": "Sr Solutions Architect",
-    "company": "ExtraHop",
-    "location": "Remote",
-    "tags": [
-      "architecture",
-      "design",
-      "infosec",
-      "python",
-      "technical",
-      "customer support",
-      "javascript",
-      "api",
-      "ops",
-      "marketing",
-      "sales",
-      "digital nomad"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-sr-solutions-architect-extrahop-1137394",
-    "source_date": "2026-09-15T00:00:26+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709778+00:00"
-  },
-  {
-    "id": "1137388",
-    "role": "Technical Product Lead AI Finance App",
-    "company": "Bjak",
-    "location": "Seoul",
-    "tags": [
-      "design",
-      "sys admin",
-      "infosec",
-      "exec",
-      "technical",
-      "finance",
-      "ruby",
-      "mobile",
-      "ops",
-      "engineer",
-      "digital nomad"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-technical-product-lead-ai-finance-app-bjak-1137388",
-    "source_date": "2026-09-12T16:00:10+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709782+00:00"
-  },
-  {
-    "id": "1137387",
-    "role": "Software Engineer",
-    "company": "Mirantis",
-    "location": "Worldwide",
-    "tags": [
-      "golang",
-      "dev",
-      "engineer",
-      "digital nomad"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-software-engineer-mirantis-1137387",
-    "source_date": "2026-09-12T14:00:03+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709785+00:00"
-  },
-  {
-    "id": "1137381",
-    "role": "Marketing Student Assistant",
-    "company": "Copenhagen Optimization",
-    "location": "Worldwide",
-    "tags": [
-      "virtual assistant",
-      "strategy",
-      "customer support",
-      "dev",
-      "marketing",
-      "exec",
-      "content writing",
-      "ops",
-      "golang",
-      "digital nomad"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-marketing-student-assistant-copenhagen-optimization-1137381",
-    "source_date": "2026-09-11T08:00:08+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709789+00:00"
-  },
-  {
-    "id": "1137379",
-    "role": "Senior Communications Officer Strategic Communications",
-    "company": "GiveWell",
-    "location": "United States",
-    "tags": [
-      "exec",
-      "senior",
-      "medical"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-communications-officer-strategic-communications-givewell-1137379",
-    "source_date": "2026-09-11T00:00:23+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709793+00:00"
-  },
-  {
-    "id": "1137375",
-    "role": "External Data Specialist",
-    "company": "eClinical Solutions",
-    "location": "Remote",
-    "tags": [
-      "cloud",
-      "exec",
-      "stats"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-external-data-specialist-eclinical-solutions-1137375",
-    "source_date": "2026-09-10T16:00:15+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709797+00:00"
-  },
-  {
-    "id": "1137373",
-    "role": "Business Development Manager",
-    "company": "Libertex Group",
-    "location": "ÙØ³ÙØ·, ÙØ³ÙØ· ÙØ³ÙØ· Ø¹ÙØ§Ù",
-    "tags": [
-      "product manager",
-      "exec",
-      "design",
-      "crypto",
-      "marketing",
-      "finance",
-      "bus dev",
-      "recruiter",
-      "digital nomad"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-business-development-manager-libertex-group-1137373",
-    "source_date": "2026-09-08T14:57:50+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709803+00:00"
-  },
-  {
-    "id": "1137374",
-    "role": "Quality Dispense Technician North",
-    "company": "Thatchers Cider",
-    "location": "Greater Newcastle Area,",
-    "tags": [
-      "education",
-      "marketing",
-      "finance",
-      "exec",
-      "excel",
-      "golang"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-quality-dispense-technician-north-thatchers-cider-1137374",
-    "source_date": "2026-09-08T13:51:19+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709807+00:00"
-  },
-  {
-    "id": "1137224",
-    "role": "AI Engineer Data APIs",
-    "company": "Benzinga",
-    "location": "Worldwide",
-    "tags": [
-      "golang",
-      "video",
-      "engineer"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-ai-engineer-data-apis-benzinga-1137224",
-    "source_date": "2026-08-30T21:00:01+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709810+00:00"
-  },
-  {
-    "id": "1137162",
-    "role": "Principal Engineer",
-    "company": "The AI Whistleblower Initiative",
-    "location": "Worldwide",
-    "tags": [
-      "golang",
-      "engineer"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-principal-engineer-the-ai-whistleblower-initiative-1137162",
-    "source_date": "2026-08-27T09:00:02+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709814+00:00"
-  },
-  {
-    "id": "1137155",
-    "role": "Oracle Fusion Cloud Lead â Logistics & Supply Chain Management",
-    "company": "Tessera Labs",
-    "location": "Worldwide",
-    "tags": [
-      "design",
-      "sys admin",
-      "consulting",
-      "testing",
-      "exec",
-      "cloud",
-      "senior",
-      "ops",
-      "engineer",
-      "ecommerce",
-      "shopify",
-      "full time",
-      "digital nomad"
-    ],
-    "salary": {
-      "min": 30,
-      "max": 36,
-      "currency": "USD"
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-oracle-fusion-cloud-lead-logistics-supply-chain-management-tessera-labs-1137155",
-    "source_date": "2026-08-27T00:00:17+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709821+00:00"
-  },
-  {
-    "id": "1137194",
-    "role": "Renewables Project Scheduler",
-    "company": "Transportation Partners &amp; Logistics",
-    "location": "Black Bess,",
-    "tags": [
-      "sys admin",
-      "technical",
-      "customer support",
-      "testing",
-      "travel",
-      "microsoft",
-      "exec",
-      "excel",
-      "stats",
-      "engineer"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-renewables-project-scheduler-transportation-partners-amp-logistics-1137194",
-    "source_date": "2026-08-25T21:34:13+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709825+00:00"
-  },
-  {
-    "id": "1137114",
-    "role": "Senior Backend Engineer Build AI Agents",
-    "company": "Salesforge",
-    "location": "Worldwide",
-    "tags": [
-      "golang",
-      "senior",
-      "sales",
-      "engineer",
-      "backend"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1137114",
-    "source_date": "2026-08-25T07:00:03+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709830+00:00"
-  },
-  {
-    "id": "1137072",
-    "role": "Senior Specialist Global QMS",
-    "company": "Orca Bio",
-    "location": "Worldwide",
-    "tags": [
-      "hr",
-      "sys admin",
-      "customer support",
-      "marketing",
-      "education",
-      "exec",
-      "senior",
-      "medical",
-      "engineer",
-      "recruiter",
-      "full time"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-specialist-global-qms-orca-bio-1137072",
-    "source_date": "2026-08-22T16:00:15+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709833+00:00"
-  },
-  {
-    "id": "1137062",
-    "role": "DESARROLLADOR FULL STACK",
-    "company": "Kruger NearShore LLC - Rekluti",
-    "location": "Worldwide",
-    "tags": [
-      "full stack",
-      "front end",
-      "python",
-      "dev",
-      "testing",
-      "web dev",
-      "quality assurance",
-      "devops",
-      "c",
-      "cloud",
-      "nosql",
-      "git",
-      "flutter",
-      "angular",
-      "mobile",
-      "golang",
-      "backend",
-      "digital nomad"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062",
-    "source_date": "2026-08-22T00:00:12+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709838+00:00"
-  },
-  {
-    "id": "1136987",
-    "role": "Consultant Implementation Engineer",
-    "company": "Harbor",
-    "location": "Remote",
-    "tags": [
-      "consulting",
-      "technical",
-      "accounting",
-      "legal",
-      "golang",
-      "engineer"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-consultant-implementation-engineer-harbor-1136987",
-    "source_date": "2026-08-20T00:00:15+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709843+00:00"
-  },
-  {
-    "id": "1136950",
-    "role": "Marketing Operations Specialist",
-    "company": "Engine",
-    "location": "Remote - US",
-    "tags": [
-      "customer support",
-      "marketing",
-      "travel",
-      "finance",
-      "exec",
-      "ops",
       "sales"
     ],
     "salary": {
@@ -2351,227 +1963,231 @@
       "max": null,
       "currency": null
     },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-marketing-operations-specialist-engine-1136950",
-    "source_date": "2026-08-18T16:00:57+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709847+00:00"
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/sosafe/revenue-enablement-manager-just-in-time-enablement-cologne-495385",
+    "source_date": "1793277634",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
   },
   {
-    "id": "1136949",
-    "role": "Team Lead Education",
-    "company": "Chaos",
-    "location": "Worldwide",
+    "id": "arbeitnow-produktmanager-in-hamburg-oder-remote-195394-demvsyste",
+    "role": "Produktmanager (m/w/d) in Hamburg oder Remote",
+    "company": "DEMV Systems Gmbh",
+    "location": "Homeoffice",
     "tags": [
-      "design",
-      "saas",
-      "vfx",
-      "customer support",
-      "dev",
-      "marketing",
-      "exec",
-      "education",
-      "content writing",
-      "senior",
-      "sales",
-      "golang",
-      "ecommerce",
-      "digital nomad"
+      "alle",
+      "remote"
     ],
     "salary": {
       "min": null,
       "max": null,
       "currency": null
     },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-team-lead-education-chaos-1136949",
-    "source_date": "2026-08-18T16:00:30+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709853+00:00"
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/demv-systems-gmbh/produktmanager-in-hamburg-oder-remote-195394",
+    "source_date": "1793277115",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
   },
   {
-    "id": "1136948",
-    "role": "Digital Workplace & Automation Specialist",
-    "company": "Dreem Health",
-    "location": "United States",
+    "id": "arbeitnow-working-student-procurement-land-domain-gilching-61847-quantum-sy",
+    "role": "Working Student – Procurement, Land Domain (m/f/d)",
+    "company": "Quantum-Systems GmbH",
+    "location": "Gilching, Bayern, Germany",
     "tags": [
-      "design",
-      "customer support",
-      "testing",
-      "exec",
-      "ops",
-      "marketing",
-      "sales",
-      "medical",
-      "digital nomad"
+      "student & early professionals"
     ],
     "salary": {
       "min": null,
       "max": null,
       "currency": null
     },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-    "source_date": "2026-08-18T16:00:22+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709857+00:00"
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/working-student-procurement-land-domain-gilching-61847",
+    "source_date": "1793277107",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
   },
   {
-    "id": "1136937",
-    "role": "Solutions Delivery Manager",
-    "company": "Benchling",
-    "location": "Boston",
+    "id": "arbeitnow-praktikant-im-bereich-touristische-medien-projekte-konstanz-496761-südkurier",
+    "role": "Praktikant (m/w/d) im Bereich touristische Medien & Projekte",
+    "company": "SÜDKURIER Medienhaus",
+    "location": "Konstanz, Baden-Württemberg, Deutschland",
     "tags": [
-      "exec",
-      "design",
-      "technical",
-      "marketing",
-      "sales",
-      "biotech",
-      "medical",
-      "education",
-      "digital nomad"
-    ],
-    "salary": {
-      "min": 150000,
-      "max": 200000,
-      "currency": "USD"
-    },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-    "source_date": "2026-08-18T08:00:07+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709861+00:00"
-  },
-  {
-    "id": "1136861",
-    "role": "Hotline Paralegal",
-    "company": "Legal Services NYC",
-    "location": "LSNYC Central Office",
-    "tags": [
-      "infosec",
-      "education",
-      "dev",
-      "marketing",
-      "exec",
-      "legal",
-      "medical",
-      "digital nomad"
+      "sk one gmbh"
     ],
     "salary": {
       "min": null,
       "max": null,
       "currency": null
     },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-hotline-paralegal-legal-services-nyc-1136861",
-    "source_date": "2026-08-17T16:00:38+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709895+00:00"
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/sudkurier-medienhaus/praktikant-im-bereich-touristische-medien-projekte-konstanz-496761",
+    "source_date": "1793277106",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
   },
   {
-    "id": "1136844",
-    "role": "Senior Contracts and Budget Associate",
-    "company": "Precision Medicine Group",
-    "location": "South Korea",
+    "id": "arbeitnow-working-student-customer-care-ludwigsburg-471612-instagrid",
+    "role": "Working Student - Customer Care (f/m/d)",
+    "company": "Instagrid",
+    "location": "Ludwigsburg, Baden-Württemberg, Germany",
     "tags": [
-      "supervisor",
-      "customer support",
-      "exec",
-      "senior",
-      "ops",
-      "legal",
-      "biotech"
+      "customer care"
     ],
     "salary": {
       "min": null,
       "max": null,
       "currency": null
     },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-contracts-and-budget-associate-precision-medicine-group-1136844",
-    "source_date": "2026-08-17T08:00:35+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709906+00:00"
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/instagrid/working-student-customer-care-ludwigsburg-471612",
+    "source_date": "1793277105",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
   },
   {
-    "id": "1136841",
-    "role": "Lead Product Designer",
-    "company": "HighLevel",
-    "location": "India",
+    "id": "arbeitnow-werkstudent-im-bereich-legal-detmold-26255-wortmannk",
+    "role": "Werkstudent (m/w/d) im Bereich Legal",
+    "company": "Wortmann KG Internationale Schuhproduktionen",
+    "location": "Detmold, Nordrhein-Westfalen, Deutschland",
     "tags": [
-      "product designer",
-      "design",
-      "saas",
-      "sys admin",
-      "designer",
-      "technical",
-      "customer support",
-      "testing",
-      "marketing",
-      "api",
-      "exec",
-      "content writing",
-      "senior",
-      "ops",
-      "legal",
-      "engineer",
-      "digital nomad"
+      "praktikum & werkstudententätigkeit"
     ],
     "salary": {
       "min": null,
       "max": null,
       "currency": null
     },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-lead-product-designer-highlevel-1136841",
-    "source_date": "2026-08-17T08:00:03+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709917+00:00"
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/wortmann-kg-internationale-schuhproduktionen/werkstudent-im-bereich-legal-detmold-26255",
+    "source_date": "1793277100",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
   },
   {
-    "id": "1136798",
-    "role": "Member of Technical Staff Engineering",
-    "company": "Physical Superintelligence",
-    "location": "Boston",
+    "id": "arbeitnow-working-student-backend-development-product-creation-assignment-mwd-berlin-272657-idealoint",
+    "role": "Working Student - Backend Development Product Creation & Assignment (m|w|d)",
+    "company": "idealo internet GmbH",
+    "location": "Berlin, Berlin, Deutschland",
     "tags": [
-      "design",
-      "infosec",
-      "technical",
-      "dev",
-      "testing",
-      "cloud",
-      "exec",
-      "engineer",
-      "digital nomad"
+      "career starters"
     ],
     "salary": {
       "min": null,
       "max": null,
       "currency": null
     },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-member-of-technical-staff-engineering-physical-superintelligence-1136798",
-    "source_date": "2026-08-16T00:00:23+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709924+00:00"
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/working-student-backend-development-product-creation-assignment-mwd-berlin-272657",
+    "source_date": "1793277100",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
   },
   {
-    "id": "1136797",
-    "role": "Strategic Account Executive Lodging",
-    "company": "FreedomPay",
-    "location": "Select USA Remote Locations",
+    "id": "arbeitnow-werkstudent-in-vertrieb-recruiting-aachen-370347-dragon&g",
+    "role": "Werkstudent/in Vertrieb / Recruiting (m/w/d)",
+    "company": "Dragon & Gries GmbH & Co. KG",
+    "location": "Aachen",
     "tags": [
-      "saas",
-      "infosec",
-      "game dev",
-      "consulting",
-      "marketing",
-      "travel",
-      "speech",
-      "exec",
-      "finance",
-      "education",
-      "api",
-      "mobile",
-      "senior",
-      "ops",
-      "stats",
-      "sales",
-      "medical",
-      "full time"
+      "recruitment and selection"
     ],
     "salary": {
       "min": null,
       "max": null,
       "currency": null
     },
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-strategic-account-executive-lodging-freedompay-1136797",
-    "source_date": "2026-08-16T00:00:16+00:00",
-    "ingested_at": "2026-10-29T18:02:41.709929+00:00"
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/dragon-gries-gmbh-co-kg/werkstudent-in-vertrieb-recruiting-aachen-370347",
+    "source_date": "1793277070",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
+  },
+  {
+    "id": "arbeitnow-werkstudent-in-recruiting-personalberatung-aachen-420467-dragon&g",
+    "role": "Werkstudent/in Recruiting / Personalberatung",
+    "company": "Dragon & Gries GmbH & Co. KG",
+    "location": "Aachen",
+    "tags": [
+      "recruitment and selection"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/dragon-gries-gmbh-co-kg/werkstudent-in-recruiting-personalberatung-aachen-420467",
+    "source_date": "1793277070",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
+  },
+  {
+    "id": "arbeitnow-junior-personalberater-in-recruitment-consultant-aachen-340133-dragon&g",
+    "role": "Junior Personalberater/in – Recruitment Consultant (m/w/d)",
+    "company": "Dragon & Gries GmbH & Co. KG",
+    "location": "Aachen",
+    "tags": [
+      "recruitment and selection"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/dragon-gries-gmbh-co-kg/junior-personalberater-in-recruitment-consultant-aachen-340133",
+    "source_date": "1793277070",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
+  },
+  {
+    "id": "arbeitnow-senior-software-engineer-ruby-on-rails-100-remote-berlin-362971-easybillg",
+    "role": "Senior Software Engineer Ruby on Rails 100 % remote (m/w/d)",
+    "company": "easybill GmbH",
+    "location": "Berlin",
+    "tags": [
+      "remote",
+      "software development"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/easybill-gmbh/senior-software-engineer-ruby-on-rails-100-remote-berlin-362971",
+    "source_date": "1793277069",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
+  },
+  {
+    "id": "arbeitnow-working-student-captains-management-at-meet5-usa-frankfurt-am-main-458985-meet5gmbh",
+    "role": "Working Student Captains Management at Meet5 USA (f/m/x)",
+    "company": "Meet5 GmbH",
+    "location": "Frankfurt am Main",
+    "tags": [
+      "business operations"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/meet5-gmbh/working-student-captains-management-at-meet5-usa-frankfurt-am-main-458985",
+    "source_date": "1793277068",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
+  },
+  {
+    "id": "arbeitnow-partnermanager-aufbau-partnerprogramm-flensburg-265384-epicaigm",
+    "role": "Partnermanager (m/w/d) – Aufbau Partnerprogramm",
+    "company": "Epic AI GmbH",
+    "location": "Flensburg",
+    "tags": [
+      "business development"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/epic-ai-gmbh/partnermanager-aufbau-partnerprogramm-flensburg-265384",
+    "source_date": "1793277068",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
+  },
+  {
+    "id": "arbeitnow-payroll-specialist-karlsruhe-113068-ionosse",
+    "role": "Payroll Specialist (w/m/d)",
+    "company": "IONOS SE",
+    "location": "Karlsruhe",
+    "tags": [
+      "hr"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/ionos-se/payroll-specialist-karlsruhe-113068",
+    "source_date": "1793277068",
+    "ingested_at": "2026-10-29T19:40:53.199250+00:00"
   }
 ]
