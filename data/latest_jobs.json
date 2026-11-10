@@ -17,7 +17,7 @@
     },
     "apply_url": "https://remote.com/careers",
     "source_date": "2024-10-09",
-    "ingested_at": "2026-11-10T05:59:53.419106+00:00"
+    "ingested_at": "2026-11-10T19:20:44.589010+00:00"
   },
   {
     "id": "seed-frontend-linear",
@@ -36,7 +36,7 @@
     },
     "apply_url": "https://linear.app/careers",
     "source_date": "2024-10-08",
-    "ingested_at": "2026-11-10T05:59:53.419106+00:00"
+    "ingested_at": "2026-11-10T19:20:44.589010+00:00"
   },
   {
     "id": "seed-react-shopify",
@@ -56,7 +56,7 @@
     },
     "apply_url": "https://shopify.com/careers",
     "source_date": "2024-10-07",
-    "ingested_at": "2026-11-10T05:59:53.419106+00:00"
+    "ingested_at": "2026-11-10T19:20:44.589010+00:00"
   },
   {
     "id": "seed-data-airbnb",
@@ -76,7 +76,7 @@
     },
     "apply_url": "https://careers.airbnb.com",
     "source_date": "2024-10-06",
-    "ingested_at": "2026-11-10T05:59:53.419106+00:00"
+    "ingested_at": "2026-11-10T19:20:44.589010+00:00"
   },
   {
     "id": "seed-backend-stripe",
@@ -96,7 +96,7 @@
     },
     "apply_url": "https://stripe.com/jobs",
     "source_date": "2024-10-05",
-    "ingested_at": "2026-11-10T05:59:53.419106+00:00"
+    "ingested_at": "2026-11-10T19:20:44.589010+00:00"
   },
   {
     "id": "seed-eng-ramp",
@@ -116,7 +116,7 @@
     },
     "apply_url": "https://ramp.com/careers",
     "source_date": "2024-10-04",
-    "ingested_at": "2026-11-10T05:59:53.419106+00:00"
+    "ingested_at": "2026-11-10T19:20:44.589010+00:00"
   },
   {
     "id": "seed-sre-datadog",
@@ -136,7 +136,7 @@
     },
     "apply_url": "https://datadoghq.com/careers",
     "source_date": "2024-10-03",
-    "ingested_at": "2026-11-10T05:59:53.419106+00:00"
+    "ingested_at": "2026-11-10T19:20:44.589010+00:00"
   },
   {
     "id": "seed-backend-cloudflare",
@@ -156,7 +156,7 @@
     },
     "apply_url": "https://cloudflare.com/careers",
     "source_date": "2024-10-02",
-    "ingested_at": "2026-11-10T05:59:53.419106+00:00"
+    "ingested_at": "2026-11-10T19:20:44.589010+00:00"
   },
   {
     "id": "seed-ml-eng-anthropic",
@@ -176,7 +176,7 @@
     },
     "apply_url": "https://anthropic.com/careers",
     "source_date": "2024-10-01",
-    "ingested_at": "2026-11-10T05:59:53.419106+00:00"
+    "ingested_at": "2026-11-10T19:20:44.589010+00:00"
   },
   {
     "id": "seed-ai-researcher-openai",
@@ -196,7 +196,7 @@
     },
     "apply_url": "https://openai.com/careers",
     "source_date": "2024-10-01",
-    "ingested_at": "2026-11-10T05:59:53.419106+00:00"
+    "ingested_at": "2026-11-10T19:20:44.589010+00:00"
   },
   {
     "id": "seed-security-wiz",
@@ -216,7 +216,7 @@
     },
     "apply_url": "https://wiz.io/careers",
     "source_date": "2024-10-01",
-    "ingested_at": "2026-11-10T05:59:53.419106+00:00"
+    "ingested_at": "2026-11-10T19:20:44.589010+00:00"
   },
   {
     "id": "seed-go-tailscale",
@@ -236,7 +236,7 @@
     },
     "apply_url": "https://tailscale.com/careers",
     "source_date": "2024-09-30",
-    "ingested_at": "2026-11-10T05:59:53.419106+00:00"
+    "ingested_at": "2026-11-10T19:20:44.589010+00:00"
   },
   {
     "id": "seed-eng-zapier",
@@ -256,7 +256,7 @@
     },
     "apply_url": "https://zapier.com/jobs",
     "source_date": "2024-09-29",
-    "ingested_at": "2026-11-10T05:59:53.419106+00:00"
+    "ingested_at": "2026-11-10T19:20:44.589010+00:00"
   },
   {
     "id": "seed-data-databricks",
@@ -276,7 +276,7 @@
     },
     "apply_url": "https://databricks.com/company/careers",
     "source_date": "2024-09-28",
-    "ingested_at": "2026-11-10T05:59:53.419106+00:00"
+    "ingested_at": "2026-11-10T19:20:44.589010+00:00"
   },
   {
     "id": "seed-eng-brex",
@@ -296,7 +296,7 @@
     },
     "apply_url": "https://brex.com/careers",
     "source_date": "2024-09-26",
-    "ingested_at": "2026-11-10T05:59:53.419106+00:00"
+    "ingested_at": "2026-11-10T19:20:44.589010+00:00"
   },
   {
     "id": "seed-eng-gitlab",
@@ -316,7 +316,7 @@
     },
     "apply_url": "https://about.gitlab.com/jobs",
     "source_date": "2024-09-25",
-    "ingested_at": "2026-11-10T05:59:53.419106+00:00"
+    "ingested_at": "2026-11-10T19:20:44.589010+00:00"
   },
   {
     "id": "seed-eng-duolingo",
@@ -336,7 +336,7 @@
     },
     "apply_url": "https://duolingo.com/careers",
     "source_date": "2024-09-23",
-    "ingested_at": "2026-11-10T05:59:53.419106+00:00"
+    "ingested_at": "2026-11-10T19:20:44.589010+00:00"
   },
   {
     "id": "seed-devops-github",
@@ -356,7 +356,7 @@
     },
     "apply_url": "https://github.com/about/careers",
     "source_date": "2024-09-22",
-    "ingested_at": "2026-11-10T05:59:53.419106+00:00"
+    "ingested_at": "2026-11-10T19:20:44.589010+00:00"
   },
   {
     "id": "seed-ai-eng-cohere",
@@ -376,7 +376,7 @@
     },
     "apply_url": "https://cohere.com/careers",
     "source_date": "2024-09-20",
-    "ingested_at": "2026-11-10T05:59:53.419106+00:00"
+    "ingested_at": "2026-11-10T19:20:44.589010+00:00"
   },
   {
     "id": "seed-mid-automattic",
@@ -396,7 +396,7 @@
     },
     "apply_url": "https://automattic.com/work-with-us",
     "source_date": "2024-09-19",
-    "ingested_at": "2026-11-10T05:59:53.419106+00:00"
+    "ingested_at": "2026-11-10T19:20:44.589010+00:00"
   },
   {
     "id": "seed-eng-hashicorp",
@@ -416,7 +416,7 @@
     },
     "apply_url": "https://hashicorp.com/jobs",
     "source_date": "2024-09-18",
-    "ingested_at": "2026-11-10T05:59:53.419106+00:00"
+    "ingested_at": "2026-11-10T19:20:44.589010+00:00"
   },
   {
     "id": "seed-python-posthog",
@@ -436,7 +436,7 @@
     },
     "apply_url": "https://posthog.com/careers",
     "source_date": "2024-09-17",
-    "ingested_at": "2026-11-10T05:59:53.419106+00:00"
+    "ingested_at": "2026-11-10T19:20:44.589010+00:00"
   },
   {
     "id": "seed-ml-engineer-mistral",
@@ -456,7 +456,7 @@
     },
     "apply_url": "https://mistral.ai/careers",
     "source_date": "2024-09-15",
-    "ingested_at": "2026-11-10T05:59:53.419106+00:00"
+    "ingested_at": "2026-11-10T19:20:44.589010+00:00"
   },
   {
     "id": "seed-security-crowdstrike",
@@ -476,7 +476,7 @@
     },
     "apply_url": "https://crowdstrike.com/careers",
     "source_date": "2024-09-15",
-    "ingested_at": "2026-11-10T05:59:53.419106+00:00"
+    "ingested_at": "2026-11-10T19:20:44.589010+00:00"
   },
   {
     "id": "seed-support-fly",
@@ -496,7 +496,7 @@
     },
     "apply_url": "https://fly.io/jobs",
     "source_date": "2024-09-14",
-    "ingested_at": "2026-11-10T05:59:53.419106+00:00"
+    "ingested_at": "2026-11-10T19:20:44.589010+00:00"
   },
   {
     "id": "seed-fullstack-notion",
@@ -516,7 +516,7 @@
     },
     "apply_url": "https://notion.so/careers",
     "source_date": "2024-09-12",
-    "ingested_at": "2026-11-10T05:59:53.419106+00:00"
+    "ingested_at": "2026-11-10T19:20:44.589010+00:00"
   },
   {
     "id": "seed-rust-1password",
@@ -535,7 +535,7 @@
     },
     "apply_url": "https://1password.com/careers",
     "source_date": "2024-09-11",
-    "ingested_at": "2026-11-10T05:59:53.419106+00:00"
+    "ingested_at": "2026-11-10T19:20:44.589010+00:00"
   },
   {
     "id": "seed-platform-vercel",
@@ -555,7 +555,7 @@
     },
     "apply_url": "https://vercel.com/careers",
     "source_date": "2024-09-10",
-    "ingested_at": "2026-11-10T05:59:53.419106+00:00"
+    "ingested_at": "2026-11-10T19:20:44.589010+00:00"
   },
   {
     "id": "seed-design-canva",
@@ -575,7 +575,7 @@
     },
     "apply_url": "https://canva.com/careers",
     "source_date": "2024-09-09",
-    "ingested_at": "2026-11-10T05:59:53.419106+00:00"
+    "ingested_at": "2026-11-10T19:20:44.589010+00:00"
   },
   {
     "id": "seed-qa-checkly",
@@ -595,7 +595,7 @@
     },
     "apply_url": "https://checklyhq.com/careers",
     "source_date": "2024-09-07",
-    "ingested_at": "2026-11-10T05:59:53.419106+00:00"
+    "ingested_at": "2026-11-10T19:20:44.589010+00:00"
   },
   {
     "id": "seed-frontend-figma",
@@ -615,7 +615,7 @@
     },
     "apply_url": "https://figma.com/careers",
     "source_date": "2024-09-05",
-    "ingested_at": "2026-11-10T05:59:53.419106+00:00"
+    "ingested_at": "2026-11-10T19:20:44.589010+00:00"
   },
   {
     "id": "seed-mobile-buffer",
@@ -635,7 +635,7 @@
     },
     "apply_url": "https://buffer.com/journey",
     "source_date": "2024-09-03",
-    "ingested_at": "2026-11-10T05:59:53.419106+00:00"
+    "ingested_at": "2026-11-10T19:20:44.589010+00:00"
   },
   {
     "id": "seed-sre-pagerduty",
@@ -655,7 +655,7 @@
     },
     "apply_url": "https://pagerduty.com/careers",
     "source_date": "2024-09-01",
-    "ingested_at": "2026-11-10T05:59:53.419106+00:00"
+    "ingested_at": "2026-11-10T19:20:44.589010+00:00"
   },
   {
     "id": "seed-eng-planetscale",
@@ -675,7 +675,7 @@
     },
     "apply_url": "https://planetscale.com/careers",
     "source_date": "2024-08-30",
-    "ingested_at": "2026-11-10T05:59:53.419106+00:00"
+    "ingested_at": "2026-11-10T19:20:44.589010+00:00"
   },
   {
     "id": "seed-cloud-gruntwork",
@@ -695,7 +695,7 @@
     },
     "apply_url": "https://gruntwork.io/careers",
     "source_date": "2024-08-28",
-    "ingested_at": "2026-11-10T05:59:53.419106+00:00"
+    "ingested_at": "2026-11-10T19:20:44.589010+00:00"
   },
   {
     "id": "seed-product-loom",
@@ -715,7 +715,7 @@
     },
     "apply_url": "https://loom.com/careers",
     "source_date": "2024-08-25",
-    "ingested_at": "2026-11-10T05:59:53.419106+00:00"
+    "ingested_at": "2026-11-10T19:20:44.589010+00:00"
   },
   {
     "id": "seed-data-dbt",
@@ -735,7 +735,7 @@
     },
     "apply_url": "https://getdbt.com/careers",
     "source_date": "2024-08-20",
-    "ingested_at": "2026-11-10T05:59:53.419106+00:00"
+    "ingested_at": "2026-11-10T19:20:44.589010+00:00"
   },
   {
     "id": "seed-eng-beehiiv",
@@ -755,7 +755,7 @@
     },
     "apply_url": "https://beehiiv.com/careers",
     "source_date": "2024-08-19",
-    "ingested_at": "2026-11-10T05:59:53.419106+00:00"
+    "ingested_at": "2026-11-10T19:20:44.589010+00:00"
   },
   {
     "id": "seed-python-fastly",
@@ -775,7 +775,7 @@
     },
     "apply_url": "https://fastly.com/about/careers",
     "source_date": "2024-08-15",
-    "ingested_at": "2026-11-10T05:59:53.419106+00:00"
+    "ingested_at": "2026-11-10T19:20:44.589010+00:00"
   },
   {
     "id": "seed-eng-health-olive",
@@ -795,608 +795,333 @@
     },
     "apply_url": "https://oliveai.com/careers",
     "source_date": "2024-08-12",
-    "ingested_at": "2026-11-10T05:59:53.419106+00:00"
+    "ingested_at": "2026-11-10T19:20:44.589010+00:00"
   },
   {
-    "id": "arbeitnow-solution-architect-prototyping-299165-orcristtec",
-    "role": "Solution Architect (Prototyping)",
-    "company": "orcristtechnologies",
-    "location": "Remote (Worldwide)",
-    "tags": [
-      "business development"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/orcristtechnologies/solution-architect-prototyping-299165",
-    "source_date": "1794282929",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
-  },
-  {
-    "id": "arbeitnow-security-engineer-remote-germany-464932-everai",
-    "role": "Security Engineer (Remote - Germany)",
-    "company": "EverAI",
-    "location": "Germany",
-    "tags": [
-      "r&d"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/everai/security-engineer-remote-germany-464932",
-    "source_date": "1794282015",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
-  },
-  {
-    "id": "arbeitnow-applied-ai-engineer-large-enterprise-munich-164560-openai",
-    "role": "Applied AI Engineer, Large Enterprise",
-    "company": "OpenAI",
-    "location": "Munich, Germany",
-    "tags": [
-      "go to market"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/openai/applied-ai-engineer-large-enterprise-munich-164560",
-    "source_date": "1794282015",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
-  },
-  {
-    "id": "arbeitnow-strategy-operations-germany-munich-459141-openai",
-    "role": "Strategy & Operations, Germany",
-    "company": "OpenAI",
-    "location": "Munich, Germany",
-    "tags": [
-      "strategy & operations"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/openai/strategy-operations-germany-munich-459141",
-    "source_date": "1794282015",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
-  },
-  {
-    "id": "arbeitnow-manager-forward-deployed-engineering-munich-496174-openai",
-    "role": "Manager, Forward Deployed Engineering - Munich",
-    "company": "OpenAI",
-    "location": "Munich, Germany",
-    "tags": [
-      "forward deployed engineering"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/openai/manager-forward-deployed-engineering-munich-496174",
-    "source_date": "1794282014",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
-  },
-  {
-    "id": "arbeitnow-founders-associate-engagement-innovation-all-genders-berlin-306456-justplayg",
-    "role": "Founders Associate - Engagement Innovation (all genders)",
-    "company": "JustPlay GmbH",
-    "location": "Berlin (Hybrid)",
-    "tags": [
-      "growth"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/justplay-gmbh/founders-associate-engagement-innovation-all-genders-berlin-306456",
-    "source_date": "1794282014",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
-  },
-  {
-    "id": "arbeitnow-senior-mechanical-engineer-robotics-munich-69572-omegga",
-    "role": "Senior Mechanical Engineer - Robotics (m/f/d)",
-    "company": "Omegga",
-    "location": "Munich",
-    "tags": [
-      "engineering"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/omegga/senior-mechanical-engineer-robotics-munich-69572",
-    "source_date": "1794282013",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
-  },
-  {
-    "id": "arbeitnow-remote-account-executive-commercial-453149-illumio",
-    "role": "Account Executive, Commercial",
-    "company": "Illumio",
-    "location": "Germany",
-    "tags": [
-      "sales"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/illumio/remote-account-executive-commercial-453149",
-    "source_date": "1794282013",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
-  },
-  {
-    "id": "arbeitnow-product-qualification-engineer-aachen-268131-blacksemi",
-    "role": "Product Qualification Engineer (f/m/d)",
-    "company": "Black Semiconductor GmbH",
-    "location": "Aachen, Germany",
-    "tags": [
-      "product team"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/black-semiconductor-gmbh/product-qualification-engineer-aachen-268131",
-    "source_date": "1794282013",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
-  },
-  {
-    "id": "arbeitnow-package-reliability-engineer-aachen-245730-blacksemi",
-    "role": "Package Reliability Engineer (f/m/d)",
-    "company": "Black Semiconductor GmbH",
-    "location": "Aachen, Germany",
-    "tags": [
-      "product team"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/black-semiconductor-gmbh/package-reliability-engineer-aachen-245730",
-    "source_date": "1794282013",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
-  },
-  {
-    "id": "arbeitnow-people-culture-specialist-aachen-314112-blacksemi",
-    "role": "People & Culture Specialist (f/m/d)",
-    "company": "Black Semiconductor GmbH",
-    "location": "Aachen, Germany",
-    "tags": [
-      "people & culture department"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/black-semiconductor-gmbh/people-culture-specialist-aachen-314112",
-    "source_date": "1794282013",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
-  },
-  {
-    "id": "arbeitnow-technician-aachen-485115-blacksemi",
-    "role": "Technician (f/m/d)",
-    "company": "Black Semiconductor GmbH",
-    "location": "Aachen, Germany",
-    "tags": [
-      "fab management"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/black-semiconductor-gmbh/technician-aachen-485115",
-    "source_date": "1794282013",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
-  },
-  {
-    "id": "arbeitnow-technical-bid-manager-karlsruhe-162048-codesphere",
-    "role": "Technical Bid Manager (m/f/d)",
-    "company": "Codesphere",
-    "location": "Karlsruhe",
-    "tags": [
-      "go-to-market"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/codesphere/technical-bid-manager-karlsruhe-162048",
-    "source_date": "1794282013",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
-  },
-  {
-    "id": "arbeitnow-remote-hands-on-engineering-manager-infrastructure-261178-miaplaza",
-    "role": "Hands-on Engineering Manager, Infrastructure",
-    "company": "Miaplaza",
-    "location": "Remote job",
-    "tags": [
-      "product development",
-      "remote"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/miaplaza/remote-hands-on-engineering-manager-infrastructure-261178",
-    "source_date": "1794281493",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
-  },
-  {
-    "id": "arbeitnow-senior-business-financial-analyst-all-genders-munchen-320388-foodjigmb",
-    "role": "(Senior) Business & Financial Analyst (all genders)",
-    "company": "Foodji GmbH",
-    "location": "München, Bayern, Deutschland",
-    "tags": [
-      "business intelligence"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/foodji-gmbh/senior-business-financial-analyst-all-genders-munchen-320388",
-    "source_date": "1794281493",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
-  },
-  {
-    "id": "arbeitnow-senior-product-manager-mwd-search-recommendation-berlin-384306-idealoint",
-    "role": "Senior Product Manager (m|w|d) Search & Recommendation",
-    "company": "idealo internet GmbH",
-    "location": "Berlin, Berlin, Deutschland",
-    "tags": [
-      "product"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/senior-product-manager-mwd-search-recommendation-berlin-384306",
-    "source_date": "1794281492",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
-  },
-  {
-    "id": "arbeitnow-autosar-cybersecurity-software-development-koblenz-germany-445289-mobileye",
-    "role": "Autosar Cybersecurity Software Development (m/w/d)",
-    "company": "Mobileye",
-    "location": "Koblenz, Germany",
-    "tags": [
-      "software"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/mobileye/autosar-cybersecurity-software-development-koblenz-germany-445289",
-    "source_date": "1794281271",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
-  },
-  {
-    "id": "arbeitnow-senior-power-systems-engineer-munich-350601-hypersonic",
-    "role": "Senior Power Systems Engineer",
-    "company": "Hypersonica",
-    "location": "Munich",
-    "tags": [
-      "system engineering"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/hypersonica/senior-power-systems-engineer-munich-350601",
-    "source_date": "1794281271",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
-  },
-  {
-    "id": "arbeitnow-agentic-ai-senior-consultant-germany-313362-jobgether",
-    "role": "Agentic AI Senior Consultant",
-    "company": "Jobgether",
-    "location": "Germany",
-    "tags": [
-      "it"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/jobgether/agentic-ai-senior-consultant-germany-313362",
-    "source_date": "1794281270",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
-  },
-  {
-    "id": "arbeitnow-senior-staff-platform-engineer-germany-468673-jobgether",
-    "role": "(Senior/Staff) Platform Engineer",
-    "company": "Jobgether",
-    "location": "Germany",
-    "tags": [
-      "it"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/jobgether/senior-staff-platform-engineer-germany-468673",
-    "source_date": "1794281270",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
-  },
-  {
-    "id": "arbeitnow-senior-product-marketing-manager-germany-274374-jobgether",
-    "role": "(Senior) Product Marketing Manager",
-    "company": "Jobgether",
-    "location": "Germany",
-    "tags": [
-      "marketing"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/jobgether/senior-product-marketing-manager-germany-274374",
-    "source_date": "1794281270",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
-  },
-  {
-    "id": "arbeitnow-senior-manager-commodities-energy-trading-ai-trading-transformation-dusseldorf-munich-76659-baringa",
-    "role": "Senior Manager (m/w/d) - Commodities & Energy Trading, AI & Trading Transformation",
-    "company": "Baringa",
-    "location": "Dusseldorf; Munich",
-    "tags": [
-      "commodities and energy trading"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/baringa/senior-manager-commodities-energy-trading-ai-trading-transformation-dusseldorf-munich-76659",
-    "source_date": "1794272124",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
-  },
-  {
-    "id": "arbeitnow-junior-influencer-marketing-uk-market-berlin-434353-yepoda",
-    "role": "Junior Influencer Marketing (m/f/d) | UK Market",
-    "company": "Yepoda",
-    "location": "Berlin",
-    "tags": [
-      "influencer marketing"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/yepoda/junior-influencer-marketing-uk-market-berlin-434353",
-    "source_date": "1794271212",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
-  },
-  {
-    "id": "arbeitnow-strategy-operations-analyst-germany-berlin-7941-pennylane",
-    "role": "Strategy & Operations Analyst - Germany 🇩🇪",
-    "company": "Pennylane De",
-    "location": "Berlin Office",
-    "tags": [
-      "strategy & operations"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/pennylane-de/strategy-operations-analyst-germany-berlin-7941",
-    "source_date": "1794271212",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
-  },
-  {
-    "id": "arbeitnow-customer-care-specialist-spend-fintech-or-accounting-platform-german-speakers-berlin-304232-perk",
-    "role": "Customer Care Specialist - Spend - FinTech or Accounting Platform - German Speakers",
-    "company": "Perk",
-    "location": "Berlin",
-    "tags": [
-      "customer care"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/perk/customer-care-specialist-spend-fintech-or-accounting-platform-german-speakers-berlin-304232",
-    "source_date": "1794271212",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
-  },
-  {
-    "id": "arbeitnow-account-executive-nordics-munchen-50097-litmus",
-    "role": "Account Executive Nordics",
-    "company": "Litmus",
-    "location": "Germany",
-    "tags": [
-      "sales"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/litmus/account-executive-nordics-munchen-50097",
-    "source_date": "1794271212",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
-  },
-  {
-    "id": "arbeitnow-software-engineer-ii-system-integration-berlin-91182-rivianvw.t",
-    "role": "Software Engineer II, System Integration",
-    "company": "Rivianvw.tech",
-    "location": "Berlin",
-    "tags": [
-      "technology and innovation"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/rivianvwtech/software-engineer-ii-system-integration-berlin-91182",
-    "source_date": "1794271211",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
-  },
-  {
-    "id": "arbeitnow-accountant-banking-operations-berlin-276726-enpal",
-    "role": "Accountant Banking Operations (w/m/d)",
-    "company": "Enpal",
-    "location": "Berlin",
-    "tags": [
-      "headquarter growth"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/enpal/accountant-banking-operations-berlin-276726",
-    "source_date": "1794271211",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
-  },
-  {
-    "id": "arbeitnow-praktikum-online-marketing-media-design-content-creation-social-media-startup-kultur-berlin-296769-think3ddd",
-    "role": "Praktikum Online Marketing & Media Design (m/w/d) - Content Creation, Social Media & Startup-Kultur",
-    "company": "Think3DDD GbR",
-    "location": "Berlin",
-    "tags": [
-      "online marketing"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/think3ddd-gbr/praktikum-online-marketing-media-design-content-creation-social-media-startup-kultur-berlin-296769",
-    "source_date": "1794265232",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
-  },
-  {
-    "id": "arbeitnow-senior-technical-project-manager-37688-mongodb",
-    "role": "Senior Technical Project Manager",
-    "company": "mongodb",
-    "location": "Remote (Worldwide)",
-    "tags": [
-      "amp",
-      "emea delivery"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/mongodb/senior-technical-project-manager-37688",
-    "source_date": "1794261326",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
-  },
-  {
-    "id": "arbeitnow-werkstudent-transformation-logistikoptimierung-leverkusen-231138-currentag",
-    "role": "Werkstudent (m/w/d) Transformation & Logistikoptimierung",
-    "company": "CURRENTA GRUPPE",
-    "location": "Leverkusen, Nordrhein-Westfalen, Deutschland",
-    "tags": [
-      "clg - customer focus & growth"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/currenta-gruppe/werkstudent-transformation-logistikoptimierung-leverkusen-231138",
-    "source_date": "1794261081",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
-  },
-  {
-    "id": "arbeitnow-senior-influencer-marketing-manager-dach-munchen-409701-everdropg",
-    "role": "(Senior) Influencer Marketing Manager DACH (m/w/d)",
-    "company": "everdrop GmbH",
-    "location": "München, Bayern, Germany",
-    "tags": [
-      "marketing/communication"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/everdrop-gmbh/senior-influencer-marketing-manager-dach-munchen-409701",
-    "source_date": "1794261079",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
-  },
-  {
-    "id": "arbeitnow-solutions-engineer-emea-munich-98098-tulipinte",
-    "role": "Solutions Engineer - EMEA",
-    "company": "Tulip Interfaces",
-    "location": "Munich, Bavaria, Germany",
-    "tags": [],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/tulip-interfaces/solutions-engineer-emea-munich-98098",
-    "source_date": "1794260724",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
-  },
-  {
-    "id": "arbeitnow-senior-manager-customer-support-deliveroo-operations-berlin-335694-wolt-eng",
-    "role": "Senior Manager, Customer Support, Deliveroo Operations",
-    "company": "Wolt - English",
-    "location": "Berlin, Germany",
-    "tags": [],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/wolt-english/senior-manager-customer-support-deliveroo-operations-berlin-335694",
-    "source_date": "1794260722",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
-  },
-  {
-    "id": "arbeitnow-werkstudentin-marketing-growth-berlin-398739-toysrelove",
-    "role": "Werkstudent:in Marketing & Growth",
-    "company": "ToysReloved",
-    "location": "Berlin",
-    "tags": [
-      "online marketing"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/toysreloved/werkstudentin-marketing-growth-berlin-398739",
-    "source_date": "1794259850",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
-  },
-  {
-    "id": "arbeitnow-sales-manager-vertriebsprofi-b2b-berlin-347180-harzspots",
-    "role": "Sales Manager / Vertriebsprofi B2B (m/w/d)",
-    "company": "Harzspots GmbH",
-    "location": "Berlin",
+    "id": "arbeitnow-data-protection-officer-landau-an-der-isar-431773-actagogmb",
+    "role": "Data Protection Officer (m/w/d)",
+    "company": "actago GmbH",
+    "location": "Landau an der Isar",
     "tags": [
       "remote",
+      "compliance",
+      "security"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/actago-gmbh/data-protection-officer-landau-an-der-isar-431773",
+    "source_date": "1794331865",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
+  },
+  {
+    "id": "arbeitnow-senior-project-manager-all-genders-event-und-retail-kampagnen-berlin-477715-liganovag",
+    "role": "Senior Project Manager (all genders) - Event- und Retail-Kampagnen",
+    "company": "LIGANOVA GmbH",
+    "location": "Berlin",
+    "tags": [
+      "marketing and communication"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/liganova-gmbh/senior-project-manager-all-genders-event-und-retail-kampagnen-berlin-477715",
+    "source_date": "1794331865",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
+  },
+  {
+    "id": "arbeitnow-junior-project-manager-all-genders-retail-kampagnen-berlin-89553-liganovag",
+    "role": "Junior Project Manager (all genders) - Retail Kampagnen",
+    "company": "LIGANOVA GmbH",
+    "location": "Berlin",
+    "tags": [
+      "project management"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/liganova-gmbh/junior-project-manager-all-genders-retail-kampagnen-berlin-89553",
+    "source_date": "1794331865",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
+  },
+  {
+    "id": "arbeitnow-customer-product-manager-cpm-karlstein-am-main-376969-bmzbatter",
+    "role": "Customer & Product Manager (CPM) (m/f/d)",
+    "company": "BMZ Battery Solutions GmbH",
+    "location": "Karlstein am Main",
+    "tags": [
+      "product management"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/bmz-battery-solutions-gmbh/customer-product-manager-cpm-karlstein-am-main-376969",
+    "source_date": "1794331862",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
+  },
+  {
+    "id": "arbeitnow-customer-operations-manager-kontoeroffnung-berlin-293792-getmomo",
+    "role": "Customer Operations Manager Kontoeröffnung (m/w/d)",
+    "company": "getmomo",
+    "location": "Berlin",
+    "tags": [
+      "finance"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/getmomo/customer-operations-manager-kontoeroffnung-berlin-293792",
+    "source_date": "1794331862",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
+  },
+  {
+    "id": "arbeitnow-controllerin-kosching-223135-binderholz",
+    "role": "ControllerIn (m/w/d)",
+    "company": "binderholz",
+    "location": "Kösching",
+    "tags": [
+      "controlling"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/binderholz/controllerin-kosching-223135",
+    "source_date": "1794331862",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
+  },
+  {
+    "id": "arbeitnow-data-protection-information-security-consultant-landau-an-der-isar-213551-actagogmb",
+    "role": "Data Protection & Information Security Consultant (m/w/d)",
+    "company": "actago GmbH",
+    "location": "Landau an der Isar",
+    "tags": [
+      "remote",
+      "compliance",
+      "security"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/actago-gmbh/data-protection-information-security-consultant-landau-an-der-isar-213551",
+    "source_date": "1794331861",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
+  },
+  {
+    "id": "arbeitnow-datenschutzkoordinator-landau-an-der-isar-493567-actagogmb",
+    "role": "Datenschutzkoordinator (m/w/d)",
+    "company": "actago GmbH",
+    "location": "Landau an der Isar",
+    "tags": [
+      "compliance",
+      "security"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/actago-gmbh/datenschutzkoordinator-landau-an-der-isar-493567",
+    "source_date": "1794331861",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
+  },
+  {
+    "id": "arbeitnow-junior-consultant-fur-datenschutz-und-informationssicherheit-landau-an-der-isar-175772-actagogmb",
+    "role": "Junior Consultant für Datenschutz und Informationssicherheit (m/w/d)",
+    "company": "actago GmbH",
+    "location": "Landau an der Isar",
+    "tags": [
+      "remote",
+      "compliance",
+      "security"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/actago-gmbh/junior-consultant-fur-datenschutz-und-informationssicherheit-landau-an-der-isar-175772",
+    "source_date": "1794331861",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
+  },
+  {
+    "id": "arbeitnow-information-security-officer-landau-an-der-isar-457173-actagogmb",
+    "role": "Information Security Officer (m/w/d)",
+    "company": "actago GmbH",
+    "location": "Landau an der Isar",
+    "tags": [
+      "remote",
+      "it security"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/actago-gmbh/information-security-officer-landau-an-der-isar-457173",
+    "source_date": "1794331861",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
+  },
+  {
+    "id": "arbeitnow-mitarbeiter-im-backoffice-fur-datenschutz-und-informationssicherheit-landau-an-der-isar-219506-actagogmb",
+    "role": "Mitarbeiter im Backoffice für Datenschutz und Informationssicherheit (m/w/d)",
+    "company": "actago GmbH",
+    "location": "Landau an der Isar",
+    "tags": [
+      "compliance",
+      "security"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/actago-gmbh/mitarbeiter-im-backoffice-fur-datenschutz-und-informationssicherheit-landau-an-der-isar-219506",
+    "source_date": "1794331860",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
+  },
+  {
+    "id": "arbeitnow-it-allrounder-schwerpunkt-produktions-it-sps-wolfegg-404795-binderholz",
+    "role": "IT-Allrounder (m/w/d) Schwerpunkt Produktions-IT / SPS",
+    "company": "binderholz",
+    "location": "Wolfegg",
+    "tags": [
+      "system and network administration"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/binderholz/it-allrounder-schwerpunkt-produktions-it-sps-wolfegg-404795",
+    "source_date": "1794331860",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
+  },
+  {
+    "id": "arbeitnow-sps-betreuer-elektrotechniker-mit-it-affinitat-wolfegg-311624-binderholz",
+    "role": "SPS-Betreuer / Elektrotechniker (m/w/d) mit IT-Affinität",
+    "company": "binderholz",
+    "location": "Wolfegg",
+    "tags": [
+      "automation engineering"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/binderholz/sps-betreuer-elektrotechniker-mit-it-affinitat-wolfegg-311624",
+    "source_date": "1794331860",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
+  },
+  {
+    "id": "arbeitnow-sap-sd-crm-it-experte-oberrot-181762-binderholz",
+    "role": "SAP-SD/CRM IT-Experte (m/w/d)",
+    "company": "binderholz",
+    "location": "Oberrot",
+    "tags": [
+      "sap/erp consulting",
+      "development"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/binderholz/sap-sd-crm-it-experte-oberrot-181762",
+    "source_date": "1794331860",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
+  },
+  {
+    "id": "arbeitnow-sap-fi-co-it-experte-oberrot-53127-binderholz",
+    "role": "SAP-FI/CO IT-Experte (m/w/d)",
+    "company": "binderholz",
+    "location": "Oberrot",
+    "tags": [
+      "sap/erp consulting",
+      "development"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/binderholz/sap-fi-co-it-experte-oberrot-53127",
+    "source_date": "1794331859",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
+  },
+  {
+    "id": "arbeitnow-sap-lvs-tm-it-experte-oberrot-490473-binderholz",
+    "role": "SAP-LVS/TM IT-Experte (m/w/d)",
+    "company": "binderholz",
+    "location": "Oberrot",
+    "tags": [
+      "sap/erp consulting",
+      "development"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/binderholz/sap-lvs-tm-it-experte-oberrot-490473",
+    "source_date": "1794331859",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
+  },
+  {
+    "id": "arbeitnow-sap-mm-it-experte-oberrot-450287-binderholz",
+    "role": "SAP-MM IT-Experte (m/w/d)",
+    "company": "binderholz",
+    "location": "Oberrot",
+    "tags": [
+      "sap/erp consulting",
+      "development"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/binderholz/sap-mm-it-experte-oberrot-450287",
+    "source_date": "1794331859",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
+  },
+  {
+    "id": "arbeitnow-it-anwendungsbetreuer-oberrot-487874-binderholz",
+    "role": "IT-Anwendungsbetreuer (m/w/d)",
+    "company": "binderholz",
+    "location": "Oberrot",
+    "tags": [
+      "applications administration"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/binderholz/it-anwendungsbetreuer-oberrot-487874",
+    "source_date": "1794331859",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
+  },
+  {
+    "id": "arbeitnow-leiter-fur-die-kuchenabteilung-im-mobeleinrichtungshaus-hamburg-183734-rennerper",
+    "role": "Leiter (m/w/d) für die Küchenabteilung im Möbeleinrichtungshaus",
+    "company": "Renner Personalvermittlung",
+    "location": "Hamburg",
+    "tags": [
       "management",
       "team leader"
     ],
@@ -1405,14 +1130,206 @@
       "max": null,
       "currency": null
     },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/harzspots-gmbh/sales-manager-vertriebsprofi-b2b-berlin-347180",
-    "source_date": "1794256244",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/renner-personalvermittlung/leiter-fur-die-kuchenabteilung-im-mobeleinrichtungshaus-hamburg-183734",
+    "source_date": "1794330052",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
   },
   {
-    "id": "arbeitnow-social-media-external-communication-manager-berlin-45508-agentfgm",
-    "role": "Social Media & External Communication Manager",
-    "company": "Agent F GmbH",
+    "id": "arbeitnow-hausleiter-mobeleinrichtungshaus-leipzig-467260-rennerper",
+    "role": "Hausleiter (m/w/d) Möbeleinrichtungshaus",
+    "company": "Renner Personalvermittlung",
+    "location": "Leipzig",
+    "tags": [
+      "management",
+      "team leader"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/renner-personalvermittlung/hausleiter-mobeleinrichtungshaus-leipzig-467260",
+    "source_date": "1794330052",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
+  },
+  {
+    "id": "arbeitnow-senior-product-engineer-mit-claude-code-dresden-77832-lightwebm",
+    "role": "Senior Product Engineer (m/w/d) mit Claude Code",
+    "company": "Lightweb Media GmbH",
+    "location": "Dresden",
+    "tags": [
+      "software development"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/lightweb-media-gmbh/senior-product-engineer-mit-claude-code-dresden-77832",
+    "source_date": "1794330052",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
+  },
+  {
+    "id": "arbeitnow-commercial-growth-project-manager-munich-227971-crewmeiste",
+    "role": "Commercial Growth Project Manager  (m/w/d)",
+    "company": "Crewmeister",
+    "location": "Munich",
+    "tags": [
+      "business operations"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/crewmeister/commercial-growth-project-manager-munich-227971",
+    "source_date": "1794330052",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
+  },
+  {
+    "id": "arbeitnow-senior-sap-ewm-berater-test-lead-freelance-berlin-72500-sidekickn",
+    "role": "Senior SAP EWM Berater & Test Lead (Freelance)",
+    "company": "Sidekick Network GmbH & Co. KG",
+    "location": "Berlin",
+    "tags": [
+      "remote",
+      "sap/erp consulting",
+      "development"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/sidekick-network-gmbh-co-kg/senior-sap-ewm-berater-test-lead-freelance-berlin-72500",
+    "source_date": "1794330051",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
+  },
+  {
+    "id": "arbeitnow-founders-associate-hamburg-318344-nexusgrup",
+    "role": "Founders Associate (m/w/d)",
+    "company": "Nexus Gruppe",
+    "location": "Hamburg",
+    "tags": [
+      "business operations"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/nexus-gruppe/founders-associate-hamburg-318344",
+    "source_date": "1794330051",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
+  },
+  {
+    "id": "arbeitnow-junior-account-manager-engineering-munich-271256-k-tronikg",
+    "role": "Junior Account Manager (m/w/x) Engineering",
+    "company": "K-tronik GmbH",
+    "location": "Munich",
+    "tags": [
+      "recruitment and selection"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/k-tronik-gmbh/junior-account-manager-engineering-munich-271256",
+    "source_date": "1794330049",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
+  },
+  {
+    "id": "arbeitnow-senior-innovation-business-development-manager-dresden-208929-excitelab",
+    "role": "(Senior) Innovation & Business Development Manager (m/w/d)",
+    "company": "ExciteLab GmbH",
+    "location": "Dresden",
+    "tags": [
+      "business development"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/excitelab-gmbh/senior-innovation-business-development-manager-dresden-208929",
+    "source_date": "1794328269",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
+  },
+  {
+    "id": "arbeitnow-online-marketing-managerin-sea-paid-social-munster-59222-solutions4",
+    "role": "Online Marketing Manager:in (m/w/d) | SEA & Paid Social",
+    "company": "solutions4performance GmbH & Co. KG",
+    "location": "Münster",
+    "tags": [
+      "online marketing"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/solutions4performance-gmbh-co-kg/online-marketing-managerin-sea-paid-social-munster-59222",
+    "source_date": "1794328269",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
+  },
+  {
+    "id": "arbeitnow-werkstudent-content-creation-social-media-video-leinfelden-echterdingen-342509-diegruppe",
+    "role": "Werkstudent Content Creation – Social Media & Video (m/w/d)",
+    "company": "Die Gruppe Werbeagentur GmbH",
+    "location": "Leinfelden-Echterdingen",
+    "tags": [
+      "social media manager"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/die-gruppe-werbeagentur-gmbh/werkstudent-content-creation-social-media-video-leinfelden-echterdingen-342509",
+    "source_date": "1794328265",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
+  },
+  {
+    "id": "arbeitnow-junior-sap-ewm-berater-testkoordinator-freelance-berlin-136075-sidekickn",
+    "role": "Junior SAP EWM Berater & Testkoordinator (Freelance)",
+    "company": "Sidekick Network GmbH & Co. KG",
+    "location": "Berlin",
+    "tags": [
+      "remote",
+      "sap/erp consulting",
+      "development"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/sidekick-network-gmbh-co-kg/junior-sap-ewm-berater-testkoordinator-freelance-berlin-136075",
+    "source_date": "1794328265",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
+  },
+  {
+    "id": "arbeitnow-online-marketing-assistant-sea-social-media-munster-169685-solutions4",
+    "role": "Online Marketing Assistant (m/w/d) | SEA & Social Media",
+    "company": "solutions4performance GmbH & Co. KG",
+    "location": "Münster",
+    "tags": [
+      "marketing assistant"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/solutions4performance-gmbh-co-kg/online-marketing-assistant-sea-social-media-munster-169685",
+    "source_date": "1794328265",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
+  },
+  {
+    "id": "arbeitnow-senior-manager-communications-berlin-112076-biodiversi",
+    "role": "Senior Manager Communications (m/w/d)",
+    "company": "Biodiversity in Good Company",
     "location": "Berlin",
     "tags": [
       "public relations",
@@ -1423,84 +1340,84 @@
       "max": null,
       "currency": null
     },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/agent-f-gmbh/social-media-external-communication-manager-berlin-45508",
-    "source_date": "1794256244",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/biodiversity-in-good-company/senior-manager-communications-berlin-112076",
+    "source_date": "1794328264",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
   },
   {
-    "id": "arbeitnow-online-marketing-manager-berlin-77236-agentfgm",
-    "role": "Online Marketing Manager",
-    "company": "Agent F GmbH",
-    "location": "Berlin",
+    "id": "arbeitnow-nachwuchsberater-saarbrucken-311108-personalbe",
+    "role": "Nachwuchsberater (M/W/D)",
+    "company": "Personalberatung Pillong",
+    "location": "Saarbrücken",
     "tags": [
-      "online marketing"
+      "recruitment and selection"
     ],
     "salary": {
       "min": null,
       "max": null,
       "currency": null
     },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/agent-f-gmbh/online-marketing-manager-berlin-77236",
-    "source_date": "1794256244",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/personalberatung-pillong/nachwuchsberater-saarbrucken-311108",
+    "source_date": "1794328264",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
   },
   {
-    "id": "arbeitnow-head-of-sales-growth-berlin-92988-agentfgm",
-    "role": "Head of Sales & Growth",
-    "company": "Agent F GmbH",
-    "location": "Berlin",
+    "id": "arbeitnow-financial-controller-hamburg-483091-davitadeu",
+    "role": "Financial Controller (m/w/d)",
+    "company": "DaVita Deutschland AG",
+    "location": "Hamburg",
     "tags": [
-      "management",
-      "team leader"
+      "controlling"
     ],
     "salary": {
       "min": null,
       "max": null,
       "currency": null
     },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/agent-f-gmbh/head-of-sales-growth-berlin-92988",
-    "source_date": "1794256244",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/davita-deutschland-ag/financial-controller-hamburg-483091",
+    "source_date": "1794328264",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
   },
   {
-    "id": "arbeitnow-growth-sales-manager-berlin-140063-agentfgm",
-    "role": "Growth & Sales Manager",
-    "company": "Agent F GmbH",
+    "id": "arbeitnow-technical-support-engineer-berlin-384500-gls/nxt",
+    "role": "Technical Support Engineer",
+    "company": "GLS/NXT",
     "location": "Berlin",
     "tags": [
-      "business development"
+      "helpdesk"
     ],
     "salary": {
       "min": null,
       "max": null,
       "currency": null
     },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/agent-f-gmbh/growth-sales-manager-berlin-140063",
-    "source_date": "1794256243",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/glsnxt/technical-support-engineer-berlin-384500",
+    "source_date": "1794328262",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
   },
   {
-    "id": "arbeitnow-forward-deployed-engineer-berlin-400716-agentfgm",
-    "role": "Forward Deployed Engineer",
-    "company": "Agent F GmbH",
-    "location": "Berlin",
+    "id": "arbeitnow-werkstudent-elektrotechnik-norderstedt-266390-eetechnik",
+    "role": "Werkstudent (m/w/d) Elektrotechnik",
+    "company": "ee technik gmbh",
+    "location": "Norderstedt",
     "tags": [
-      "software development"
+      "engineering",
+      "high school or equivalent"
     ],
     "salary": {
       "min": null,
       "max": null,
       "currency": null
     },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/agent-f-gmbh/forward-deployed-engineer-berlin-400716",
-    "source_date": "1794256243",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/ee-technik-gmbh/werkstudent-elektrotechnik-norderstedt-266390",
+    "source_date": "1794327610",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
   },
   {
-    "id": "arbeitnow-chief-of-staff-operations-berlin-382219-agentfgm",
-    "role": "Chief of Staff & Operations",
-    "company": "Agent F GmbH",
-    "location": "Berlin",
+    "id": "arbeitnow-founders-associate-munich-260356-alago",
+    "role": "Founder's Associate",
+    "company": "alago",
+    "location": "Munich",
     "tags": [
       "business operations"
     ],
@@ -1509,443 +1426,170 @@
       "max": null,
       "currency": null
     },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/agent-f-gmbh/chief-of-staff-operations-berlin-382219",
-    "source_date": "1794256243",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/alago/founders-associate-munich-260356",
+    "source_date": "1794326455",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
   },
   {
-    "id": "arbeitnow-srenterprise-account-executive-munich-357355-neo4j",
-    "role": "Sr.Enterprise Account Executive  - Munich",
-    "company": "neo4j",
-    "location": "Remote (Worldwide)",
+    "id": "arbeitnow-senior-azure-cloud-engineer-terraform-aks-azure-devops-freelance-bonn-443535-sidekickn",
+    "role": "Senior Azure Cloud Engineer (Terraform / AKS / Azure DevOps) – Freelance",
+    "company": "Sidekick Network GmbH & Co. KG",
+    "location": "Bonn",
     "tags": [
-      "direct field sales"
+      "system and network administration"
     ],
     "salary": {
       "min": null,
       "max": null,
       "currency": null
     },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/neo4j/srenterprise-account-executive-munich-357355",
-    "source_date": "1794250529",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/sidekick-network-gmbh-co-kg/senior-azure-cloud-engineer-terraform-aks-azure-devops-freelance-bonn-443535",
+    "source_date": "1794326453",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
   },
   {
-    "id": "arbeitnow-senior-sales-engineer-ai-agents-western-europe-italy-431223-nice",
-    "role": "Senior Sales Engineer - AI Agents (Western Europe, Italy)",
-    "company": "nice",
-    "location": "Remote (Worldwide)",
+    "id": "arbeitnow-risk-manger-frankfurt-am-main-372239-genobroke",
+    "role": "Risk Manger (m/w/d)",
+    "company": "GENO Broker",
+    "location": "Frankfurt am Main",
     "tags": [
-      "cx - agentic experience automation"
+      "compliance",
+      "security"
     ],
     "salary": {
       "min": null,
       "max": null,
       "currency": null
     },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/nice/senior-sales-engineer-ai-agents-western-europe-italy-431223",
-    "source_date": "1794250528",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/geno-broker/risk-manger-frankfurt-am-main-372239",
+    "source_date": "1794326453",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
   },
   {
-    "id": "arbeitnow-versicherungskaufmann-versicherungskauffrau-berlin-420582-ralph",
-    "role": "Versicherungskaufmann / Versicherungskauffrau (m/w/d)",
-    "company": "Ralph",
-    "location": "Berlin HQ",
+    "id": "arbeitnow-senior-auslagerungsmanager-tprm-frankfurt-am-main-248789-genobroke",
+    "role": "Senior Auslagerungsmanager / TPRM (m/w/d)",
+    "company": "GENO Broker",
+    "location": "Frankfurt am Main",
     "tags": [
-      "operations"
+      "compliance",
+      "security"
     ],
     "salary": {
       "min": null,
       "max": null,
       "currency": null
     },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/ralph/versicherungskaufmann-versicherungskauffrau-berlin-420582",
-    "source_date": "1794249611",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/geno-broker/senior-auslagerungsmanager-tprm-frankfurt-am-main-248789",
+    "source_date": "1794326453",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
   },
   {
-    "id": "arbeitnow-remote-senior-accountant-karlsruhe-303234-chaos",
-    "role": "Senior Accountant (m/f/d)",
-    "company": "Chaos",
-    "location": "Remote job",
+    "id": "arbeitnow-associate-product-manager-berlin-berlin-361499-superchat",
+    "role": "Associate Product Manager (m/f/d)",
+    "company": "Superchat",
+    "location": "Berlin, Berlin",
     "tags": [
-      "finance and operations",
-      "remote"
+      "product"
     ],
     "salary": {
       "min": null,
       "max": null,
       "currency": null
     },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/chaos/remote-senior-accountant-karlsruhe-303234",
-    "source_date": "1794249080",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/superchat/associate-product-manager-berlin-berlin-361499",
+    "source_date": "1794326136",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
   },
   {
-    "id": "arbeitnow-working-student-product-management-gilching-478685-quantum-sy",
-    "role": "Working Student Product Management  (m/f/d)",
-    "company": "Quantum-Systems GmbH",
-    "location": "Gilching, Bayern, Germany",
+    "id": "arbeitnow-solutions-engineer-life-sciences-emea-munich-456119-tulip",
+    "role": "Solutions Engineer - Life Sciences - EMEA",
+    "company": "Tulip",
+    "location": "Munich",
     "tags": [
-      "student & early professionals"
+      "professional services"
     ],
     "salary": {
       "min": null,
       "max": null,
       "currency": null
     },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/working-student-product-management-gilching-478685",
-    "source_date": "1794249078",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/tulip/solutions-engineer-life-sciences-emea-munich-456119",
+    "source_date": "1794326127",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
   },
   {
-    "id": "arbeitnow-ux-ui-designer-gilching-326429-quantum-sy",
-    "role": "UX/UI Designer (m/f/d)",
-    "company": "Quantum-Systems GmbH",
-    "location": "Gilching, Bayern, Germany",
+    "id": "arbeitnow-solutions-engineer-general-manufacturing-emea-munich-483379-tulip",
+    "role": "Solutions Engineer - General Manufacturing - EMEA",
+    "company": "Tulip",
+    "location": "Munich",
     "tags": [
-      "software"
+      "professional services"
     ],
     "salary": {
       "min": null,
       "max": null,
       "currency": null
     },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/ux-ui-designer-gilching-326429",
-    "source_date": "1794249078",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/tulip/solutions-engineer-general-manufacturing-emea-munich-483379",
+    "source_date": "1794326127",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
   },
   {
-    "id": "arbeitnow-remote-rust-software-engineer-rust-c-gilching-217668-quantum-sy",
-    "role": "Rust Software Engineer - Rust / C++ (m/f/d)",
-    "company": "Quantum-Systems GmbH",
-    "location": "Remote job",
+    "id": "arbeitnow-friseurmeister-all-genders-berlin-berlin-490820-flaconi",
+    "role": "Friseurmeister (all genders)",
+    "company": "Flaconi",
+    "location": "Berlin, Berlin",
     "tags": [
-      "software",
-      "remote"
+      "berlin store"
     ],
     "salary": {
       "min": null,
       "max": null,
       "currency": null
     },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/remote-rust-software-engineer-rust-c-gilching-217668",
-    "source_date": "1794249078",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/flaconi/friseurmeister-all-genders-berlin-berlin-490820",
+    "source_date": "1794326122",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
   },
   {
-    "id": "arbeitnow-working-student-program-management-gilching-139901-quantum-sy",
-    "role": "Working Student – Program Management (m/f/d)",
-    "company": "Quantum-Systems GmbH",
-    "location": "Gilching, Bayern, Germany",
+    "id": "arbeitnow-tech-director-mobile-hamburg-408093-adjoe",
+    "role": "Tech Director - Mobile (f/m/d)",
+    "company": "adjoe",
+    "location": "Hamburg",
     "tags": [
-      "student & early professionals"
+      "adjoe"
     ],
     "salary": {
       "min": null,
       "max": null,
       "currency": null
     },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/working-student-program-management-gilching-139901",
-    "source_date": "1794249078",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/adjoe/tech-director-mobile-hamburg-408093",
+    "source_date": "1794325259",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
   },
   {
-    "id": "arbeitnow-initiativbewerbung-qualitatsmanagement-qualitatssicherung-raum-berlin-497924-polytalent",
-    "role": "Initiativbewerbung | Qualitätsmanagement & Qualitätssicherung (m/w/d) | Raum Berlin",
-    "company": "PolyTALENT GmbH",
-    "location": "Berlin, Berlin, Deutschland",
+    "id": "arbeitnow-senior-data-analyst-ml-experimentation-hamburg-126429-adjoe",
+    "role": "Senior Data Analyst, ML & Experimentation (f/m/d)",
+    "company": "adjoe",
+    "location": "Hamburg",
     "tags": [
-      "produktion"
+      "adjoe"
     ],
     "salary": {
       "min": null,
       "max": null,
       "currency": null
     },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/polytalent-gmbh/initiativbewerbung-qualitatsmanagement-qualitatssicherung-raum-berlin-497924",
-    "source_date": "1794249076",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/adjoe/senior-data-analyst-ml-experimentation-hamburg-126429",
+    "source_date": "1794325259",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
   },
   {
-    "id": "arbeitnow-initiativbewerbung-qualitatsmanagement-qualitatssicherung-raum-stuttgart-356792-polytalent",
-    "role": "Initiativbewerbung | Qualitätsmanagement & Qualitätssicherung (m/w/d) | Raum Stuttgart",
-    "company": "PolyTALENT GmbH",
-    "location": "Stuttgart, Baden-Württemberg, Deutschland",
-    "tags": [
-      "produktion"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/polytalent-gmbh/initiativbewerbung-qualitatsmanagement-qualitatssicherung-raum-stuttgart-356792",
-    "source_date": "1794249076",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
-  },
-  {
-    "id": "arbeitnow-initiativbewerbung-qualitatsmanagement-qualitatssicherung-raum-munchen-93732-polytalent",
-    "role": "Initiativbewerbung Qualitätsmanagement & Qualitätssicherung (m/w/d) | Raum München",
-    "company": "PolyTALENT GmbH",
-    "location": "München, Bayern, Deutschland",
-    "tags": [
-      "produktion"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/polytalent-gmbh/initiativbewerbung-qualitatsmanagement-qualitatssicherung-raum-munchen-93732",
-    "source_date": "1794249076",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
-  },
-  {
-    "id": "arbeitnow-initiativbewerbung-qualitatsmanagement-qualitatssicherung-raum-nurnberg-39085-polytalent",
-    "role": "Initiativbewerbung Qualitätsmanagement & Qualitätssicherung (m/w/d) | Raum Nürnberg",
-    "company": "PolyTALENT GmbH",
-    "location": "Nürnberg, Bayern, Deutschland",
-    "tags": [
-      "produktion"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/polytalent-gmbh/initiativbewerbung-qualitatsmanagement-qualitatssicherung-raum-nurnberg-39085",
-    "source_date": "1794249076",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
-  },
-  {
-    "id": "arbeitnow-initiativbewerbung-qualitatsmanagement-qualitatssicherung-raum-hamburg-22623-polytalent",
-    "role": "Initiativbewerbung Qualitätsmanagement & Qualitätssicherung (m/w/d) | Raum Hamburg",
-    "company": "PolyTALENT GmbH",
-    "location": "Hamburg, Hamburg, Deutschland",
-    "tags": [
-      "produktion"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/polytalent-gmbh/initiativbewerbung-qualitatsmanagement-qualitatssicherung-raum-hamburg-22623",
-    "source_date": "1794249076",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
-  },
-  {
-    "id": "arbeitnow-initiativbewerbung-qualitatsmanagement-qualitatssicherung-raum-dortmund-325814-polytalent",
-    "role": "Initiativbewerbung Qualitätsmanagement & Qualitätssicherung (m/w/d) | Raum Dortmund",
-    "company": "PolyTALENT GmbH",
-    "location": "Dortmund, Nordrhein-Westfalen, Deutschland",
-    "tags": [
-      "produktion"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/polytalent-gmbh/initiativbewerbung-qualitatsmanagement-qualitatssicherung-raum-dortmund-325814",
-    "source_date": "1794249076",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
-  },
-  {
-    "id": "arbeitnow-initiativbewerbung-qualitatsmanagement-qualitatssicherung-raum-koln-205075-polytalent",
-    "role": "Initiativbewerbung Qualitätsmanagement & Qualitätssicherung (m/w/d) | Raum Köln",
-    "company": "PolyTALENT GmbH",
-    "location": "Köln, Nordrhein-Westfalen, Deutschland",
-    "tags": [
-      "produktion"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/polytalent-gmbh/initiativbewerbung-qualitatsmanagement-qualitatssicherung-raum-koln-205075",
-    "source_date": "1794249076",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
-  },
-  {
-    "id": "arbeitnow-initiativbewerbung-qualitatsmanagement-qualitatssicherung-raum-frankfurt-frankfurt-133810-polytalent",
-    "role": "Initiativbewerbung Qualitätsmanagement & Qualitätssicherung (m/w/d) | Raum Frankfurt",
-    "company": "PolyTALENT GmbH",
-    "location": "Frankfurt , Hessen, Deutschland",
-    "tags": [
-      "produktion"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/polytalent-gmbh/initiativbewerbung-qualitatsmanagement-qualitatssicherung-raum-frankfurt-frankfurt-133810",
-    "source_date": "1794249076",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
-  },
-  {
-    "id": "arbeitnow-initiativbewerbung-qualitatsmanagement-qualitatssicherung-raum-hannover-262072-polytalent",
-    "role": "Initiativbewerbung Qualitätsmanagement & Qualitätssicherung (m/w/d) | Raum Hannover",
-    "company": "PolyTALENT GmbH",
-    "location": "Hannover, Niedersachsen, Deutschland",
-    "tags": [
-      "produktion"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/polytalent-gmbh/initiativbewerbung-qualitatsmanagement-qualitatssicherung-raum-hannover-262072",
-    "source_date": "1794249076",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
-  },
-  {
-    "id": "arbeitnow-initiativbewerbung-qualitatsmanagement-qualitatssicherung-raum-leipzig-402046-polytalent",
-    "role": "Initiativbewerbung Qualitätsmanagement & Qualitätssicherung (m/w/d) | Raum Leipzig",
-    "company": "PolyTALENT GmbH",
-    "location": "Leipzig, Sachsen, Deutschland",
-    "tags": [
-      "produktion"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/polytalent-gmbh/initiativbewerbung-qualitatsmanagement-qualitatssicherung-raum-leipzig-402046",
-    "source_date": "1794249076",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
-  },
-  {
-    "id": "arbeitnow-initiativbewerbung-qualitatsmanagement-qualitatssicherung-raum-augsburg-484984-polytalent",
-    "role": "Initiativbewerbung Qualitätsmanagement & Qualitätssicherung (m/w/d) | Raum Augsburg",
-    "company": "PolyTALENT GmbH",
-    "location": "Augsburg, Bayern, Deutschland",
-    "tags": [
-      "produktion"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/polytalent-gmbh/initiativbewerbung-qualitatsmanagement-qualitatssicherung-raum-augsburg-484984",
-    "source_date": "1794249076",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
-  },
-  {
-    "id": "arbeitnow-initiativbewerbung-qualitatsmanagement-qualitatssicherung-raum-dresden-200747-polytalent",
-    "role": "Initiativbewerbung Qualitätsmanagement & Qualitätssicherung (m/w/d) | Raum Dresden",
-    "company": "PolyTALENT GmbH",
-    "location": "Dresden, Sachsen, Deutschland",
-    "tags": [
-      "produktion"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/polytalent-gmbh/initiativbewerbung-qualitatsmanagement-qualitatssicherung-raum-dresden-200747",
-    "source_date": "1794249076",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
-  },
-  {
-    "id": "arbeitnow-initiativbewerbung-qualitatsmanagement-qualitatssicherung-raum-mannheim-135384-polytalent",
-    "role": "Initiativbewerbung Qualitätsmanagement & Qualitätssicherung (m/w/d) | Raum Mannheim",
-    "company": "PolyTALENT GmbH",
-    "location": "Mannheim, Baden-Württemberg, Deutschland",
-    "tags": [
-      "produktion"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/polytalent-gmbh/initiativbewerbung-qualitatsmanagement-qualitatssicherung-raum-mannheim-135384",
-    "source_date": "1794249076",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
-  },
-  {
-    "id": "arbeitnow-initiativbewerbung-qualitatsmanagement-qualitatssicherung-raum-bielefeld-303077-polytalent",
-    "role": "Initiativbewerbung Qualitätsmanagement & Qualitätssicherung (m/w/d) | Raum Bielefeld",
-    "company": "PolyTALENT GmbH",
-    "location": "Bielefeld, Nordrhein-Westfalen, Deutschland",
-    "tags": [
-      "produktion"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/polytalent-gmbh/initiativbewerbung-qualitatsmanagement-qualitatssicherung-raum-bielefeld-303077",
-    "source_date": "1794249076",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
-  },
-  {
-    "id": "arbeitnow-initiativbewerbung-qualitatsmanagement-qualitatssicherung-raum-kassel-192768-polytalent",
-    "role": "Initiativbewerbung Qualitätsmanagement & Qualitätssicherung (m/w/d) | Raum Kassel",
-    "company": "PolyTALENT GmbH",
-    "location": "Kassel, Hessen, Deutschland",
-    "tags": [
-      "produktion"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/polytalent-gmbh/initiativbewerbung-qualitatsmanagement-qualitatssicherung-raum-kassel-192768",
-    "source_date": "1794249076",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
-  },
-  {
-    "id": "arbeitnow-initiativbewerbung-qualitatsmanagement-qualitatssicherung-raum-bremen-370353-polytalent",
-    "role": "Initiativbewerbung Qualitätsmanagement & Qualitätssicherung (m/w/d) | Raum Bremen",
-    "company": "PolyTALENT GmbH",
-    "location": "Bremen, Bremen, Deutschland",
-    "tags": [
-      "produktion"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/polytalent-gmbh/initiativbewerbung-qualitatsmanagement-qualitatssicherung-raum-bremen-370353",
-    "source_date": "1794249076",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
-  },
-  {
-    "id": "arbeitnow-research-consultant-im-bereich-marktforschung-wmd-berlin-44693-civeygmbh",
-    "role": "Research Consultant im Bereich Marktforschung (w|m|d)",
-    "company": "Civey GmbH",
-    "location": "Berlin",
-    "tags": [
-      "market research",
-      "analysis"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/civey-gmbh/research-consultant-im-bereich-marktforschung-wmd-berlin-44693",
-    "source_date": "1794247259",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
-  },
-  {
-    "id": "arbeitnow-head-of-technical-operations-gn-gn-jena-252508-valityone",
-    "role": "Head of Technical Operations (gn) (gn)",
-    "company": "Vality One Recruitment GmbH",
-    "location": "Jena",
+    "id": "arbeitnow-operations-manager-stuttgart-191292-sereactgm",
+    "role": "Operations Manager (m/f/d)",
+    "company": "Sereact GmbH",
+    "location": "Stuttgart Schockenriedstr. 17",
     "tags": [
       "business operations"
     ],
@@ -1954,49 +1598,117 @@
       "max": null,
       "currency": null
     },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/vality-one-recruitment-gmbh/head-of-technical-operations-gn-gn-jena-252508",
-    "source_date": "1794245446",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/operations-manager-stuttgart-191292",
+    "source_date": "1794325233",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
   },
   {
-    "id": "arbeitnow-junior-product-managerin-munich-85550-valova",
-    "role": "Junior Product Manager:in",
-    "company": "Valova",
-    "location": "Munich",
+    "id": "arbeitnow-strategic-accounts-manager-stuttgart-481804-sereactgm",
+    "role": "Strategic Accounts Manager (m/f/d)",
+    "company": "Sereact GmbH",
+    "location": "Stuttgart Schockenriedstr. 17",
     "tags": [
-      "product management"
+      "g2m"
     ],
     "salary": {
       "min": null,
       "max": null,
       "currency": null
     },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/valova/junior-product-managerin-munich-85550",
-    "source_date": "1794245446",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/strategic-accounts-manager-stuttgart-481804",
+    "source_date": "1794325233",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
   },
   {
-    "id": "arbeitnow-software-engineer-ai-development-experience-hanover-226842-hornetsecu",
-    "role": "Software Engineer (AI Development Experience)",
-    "company": "Hornetsecurity",
-    "location": "Hanover",
+    "id": "arbeitnow-software-engineer-munich-258040-manexaig",
+    "role": "Software Engineer (f/m/d)",
+    "company": "Manex AI GmbH",
+    "location": "Munich",
     "tags": [
-      "software development"
+      "tech"
     ],
     "salary": {
       "min": null,
       "max": null,
       "currency": null
     },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/hornetsecurity/software-engineer-ai-development-experience-hanover-226842",
-    "source_date": "1794245446",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/manex-ai-gmbh/software-engineer-munich-258040",
+    "source_date": "1794325233",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
   },
   {
-    "id": "arbeitnow-service-network-manager-partnernetz-heero-cloud-munich-314356-heeromoto",
-    "role": "Service Network Manager (m/w/d) – Partnernetz & HEERO Cloud",
-    "company": "HEERO Motors",
-    "location": "Munich",
+    "id": "arbeitnow-ai-researcher-pre-training-berlin-114354-alephalpha",
+    "role": "AI Researcher - Pre-training (f/m/d)",
+    "company": "Alephalpha",
+    "location": "Berlin",
+    "tags": [
+      "research"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/alephalpha/ai-researcher-pre-training-berlin-114354",
+    "source_date": "1794325232",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
+  },
+  {
+    "id": "arbeitnow-senior-ai-researcher-pre-training-heidelberg-475505-alephalpha",
+    "role": "Senior AI Researcher- Pre-training (f/m/d)",
+    "company": "Alephalpha",
+    "location": "Heidelberg",
+    "tags": [
+      "research"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/alephalpha/senior-ai-researcher-pre-training-heidelberg-475505",
+    "source_date": "1794325232",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
+  },
+  {
+    "id": "arbeitnow-projektmanager-einkauf-kfz-ersatzteile-frankfurt-am-main-323661-roadsurfer",
+    "role": "Projektmanager Einkauf (m/w/d) – KFZ-Ersatzteile",
+    "company": "Roadsurfer",
+    "location": "Frankfurt Office",
+    "tags": [
+      "supply chain management"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/roadsurfer/projektmanager-einkauf-kfz-ersatzteile-frankfurt-am-main-323661",
+    "source_date": "1794325232",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
+  },
+  {
+    "id": "arbeitnow-caravan-servicetechniker-leipzig-197204-roadsurfer",
+    "role": "Caravan Servicetechniker - LEIPZIG (m/w/d)",
+    "company": "Roadsurfer",
+    "location": "Leipzig",
+    "tags": [
+      "maintenance & repair"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/roadsurfer/caravan-servicetechniker-leipzig-197204",
+    "source_date": "1794325232",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
+  },
+  {
+    "id": "arbeitnow-praktikum-im-customer-success-management-berlin-318884-werkia",
+    "role": "Praktikum im Customer Success Management (m/w/d)",
+    "company": "Werkia",
+    "location": "Berlin",
     "tags": [
       "customer service"
     ],
@@ -2005,49 +1717,241 @@
       "max": null,
       "currency": null
     },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/heero-motors/service-network-manager-partnernetz-heero-cloud-munich-314356",
-    "source_date": "1794245445",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/werkia/praktikum-im-customer-success-management-berlin-318884",
+    "source_date": "1794324717",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
   },
   {
-    "id": "arbeitnow-lead-homologation-engineer-eu-typgenehmigung-munich-240490-heeromoto",
-    "role": "Lead Homologation Engineer (m/w/d) – EU-Typgenehmigung",
-    "company": "HEERO Motors",
-    "location": "Munich",
+    "id": "arbeitnow-werkstudent-embedded-systems-linux-bad-salzuflen-152814-salzautom",
+    "role": "Werkstudent Embedded Systems / Linux (m/w/d)",
+    "company": "SALZ Automation GmbH",
+    "location": "Bad Salzuflen",
     "tags": [
-      "automotive engineering"
+      "embedded systems",
+      "firmware development"
     ],
     "salary": {
       "min": null,
       "max": null,
       "currency": null
     },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/heero-motors/lead-homologation-engineer-eu-typgenehmigung-munich-240490",
-    "source_date": "1794245445",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/salz-automation-gmbh/werkstudent-embedded-systems-linux-bad-salzuflen-152814",
+    "source_date": "1794324715",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
   },
   {
-    "id": "arbeitnow-lead-vehicle-cybersecurity-engineer-munich-48123-heeromoto",
-    "role": "Lead Vehicle Cybersecurity Engineer (m/w/d)",
-    "company": "HEERO Motors",
-    "location": "Munich",
+    "id": "arbeitnow-remote-senior-site-reliability-engineer-sre-berlin-319771-makersite",
+    "role": "Senior Site Reliability Engineer (SRE) m/f/x",
+    "company": "Makersite GmbH",
+    "location": "Remote job",
     "tags": [
-      "it security"
+      "technology",
+      "remote"
     ],
     "salary": {
       "min": null,
       "max": null,
       "currency": null
     },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/heero-motors/lead-vehicle-cybersecurity-engineer-munich-48123",
-    "source_date": "1794245445",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-site-reliability-engineer-sre-berlin-319771",
+    "source_date": "1794324689",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
   },
   {
-    "id": "arbeitnow-sales-managerin-vertrieb-fur-software-im-sozialen-bereich-cologne-204092-bewo-onlin",
-    "role": "Sales Manager:in / Vertrieb für Software im sozialen Bereich (m/w/d)",
-    "company": "BEWO-Online Software GmbH",
-    "location": "Cologne",
+    "id": "arbeitnow-teamleiter-vorarbeiter-bruterei-wiesenena-308649-wimex-grup",
+    "role": "Teamleiter / Vorarbeiter Brüterei (m/w/d)",
+    "company": "Wimex-Gruppe",
+    "location": "Wiesenena, Sachsen, Deutschland",
+    "tags": [
+      "cobb germany avimex gmbh"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/wimex-gruppe/teamleiter-vorarbeiter-bruterei-wiesenena-308649",
+    "source_date": "1794324682",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
+  },
+  {
+    "id": "arbeitnow-senior-sales-development-representative-german-speaking-berlin-278141-demoupcli",
+    "role": "Senior Sales Development Representative (m/f/x) - German Speaking",
+    "company": "DemoUp Cliplister",
+    "location": "Berlin, Berlin, Germany",
+    "tags": [
+      "sales"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/demoup-cliplister/senior-sales-development-representative-german-speaking-berlin-278141",
+    "source_date": "1794324680",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
+  },
+  {
+    "id": "arbeitnow-wirtschaftsinformatiker-in-bielefeld-296230-moneconsu",
+    "role": "Wirtschaftsinformatiker/in (m/w/d)",
+    "company": "MONE Consulting GmbH (Pflegekraft.de)",
+    "location": "Bielefeld, Nordrhein-Westfalen, Deutschland",
+    "tags": [
+      "business development"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/mone-consulting-gmbh-pflegekraftde/wirtschaftsinformatiker-in-bielefeld-296230",
+    "source_date": "1794324680",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
+  },
+  {
+    "id": "arbeitnow-werkstudentin-community-management-hamburg-237392-1komma5˚",
+    "role": "Werkstudent:in Community Management (m/w/d)",
+    "company": "1KOMMA5˚",
+    "location": "Hamburg",
+    "tags": [
+      "marketing and communication"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/1komma50/werkstudentin-community-management-hamburg-237392",
+    "source_date": "1794322876",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
+  },
+  {
+    "id": "arbeitnow-debitorenbuchhalter-sachbearbeiter-buchhaltung-wmd-luneburg-469326-greenfiber",
+    "role": "Debitorenbuchhalter/Sachbearbeiter Buchhaltung (w,m,d)",
+    "company": "GREENFIBER Internet & Dienste GmbH",
+    "location": "Lüneburg",
+    "tags": [
+      "finance"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/greenfiber-internet-dienste-gmbh/debitorenbuchhalter-sachbearbeiter-buchhaltung-wmd-luneburg-469326",
+    "source_date": "1794322875",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
+  },
+  {
+    "id": "arbeitnow-embedded-software-entwickler-bad-salzuflen-463051-salzautom",
+    "role": "Embedded Software Entwickler (m/w/d)",
+    "company": "SALZ Automation GmbH",
+    "location": "Bad Salzuflen",
+    "tags": [
+      "embedded systems",
+      "firmware development"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/salz-automation-gmbh/embedded-software-entwickler-bad-salzuflen-463051",
+    "source_date": "1794322873",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
+  },
+  {
+    "id": "arbeitnow-senior-geo-seo-consultant-munich-295648-digitallo",
+    "role": "Senior GEO/SEO Consultant",
+    "company": "Digital Loop GmbH",
+    "location": "Munich",
+    "tags": [
+      "remote",
+      "online marketing"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/digital-loop-gmbh/senior-geo-seo-consultant-munich-295648",
+    "source_date": "1794322873",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
+  },
+  {
+    "id": "arbeitnow-werkstudent-social-media-haselunne-259117-mintcodes",
+    "role": "Werkstudent Social Media (m/w/d)",
+    "company": "MintCode Solutions GmbH",
+    "location": "Haselünne",
+    "tags": [
+      "social media manager"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/mintcode-solutions-gmbh/werkstudent-social-media-haselunne-259117",
+    "source_date": "1794322873",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
+  },
+  {
+    "id": "arbeitnow-dynamics-365-und-power-platform-spezialist-starnberg-92007-hubside-",
+    "role": "Dynamics 365 und Power Platform Spezialist (m/w/d)",
+    "company": "hubside - Die Recruitingwerkstatt",
+    "location": "Starnberg",
+    "tags": [
+      "sap/erp consulting",
+      "development"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/hubside-die-recruitingwerkstatt/dynamics-365-und-power-platform-spezialist-starnberg-92007",
+    "source_date": "1794322873",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
+  },
+  {
+    "id": "arbeitnow-werkstudent-it-systemadministration-haselunne-444668-mintcodes",
+    "role": "Werkstudent IT-Systemadministration (m/w/d)",
+    "company": "MintCode Solutions GmbH",
+    "location": "Haselünne",
+    "tags": [
+      "system and network administration"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/mintcode-solutions-gmbh/werkstudent-it-systemadministration-haselunne-444668",
+    "source_date": "1794322873",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
+  },
+  {
+    "id": "arbeitnow-senior-systemadministrator-fokus-mcm-und-m365-munich-491110-hubside-",
+    "role": "Senior Systemadministrator (m/w/d) Fokus MCM und M365",
+    "company": "hubside - Die Recruitingwerkstatt",
+    "location": "Munich",
+    "tags": [
+      "system and network administration"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/hubside-die-recruitingwerkstatt/senior-systemadministrator-fokus-mcm-und-m365-munich-491110",
+    "source_date": "1794322872",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
+  },
+  {
+    "id": "arbeitnow-sales-manager-battery-solutions-karlstein-am-main-110200-bmzbatter",
+    "role": "Sales Manager (m/w/d) – Battery Solutions",
+    "company": "BMZ Battery Solutions GmbH",
+    "location": "Karlstein am Main",
     "tags": [
       "management",
       "team leader"
@@ -2057,15 +1961,64 @@
       "max": null,
       "currency": null
     },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/bewo-online-software-gmbh/sales-managerin-vertrieb-fur-software-im-sozialen-bereich-cologne-204092",
-    "source_date": "1794243656",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/bmz-battery-solutions-gmbh/sales-manager-battery-solutions-karlstein-am-main-110200",
+    "source_date": "1794322872",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
   },
   {
-    "id": "arbeitnow-software-developer-fokus-secure-software-development-nuremberg-122160-isentogmb",
-    "role": "Software Developer - Fokus Secure Software Development (m/w/d)",
-    "company": "isento GmbH",
-    "location": "Nuremberg",
+    "id": "arbeitnow-solutions-engineer-life-sciences-emea-munchen-370696-tulipinte",
+    "role": "Solutions Engineer - Life Sciences - EMEA",
+    "company": "Tulip Interfaces",
+    "location": "München, Bavaria, Germany",
+    "tags": [],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/tulip-interfaces/solutions-engineer-life-sciences-emea-munchen-370696",
+    "source_date": "1794321928",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
+  },
+  {
+    "id": "arbeitnow-produktionsleiterin-willingen-219866-upländerf",
+    "role": "Produktionsleiter:in (m/w/d)",
+    "company": "Upländer Feinkost GmbH",
+    "location": "Willingen",
+    "tags": [
+      "process engineering"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/uplander-feinkost-gmbh/produktionsleiterin-willingen-219866",
+    "source_date": "1794321047",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
+  },
+  {
+    "id": "arbeitnow-senior-oracle-database-administrator-oracle-12c-19c-on-azure-freelance-b2b-bonn-17381-sidekickn",
+    "role": "Senior Oracle Database Administrator (Oracle 12c/19c on Azure) – Freelance / B2B",
+    "company": "Sidekick Network GmbH & Co. KG",
+    "location": "Bonn",
+    "tags": [
+      "database administration"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/sidekick-network-gmbh-co-kg/senior-oracle-database-administrator-oracle-12c-19c-on-azure-freelance-b2b-bonn-17381",
+    "source_date": "1794321045",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
+  },
+  {
+    "id": "arbeitnow-ausbildungsplatz-zum-fachinformatiker-systemintegration-schwabisch-gmund-253490-ropagmbh",
+    "role": "Ausbildungsplatz zum Fachinformatiker – Systemintegration (m/w/d)",
+    "company": "ropa GmbH",
+    "location": "Schwäbisch Gmünd",
     "tags": [
       "software development"
     ],
@@ -2074,15 +2027,83 @@
       "max": null,
       "currency": null
     },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/isento-gmbh/software-developer-fokus-secure-software-development-nuremberg-122160",
-    "source_date": "1794241868",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/ropa-gmbh/ausbildungsplatz-zum-fachinformatiker-systemintegration-schwabisch-gmund-253490",
+    "source_date": "1794321045",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
   },
   {
-    "id": "arbeitnow-software-developer-schwerpunkt-angular-nuremberg-300148-isentogmb",
-    "role": "Software Developer (m/w/d) - Schwerpunkt Angular",
-    "company": "isento GmbH",
-    "location": "Nuremberg",
+    "id": "arbeitnow-freelance-senior-social-media-strategist-hamburg-8850-brandupgr",
+    "role": "Freelance Senior Social Media Strategist (m/w/d)",
+    "company": "Brand Upgrade GmbH",
+    "location": "Hamburg",
+    "tags": [
+      "social media manager"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/brand-upgrade-gmbh/freelance-senior-social-media-strategist-hamburg-8850",
+    "source_date": "1794321044",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
+  },
+  {
+    "id": "arbeitnow-junior-it-systemadministrator-haselunne-223328-mintcodes",
+    "role": "(Junior-) IT-Systemadministrator (m/w/d)",
+    "company": "MintCode Solutions GmbH",
+    "location": "Haselünne",
+    "tags": [
+      "system and network administration"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/mintcode-solutions-gmbh/junior-it-systemadministrator-haselunne-223328",
+    "source_date": "1794319277",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
+  },
+  {
+    "id": "arbeitnow-system-engineer-it-monitoring-infrastrukturbetrieb-berlin-386304-citemagro",
+    "role": "System Engineer (m/w/d) – IT-Monitoring & Infrastrukturbetrieb",
+    "company": "citema group GmbH",
+    "location": "Berlin",
+    "tags": [
+      "system and network administration"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/citema-group-gmbh/system-engineer-it-monitoring-infrastrukturbetrieb-berlin-386304",
+    "source_date": "1794319277",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
+  },
+  {
+    "id": "arbeitnow-energie-ingenieur-vollzeit-bornheim-2379-fußhöller",
+    "role": "Energie-Ingenieur (m/w/d) | Vollzeit",
+    "company": "Fußhöller Energieingenieure GmbH",
+    "location": "Bornheim",
+    "tags": [
+      "power engineering and environmental engineering"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/fussholler-energieingenieure-gmbh/energie-ingenieur-vollzeit-bornheim-2379",
+    "source_date": "1794319276",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
+  },
+  {
+    "id": "arbeitnow-fachberater-fur-radiologie-implementierung-mannheim-37232-edl",
+    "role": "Fachberater für Radiologie Implementierung",
+    "company": "Edl",
+    "location": "Mannheim",
     "tags": [
       "software development"
     ],
@@ -2091,66 +2112,49 @@
       "max": null,
       "currency": null
     },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/isento-gmbh/software-developer-schwerpunkt-angular-nuremberg-300148",
-    "source_date": "1794241868",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/edl/fachberater-fur-radiologie-implementierung-mannheim-37232",
+    "source_date": "1794317467",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
   },
   {
-    "id": "arbeitnow-fullstack-software-developer-java-angular-nuremberg-141448-isentogmb",
-    "role": "Fullstack Software Developer (m/w/d) – Java, Angular",
-    "company": "isento GmbH",
-    "location": "Nuremberg",
+    "id": "arbeitnow-bid-tender-lead-energieinfrastruktur-100-region-aargau-erlangen-293265-concape",
+    "role": "Bid / Tender Lead Energieinfrastruktur (m/w/d) | 100% | Region Aargau",
+    "company": "CONCAPE",
+    "location": "Erlangen",
     "tags": [
-      "web development"
+      "business development"
     ],
     "salary": {
       "min": null,
       "max": null,
       "currency": null
     },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/isento-gmbh/fullstack-software-developer-java-angular-nuremberg-141448",
-    "source_date": "1794241868",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/concape/bid-tender-lead-energieinfrastruktur-100-region-aargau-erlangen-293265",
+    "source_date": "1794317467",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
   },
   {
-    "id": "arbeitnow-senior-software-developer-fullstack-java-angular-nuremberg-257473-isentogmb",
-    "role": "Senior Software Developer – Fullstack Java & Angular (m/w/d)",
-    "company": "isento GmbH",
-    "location": "Nuremberg",
+    "id": "arbeitnow-bid-tender-lead-energieinfrastruktur-100-region-aargau-freiburg-im-breisgau-53154-concape",
+    "role": "Bid / Tender Lead Energieinfrastruktur (m/w/d) | 100% | Region Aargau",
+    "company": "CONCAPE",
+    "location": "Freiburg im Breisgau",
     "tags": [
-      "software development"
+      "business development"
     ],
     "salary": {
       "min": null,
       "max": null,
       "currency": null
     },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/isento-gmbh/senior-software-developer-fullstack-java-angular-nuremberg-257473",
-    "source_date": "1794241868",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/concape/bid-tender-lead-energieinfrastruktur-100-region-aargau-freiburg-im-breisgau-53154",
+    "source_date": "1794317467",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
   },
   {
-    "id": "arbeitnow-key-account-manager-industrieabwasser-wasseraufbereitung-munich-208066-petersund",
-    "role": "Key Account Manager (m/w/d) Industrieabwasser & Wasseraufbereitung",
-    "company": "Peters und Partner",
-    "location": "Munich",
-    "tags": [
-      "sales engineer"
-    ],
-    "salary": {
-      "min": null,
-      "max": null,
-      "currency": null
-    },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/peters-und-partner/key-account-manager-industrieabwasser-wasseraufbereitung-munich-208066",
-    "source_date": "1794241868",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
-  },
-  {
-    "id": "arbeitnow-quality-engineer-hildesheim-16538-autogyrog",
-    "role": "Quality Engineer (m/w/d)",
-    "company": "AutoGyro GmbH",
-    "location": "Hildesheim",
+    "id": "arbeitnow-qualitatsmanagerin-projekte-lebensmittel-region-rheintal-osterreich-memmingen-435928-concape",
+    "role": "Qualitätsmanager:in Projekte Lebensmittel (m/w/d) | Region Rheintal, Österreich",
+    "company": "CONCAPE",
+    "location": "Memmingen",
     "tags": [
       "quality management"
     ],
@@ -2159,8 +2163,25 @@
       "max": null,
       "currency": null
     },
-    "apply_url": "https://www.arbeitnow.com/jobs/companies/autogyro-gmbh/quality-engineer-hildesheim-16538",
-    "source_date": "1794241866",
-    "ingested_at": "2026-11-10T05:59:54.138795+00:00"
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/concape/qualitatsmanagerin-projekte-lebensmittel-region-rheintal-osterreich-memmingen-435928",
+    "source_date": "1794317467",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
+  },
+  {
+    "id": "arbeitnow-qualitatsmanagerin-projekte-lebensmittel-region-rheintal-osterreich-kempten-288049-concape",
+    "role": "Qualitätsmanager:in Projekte Lebensmittel (m/w/d) | Region Rheintal, Österreich",
+    "company": "CONCAPE",
+    "location": "Kempten",
+    "tags": [
+      "quality management"
+    ],
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null
+    },
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/concape/qualitatsmanagerin-projekte-lebensmittel-region-rheintal-osterreich-kempten-288049",
+    "source_date": "1794317467",
+    "ingested_at": "2026-11-10T19:20:45.347389+00:00"
   }
 ]
